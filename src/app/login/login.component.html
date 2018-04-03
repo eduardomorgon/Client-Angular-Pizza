@@ -1,0 +1,44 @@
+<div class="container">
+    <br/>
+    <div class="col-md-4 offset-md-4">
+        <div class="panel panel-info">
+            <div class="panel-heading text-center">
+                <h1 class="panel-title">Login</h1>
+            </div>
+            <form class="form-signin" method="post" (submit)="logar($event)">
+                <div class="form-group">
+                    <label for="text" class="col-form-label">Usuário</label>
+                    <input type="text" 
+                           class="form-control" 
+                           maxlength="25" 
+                           autofocus="true" 
+                           [(ngModel)]="login.username"
+                           id="username" name="username" placeholder="Usuário"
+                    />
+                </div>
+                <div class="form-group">
+                    <label for="text" class="col-form-label">Senha</label>
+                    <input type="password" 
+                           class="form-control"  
+                           [(ngModel)]="login.password"
+                           id="password" name="password" placeholder="Senha" />
+                </div>
+                <div class="checkbox">
+                    <label>
+                        <input type="checkbox" name="remember-me" /> Lembrar-me
+                    </label>
+                </div>
+                <!-- <div th:if="${param.error}" class="alert alert-danger text-center" role="alert">
+                            <span>Usuário ou senha inválidos!</span>
+                        </div>
+                        <div th:if="${param.logout}" class="alert alert-info text-center" role="alert">
+                            <span>Você foi desconectado!</span>
+                        </div>
+                        <div th:if="${param.disabled}" class="alert alert-danger text-center" role="alert">
+                            <span>Usuário bloqueado!</span>
+                        </div> -->
+                <button class="btn btn-lg btn-primary btn-block" type="submit">Entrar</button>
+            </form>
+        </div>
+    </div>
+</div>
