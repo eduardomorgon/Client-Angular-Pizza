@@ -1,7 +1,9 @@
-import { Component, OnInit, Input } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
-import { Login } from './login.model';
+import { LoginModel } from './login.model';
 import { LoginService } from './login.service';
+import { ErroModel } from '../model/erro.model';
+import { AuthService } from '../auth/auth.service';
 
 
 @Component({
@@ -11,36 +13,31 @@ import { LoginService } from './login.service';
 })
 export class LoginComponent implements OnInit {
 
-  login: Login = new Login();
-  service: LoginService;
-  router: Router;
-
-  constructor(service: LoginService, router: Router) { 
-    this.service = service;
-    this.router = router;
+  login = new LoginModel();
+  erro: ErroModel;
+  
+  constructor(private service: LoginService, 
+              private router: Router,
+              private auth: AuthService) { 
+    
   }
 
   ngOnInit() {
   }
 
   public logar(event): void {
+
     event.preventDefault();
-    console.log(this.login); 
     this.service.login(this.login)
-    .subscribe(res => {
-      let token = res.headers.get('Authorization');
-      if(!token) {
-        console.log('redirecionar para login com erro');
+      .subscribe(res => {
+        let token = res.headers.get('Authorization');
+        this.auth.addToken(token);
+        this.router.navigate(['/borda']);
+      },
+      erro => {
+        this.erro = new ErroModel('Login não Autorizado', 'Usuário ou senha inválidos!');
       }
-      localStorage.setItem('token', token);
-      this.router.navigate(['/borda']);
-    },
-    erro => {
-      console.log(erro.status)
-      // let bodyErro = JSON.parse(erro._body);
-      // console.log(bodyErro)
-    });
-    ;
+      );
   }
 
 }

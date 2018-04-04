@@ -23,10 +23,13 @@
                            [(ngModel)]="login.password"
                            id="password" name="password" placeholder="Senha" />
                 </div>
-                <div class="checkbox">
+                <!-- <div class="checkbox">
                     <label>
                         <input type="checkbox" name="remember-me" /> Lembrar-me
                     </label>
+                </div> -->
+                <div *ngIf="erro" class="alert alert-danger text-center" role="alert">
+                    <span>{{erro.descricao}}</span>
                 </div>
                 <!-- <div th:if="${param.error}" class="alert alert-danger text-center" role="alert">
                             <span>Usuário ou senha inválidos!</span>
