@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { BordaService } from '../borda.service';
+import { Borda } from '../borda.model';
 
 @Component({
   selector: 'app-lista',
@@ -7,9 +9,14 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ListaComponent implements OnInit {
 
-  constructor() { }
+  public bordas: Borda[];
+  
+  constructor(private bordaService: BordaService) { }
 
-  ngOnInit() {
+  public ngOnInit(): void {
+
+    this.bordaService.listar()
+      .subscribe(bordas => this.bordas = bordas);
   }
 
 }

@@ -8,29 +8,38 @@ import 'rxjs/add/operator/map';
 
 import { AppComponent } from './app.component';
 import { ListaComponent } from './borda/lista/lista.component';
-import { routing } from './app.routes';
+// import { routing } from './app.routes';
 import { LoginComponent } from './login/login.component';
 import { LoginService } from './login/login.service';
 import { AuthService } from './auth/auth.service';
+import { BordaService } from './borda/borda.service';
 import { AuthInterceptor } from './auth/auth.interceptor';
 import { AuthGuard } from './auth/auth.guard';
+import { HomeComponent } from './home/home.component';
+import { MenuModule } from './menu/menu.module';
+import { AppRoutingModule } from './app-routing.module';
+
 
 
 @NgModule({
   declarations: [
     AppComponent,
     ListaComponent,
-    LoginComponent
+    LoginComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,
     FormsModule,
     HttpClientModule,
-    routing
+    MenuModule,
+    AppRoutingModule
+    
   ],
   providers: [LoginService, 
               AuthGuard,
               AuthService,
+              BordaService,
               { 
                 provide: HTTP_INTERCEPTORS, 
                 useClass: AuthInterceptor, 

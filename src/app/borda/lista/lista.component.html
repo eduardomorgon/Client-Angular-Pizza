@@ -1,3 +1,20 @@
-<p>
-  lista works!
-</p>
+<div class="table-responsive">
+  <table class="table table-bordered table-hover">
+    <thead class="thead-dark">
+      <tr class="text-center">
+        <th scope="col">#</th>
+        <th scope="col">Nome</th>
+        <th scope="col">Descrição</th>
+        <th scope="col" class="">Ação</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let borda of bordas">
+        <td>{{borda.id}}</td>
+        <td>{{borda.nome}}</td>
+        <td>{{borda.descricao}}</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</div>

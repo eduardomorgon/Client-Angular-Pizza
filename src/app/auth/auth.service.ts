@@ -35,4 +35,10 @@ export class AuthService {
     return this.jwtHelper.isTokenExpired(this.getToken());
   }
 
+  public isLogado() :boolean {
+
+    return !this.isExpirado() && this.getToken() !== null;
+  }
+
+
 }
