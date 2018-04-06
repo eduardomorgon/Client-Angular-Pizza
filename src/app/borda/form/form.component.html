@@ -1,0 +1,17 @@
+<form (submit)="salvar($event)">
+  {{borda | json}}
+  <div class="form-group">
+    <label for="nome">Nome</label>
+    <input type="text" class="form-control" 
+           [(ngModel)]="borda.nome" name="nome"
+           id="nome" placeholder="Nome da borda">
+  </div>
+  <div class="form-group">
+    <label for="descricao">Email address</label>
+    <input type="text" class="form-control" 
+           [(ngModel)]="borda.descricao" name="descricao"
+           id="descricao" placeholder="Descrição da borda">
+  </div>
+  <button type="submit" class="btn btn-success">Salvar</button>
+  <a class="btn btn-dark" [routerLink]="['/borda']">Voltar</a>
+</form>

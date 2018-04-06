@@ -1,9 +1,9 @@
 export class Borda {
 
    
-    constructor(public id: number,
-                public nome: string,
-                public descricao: string ) { }
+    constructor(public id?: number,
+                public nome?: string,
+                public descricao?: string ) { }
     
     // get id() :number {
         

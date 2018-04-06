@@ -1,3 +1,11 @@
+<div class="row">
+  <div class="col-md-4">
+      <a class="btn btn-primary" [routerLink]='["/borda/novo"]' [routerLinkActive]="['active']">
+        Nova Borda
+      </a>
+  </div>
+</div>
+<br/>
 <div class="table-responsive">
   <table class="table table-bordered table-hover">
     <thead class="thead-dark">
@@ -5,7 +13,7 @@
         <th scope="col">#</th>
         <th scope="col">Nome</th>
         <th scope="col">Descrição</th>
-        <th scope="col" class="">Ação</th>
+        <th scope="col" >Ação</th>
       </tr>
     </thead>
     <tbody>
@@ -13,7 +21,14 @@
         <td>{{borda.id}}</td>
         <td>{{borda.nome}}</td>
         <td>{{borda.descricao}}</td>
-        <td></td>
+        <td class="text-center">
+            <a class="btn btn-primary" [routerLink]="['/borda', borda.id]">
+              Editar
+            </a>
+            <button class="btn btn-danger" (click)="excluir(borda)" >
+              Excluir
+            </button>
+        </td>
       </tr>
     </tbody>
   </table>

@@ -18,6 +18,7 @@ import { AuthGuard } from './auth/auth.guard';
 import { HomeComponent } from './home/home.component';
 import { MenuModule } from './menu/menu.module';
 import { AppRoutingModule } from './app-routing.module';
+import { FormComponent } from './borda/form/form.component';
 
 
 
@@ -26,7 +27,8 @@ import { AppRoutingModule } from './app-routing.module';
     AppComponent,
     ListaComponent,
     LoginComponent,
-    HomeComponent
+    HomeComponent,
+    FormComponent
   ],
   imports: [
     BrowserModule,

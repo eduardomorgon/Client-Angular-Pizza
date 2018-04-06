@@ -4,6 +4,7 @@ import { AuthGuard } from './auth/auth.guard';
 import { LoginComponent } from './login/login.component';
 import { ListaComponent } from './borda/lista/lista.component';
 import { HomeComponent } from './home/home.component';
+import { FormComponent } from './borda/form/form.component';
 // import { Error404Component } from './pages/error404/error404.component';
 
 
@@ -30,7 +31,17 @@ const appRoutes: Routes = [
         canActivate: [AuthGuard], 
         data: { 
             expectedRole: 'admin'}
-        },
+    },
+    {
+        path: 'borda/novo', 
+        component: FormComponent, 
+        canActivate: [AuthGuard]
+    },
+    {
+        path: 'borda/:id', 
+        component: FormComponent, 
+        canActivate: [AuthGuard]
+    },
     {
         path:'**', 
         redirectTo: '', 
