@@ -1,16 +1,24 @@
-<form (submit)="salvar($event)">
+<form (submit)="salvar($event)" class="needs-validation" [formGroup]="bordaForm">
   {{borda | json}}
-  <div class="form-group">
+  <div class="form-group" >
     <label for="nome">Nome</label>
-    <input type="text" class="form-control" 
-           [(ngModel)]="borda.nome" name="nome"
-           id="nome" placeholder="Nome da borda">
+    <input type="text" class="form-control"  
+           [ngClass]="displayFieldCss('nome')"
+           formControlName="nome" name="nome"
+           id="nome" placeholder="Nome da borda"/>
+    <div *ngIf="isFieldValid('nome')" class="invalid-feedback ">
+      Nome é obrigatorio. 
+    </div>
   </div>
   <div class="form-group">
-    <label for="descricao">Email address</label>
+    <label for="descricao">Descrição</label>
     <input type="text" class="form-control" 
-           [(ngModel)]="borda.descricao" name="descricao"
+           [ngClass]="displayFieldCss('descricao')"
+           formControlName="descricao" name="descricao"
            id="descricao" placeholder="Descrição da borda">
+      <div *ngIf="isFieldValid('descricao')" class="invalid-feedback ">
+        Descrição é obrigatorio. 
+      </div>
   </div>
   <button type="submit" class="btn btn-success">Salvar</button>
   <a class="btn btn-dark" [routerLink]="['/borda']">Voltar</a>
