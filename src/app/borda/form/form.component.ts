@@ -3,6 +3,7 @@ import { ActivatedRoute, Router } from '@angular/router';
 import { Borda } from '../borda.model';
 import { BordaService } from '../borda.service';
 import { FormGroup, FormBuilder, Validators } from '@angular/forms';
+import { HttpErrorResponse } from '@angular/common/http';
 
 @Component({
   selector: 'app-form',
@@ -71,16 +72,19 @@ export class FormComponent implements OnInit {
         this.service.salvar(borda)
           .subscribe(res => {
             if(res.status === 201) {
-              this.router.navigate(['borda']);
+              this.router.navigate(['bordas']);
             }
-          }, erro => {
-            console.log(erro);
+          }, (erro: HttpErrorResponse) => {
+            erro.error.errors.forEach(e => {
+              console.log(e.campo);
+              console.log(e.mensagem);
+            })
           });
       }else{
         this.service.editar(borda)
           .subscribe(res => {
             if(res.status === 204) {
-              this.router.navigate(['borda']);
+              this.router.navigate(['bordas']);
             }
           }, erro => {
             console.log(erro);

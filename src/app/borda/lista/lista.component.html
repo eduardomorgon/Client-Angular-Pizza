@@ -1,6 +1,6 @@
 <div class="row">
   <div class="col-md-4">
-      <a class="btn btn-primary" [routerLink]='["/borda/novo"]' [routerLinkActive]="['active']">
+      <a class="btn btn-primary" [routerLink]='["/bordas/novo"]' [routerLinkActive]="['active']">
         Nova Borda
       </a>
   </div>
@@ -22,7 +22,7 @@
         <td>{{borda.nome}}</td>
         <td>{{borda.descricao}}</td>
         <td class="text-center">
-            <a class="btn btn-primary" [routerLink]="['/borda', borda.id]">
+            <a class="btn btn-primary" [routerLink]="['/bordas', borda.id]">
               Editar
             </a>
             <button class="btn btn-danger" (click)="excluir(borda)" >

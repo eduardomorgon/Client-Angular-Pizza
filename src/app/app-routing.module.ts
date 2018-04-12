@@ -2,9 +2,7 @@ import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { AuthGuard } from './auth/auth.guard';
 import { LoginComponent } from './login/login.component';
-import { ListaComponent } from './borda/lista/lista.component';
-import { HomeComponent } from './home/home.component';
-import { FormComponent } from './borda/form/form.component';
+
 // import { Error404Component } from './pages/error404/error404.component';
 
 
@@ -19,40 +17,27 @@ import { FormComponent } from './borda/form/form.component';
 // ];
 const appRoutes: Routes = [
 
-    {path:'', redirectTo: 'home', pathMatch: 'full'},
-    {path:'home', component: HomeComponent, canActivate: [AuthGuard]},
     {
         path:'login', 
         component: LoginComponent
     },
     {
-        path:'borda', 
-        component: ListaComponent, 
-        canActivate: [AuthGuard], 
-        data: { 
-            expectedRole: 'admin'}
-    },
-    {
-        path: 'borda/novo', 
-        component: FormComponent, 
+        path:'bordas', 
+        loadChildren: 'app/borda/borda.module#BordaModule',
         canActivate: [AuthGuard]
     },
     {
-        path: 'borda/:id', 
-        component: FormComponent, 
+        path:'home', 
+        loadChildren: 'app/home/home.module#HomeModule', 
         canActivate: [AuthGuard]
     },
-    {
-        path:'**', 
-        redirectTo: '', 
-        canActivate: [AuthGuard]
-    }
+    
 ];
 
 
 @NgModule({
   exports: [RouterModule],
-  imports: [RouterModule.forRoot(appRoutes)],
+  imports: [RouterModule.forRoot(appRoutes)]
 })
 
 export class AppRoutingModule { }
