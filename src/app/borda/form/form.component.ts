@@ -56,6 +56,7 @@ export class FormComponent implements OnInit {
   }
 
   public salvar(event: Event): void {
+    
     // https://getmdl.io/ material design google
     // https://github.com/loiane/angular-reactive-forms-validate-submit/blob/master/src/app/validate-fields-submit-form/validate-fields-submit-form.component.ts
     event.preventDefault();
@@ -91,11 +92,11 @@ export class FormComponent implements OnInit {
           });
       }
     }else{
-      this.disparaValidacao();
+      this.dispararValidacoes();
     }
   }
 
-  private disparaValidacao(): void {
+  private dispararValidacoes(): void {
 
     Object.keys(this.bordaForm.controls).forEach(field => {
       const control = this.bordaForm.get(field);

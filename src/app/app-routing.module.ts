@@ -24,7 +24,8 @@ const appRoutes: Routes = [
     {
         path:'bordas', 
         loadChildren: 'app/borda/borda.module#BordaModule',
-        canActivate: [AuthGuard]
+        canLoad: [AuthGuard]
+        
     },
     {
         path:'home', 
