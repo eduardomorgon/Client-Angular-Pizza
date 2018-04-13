@@ -1,11 +1,14 @@
-import { Injectable } from '@angular/core';
+import { Injectable, EventEmitter } from '@angular/core';
 import { JwtHelperService } from '@auth0/angular-jwt';
+
 
 
 @Injectable()
 export class AuthService {
 
   private jwtHelper: JwtHelperService;
+  eventNav = new EventEmitter<boolean>();
+
   constructor() { 
     this.jwtHelper = new JwtHelperService();
   }
@@ -18,11 +21,13 @@ export class AuthService {
   public addToken(token: string) :void {
 
     localStorage.setItem('token', token.split(' ')[1]);
+    this.eventNav.emit(true);
   }
 
   public removeToken() :void {
     
     localStorage.removeItem('token');
+    this.eventNav.emit(false);
   }
 
   public decodificar() :any {

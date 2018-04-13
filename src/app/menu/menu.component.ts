@@ -10,11 +10,13 @@ import { Router } from '@angular/router';
 export class MenuComponent implements OnInit {
 
   collapse: boolean = true;
+  mostrarNav: boolean = false;
 
   constructor(public auth: AuthService,
-              private router: Router,) { }
+              private router: Router) { }
 
   ngOnInit() {
+    this.mostrarNav = this.auth.eventNav.subscribe(nav => this.mostrarNav = nav);
   }
 
   public logout(): void {
