@@ -4,38 +4,35 @@ import { AuthGuard } from '../auth/auth.guard';
 import { ListaComponent } from './lista/lista.component';
 import { FormComponent } from './form/form.component';
 
-const appRoutes: Routes = [
+const bordasRoutes: Routes = [
 
    
     {
         path:'', 
         component: ListaComponent, 
-        // canActivate: [AuthGuard], 
-        data: { 
-            expectedRole: 'admin'}
-    }
-    ,
+        data: 
+            { 
+                expectedRole: 'admin'
+            }, 
+        children: [
+            // renderizar o component junto com o pai
+        ]
+    },
     {
         path: 'novo', 
-        component: FormComponent, 
-        // canActivate: [AuthGuard]
+        component: FormComponent
     },
     {
         path: ':id', 
         component: FormComponent, 
-        // canActivate: [AuthGuard]
-    },
-    // {
-    //     path:'**', 
-    //     redirectTo: '', 
-    //     canActivate: [AuthGuard]
-    // }
+    }
+    
 ];
 
 
 @NgModule({
-    imports: [RouterModule.forChild(appRoutes)],
+    imports: [RouterModule.forChild(bordasRoutes)],
     exports: [RouterModule]
 })
 
-export class BordaRouting { }
+export class BordasRouting { }

@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
 import { Borda } from '../borda.model';
-import { BordaService } from '../borda.service';
+import { BordasService } from '../bordas.service';
 import { FormGroup, FormBuilder, Validators } from '@angular/forms';
 import { HttpErrorResponse } from '@angular/common/http';
 
@@ -15,7 +15,7 @@ export class FormComponent implements OnInit {
   bordaForm: FormGroup;
 
   constructor(private route: ActivatedRoute, 
-              private service: BordaService,
+              private service: BordasService,
               private router: Router,
               private formBuilder: FormBuilder) { 
   }

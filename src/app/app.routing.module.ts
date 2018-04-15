@@ -23,16 +23,14 @@ const appRoutes: Routes = [
     },
     {
         path:'bordas', 
-        loadChildren: 'app/borda/borda.module#BordaModule',
+        loadChildren: 'app/bordas/bordas.module#BordasModule',
         canLoad: [AuthGuard]
-        
     },
     {
         path:'home', 
         loadChildren: 'app/home/home.module#HomeModule', 
         canActivate: [AuthGuard]
     },
-    
 ];
 
 

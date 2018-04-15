@@ -5,7 +5,7 @@ import { Observable } from 'rxjs/Observable';
 
 
 @Injectable()
-export class BordaService {
+export class BordasService {
 
   url: string = 'http://localhost:8080/api/bordas/';
   headers: HttpHeaders;

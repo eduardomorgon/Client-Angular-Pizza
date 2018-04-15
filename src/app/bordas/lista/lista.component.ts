@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { BordaService } from '../borda.service';
+import { BordasService } from '../bordas.service';
 import { Borda } from '../borda.model';
 
 @Component({
@@ -11,7 +11,7 @@ export class ListaComponent implements OnInit {
 
   public bordas: Borda[];
   
-  constructor(private bordaService: BordaService) { }
+  constructor(private bordaService: BordasService) { }
 
   public ngOnInit(): void {
 

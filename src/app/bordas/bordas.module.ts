@@ -1,9 +1,9 @@
 import { NgModule } from "@angular/core";
-import { BordaRouting } from "./borda.routing.module";
+import { BordasRouting } from "./bordas.routing.module";
 import { ReactiveFormsModule, FormsModule } from "@angular/forms";
 import { HttpClientModule, HTTP_INTERCEPTORS } from "@angular/common/http";
 import { AuthInterceptor } from "../auth/auth.interceptor";
-import { BordaService } from "./borda.service";
+import { BordasService } from "./bordas.service";
 import { ListaComponent } from "./lista/lista.component";
 import { FormComponent } from "./form/form.component";
 import { CommonModule } from "@angular/common";
@@ -15,7 +15,7 @@ import { CommonModule } from "@angular/common";
         FormsModule,
         HttpClientModule,
         ReactiveFormsModule,
-        BordaRouting
+        BordasRouting
     ],
     declarations: [
       ListaComponent,
@@ -26,7 +26,7 @@ import { CommonModule } from "@angular/common";
         FormComponent
     ],
     providers: [
-                BordaService,
+                BordasService,
                 { 
                   provide: HTTP_INTERCEPTORS, 
                   useClass: AuthInterceptor, 
@@ -34,4 +34,4 @@ import { CommonModule } from "@angular/common";
                 } 
                 ]
   })
-  export class BordaModule { }
+  export class BordasModule { }
