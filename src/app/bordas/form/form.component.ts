@@ -23,16 +23,22 @@ export class FormComponent implements OnInit {
   ngOnInit() {
 
     this.configuraValidacao();
-    
-    this.route.params.subscribe(params => {
-      let id = params['id'];
-      if(id) {
-        this.service.buscarPor(id)
-          .subscribe(borda => {
-            this.bordaForm.setValue(borda);
-          });
-      }
+
+    this.route.data.subscribe(data => {
+      let borda: Borda = data.borda;
+      if(borda)
+        this.bordaForm.setValue(borda)
     });
+    
+    // this.route.params.subscribe(params => {
+    //   let id = params['id'];
+    //   if(id) {
+    //     this.service.buscarPor(id)
+    //       .subscribe(borda => {
+    //         this.bordaForm.setValue(borda);
+    //       });
+    //   }
+    // });
   }
 
   private configuraValidacao(): void {

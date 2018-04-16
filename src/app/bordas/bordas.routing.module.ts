@@ -3,6 +3,7 @@ import { RouterModule, Routes } from '@angular/router';
 import { AuthGuard } from '../auth/auth.guard';
 import { ListaComponent } from './lista/lista.component';
 import { FormComponent } from './form/form.component';
+import { BordasResolve } from './bordas.resolve.guard';
 
 const bordasRoutes: Routes = [
 
@@ -25,6 +26,7 @@ const bordasRoutes: Routes = [
     {
         path: ':id', 
         component: FormComponent, 
+        resolve: {borda: BordasResolve}
     }
     
 ];

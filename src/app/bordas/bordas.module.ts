@@ -7,6 +7,7 @@ import { BordasService } from "./bordas.service";
 import { ListaComponent } from "./lista/lista.component";
 import { FormComponent } from "./form/form.component";
 import { CommonModule } from "@angular/common";
+import { BordasResolve } from "./bordas.resolve.guard";
 
 
 @NgModule({
@@ -31,7 +32,8 @@ import { CommonModule } from "@angular/common";
                   provide: HTTP_INTERCEPTORS, 
                   useClass: AuthInterceptor, 
                   multi: true 
-                } 
+                },
+                BordasResolve 
                 ]
   })
   export class BordasModule { }
