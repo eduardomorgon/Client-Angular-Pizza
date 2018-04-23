@@ -65,7 +65,7 @@ export class FormComponent implements OnInit {
     
     // https://getmdl.io/ material design google
     // https://github.com/loiane/angular-reactive-forms-validate-submit/blob/master/src/app/validate-fields-submit-form/validate-fields-submit-form.component.ts
-    event.preventDefault();
+    // event.preventDefault();
     // let b: Borda;
     // this.bordaForm.valueChanges
     //     .map(borda => borda)

@@ -8,6 +8,7 @@ import { ListaComponent } from "./lista/lista.component";
 import { FormComponent } from "./form/form.component";
 import { CommonModule } from "@angular/common";
 import { BordasResolve } from "./bordas.resolve.guard";
+import { ModalModule } from "ngx-bootstrap/modal/modal.module";
 
 
 @NgModule({
@@ -16,7 +17,8 @@ import { BordasResolve } from "./bordas.resolve.guard";
         FormsModule,
         HttpClientModule,
         ReactiveFormsModule,
-        BordasRouting
+        BordasRouting,
+        ModalModule.forRoot()
     ],
     declarations: [
       ListaComponent,
