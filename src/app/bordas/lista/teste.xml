@@ -1,0 +1,2344 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ListaDeclaracoes>
+    <declaracaoImportacao>
+        <adicao>
+            <cideValorAliquotaEspecifica>00000000000</cideValorAliquotaEspecifica>
+            <cideValorDevido>000000000000000</cideValorDevido>
+            <cideValorRecolher>000000000000000</cideValorRecolher>
+            <codigoRelacaoCompradorVendedor>2</codigoRelacaoCompradorVendedor>
+            <codigoVinculoCompradorVendedor>2</codigoVinculoCompradorVendedor>
+            <cofinsAliquotaAdValorem>01065</cofinsAliquotaAdValorem>
+            <cofinsAliquotaEspecificaQuantidadeUnidade>000000000</cofinsAliquotaEspecificaQuantidadeUnidade>
+            <cofinsAliquotaEspecificaValor>0000000000</cofinsAliquotaEspecificaValor>
+            <cofinsAliquotaReduzida>00100</cofinsAliquotaReduzida>
+            <cofinsAliquotaValorDevido>000000000027939</cofinsAliquotaValorDevido>
+            <cofinsAliquotaValorRecolher>000000000027939</cofinsAliquotaValorRecolher>
+            <condicaoVendaIncoterm>FCA</condicaoVendaIncoterm>
+            <condicaoVendaLocal>SAO PAULO - SP</condicaoVendaLocal>
+            <condicaoVendaMetodoValoracaoCodigo>01</condicaoVendaMetodoValoracaoCodigo>
+            <condicaoVendaMetodoValoracaoNome>METODO 1 - ART. 1 DO ACORDO (DECRETO 92930/86)</condicaoVendaMetodoValoracaoNome>
+            <condicaoVendaMoedaCodigo>220</condicaoVendaMoedaCodigo>
+            <condicaoVendaMoedaNome>DOLAR DOS EUA</condicaoVendaMoedaNome>
+            <condicaoVendaValorMoeda>000000000584000</condicaoVendaValorMoeda>
+            <condicaoVendaValorReais>000000001918965</condicaoVendaValorReais>
+            <dadosCambiaisCoberturaCambialCodigo>1</dadosCambiaisCoberturaCambialCodigo>
+            <dadosCambiaisCoberturaCambialNome>COM COBERTURA CAMBIAL E PAGAMENTO FINAL A PRAZO DE ATE' 180</dadosCambiaisCoberturaCambialNome>
+            <dadosCambiaisInstituicaoFinanciadoraCodigo>00</dadosCambiaisInstituicaoFinanciadoraCodigo>
+            <dadosCambiaisInstituicaoFinanciadoraNome>N/I</dadosCambiaisInstituicaoFinanciadoraNome>
+            <dadosCambiaisMotivoSemCoberturaCodigo>00</dadosCambiaisMotivoSemCoberturaCodigo>
+            <dadosCambiaisMotivoSemCoberturaNome>N/I</dadosCambiaisMotivoSemCoberturaNome>
+            <dadosCambiaisValorRealCambio>000000000000000</dadosCambiaisValorRealCambio>
+            <dadosCargaPaisProcedenciaCodigo>000</dadosCargaPaisProcedenciaCodigo>
+            <dadosCargaUrfEntradaCodigo>0000000</dadosCargaUrfEntradaCodigo>
+            <dadosCargaViaTransporteCodigo>00</dadosCargaViaTransporteCodigo>
+            <dadosMercadoriaAplicacao>REVENDA</dadosMercadoriaAplicacao>
+            <dadosMercadoriaCodigoNaladiNCCA>0000000</dadosMercadoriaCodigoNaladiNCCA>
+            <dadosMercadoriaCodigoNaladiSH>00000000</dadosMercadoriaCodigoNaladiSH>
+            <dadosMercadoriaCodigoNcm>40113000</dadosMercadoriaCodigoNcm>
+            <dadosMercadoriaCondicao>NOVA</dadosMercadoriaCondicao>
+            <dadosMercadoriaMedidaEstatisticaQuantidade>00000000400000</dadosMercadoriaMedidaEstatisticaQuantidade>
+            <dadosMercadoriaMedidaEstatisticaUnidade>UNIDADE</dadosMercadoriaMedidaEstatisticaUnidade>
+            <dadosMercadoriaNomeNcm>- Do tipo utilizado em veículos aéreos</dadosMercadoriaNomeNcm>
+            <dadosMercadoriaPesoLiquido>000000004100000</dadosMercadoriaPesoLiquido>
+            <dcrCoeficienteReducao>00000</dcrCoeficienteReducao>
+            <dcrIdentificacao>00000000</dcrIdentificacao>
+            <dcrValorDevido>000000000000000</dcrValorDevido>
+            <dcrValorDolar>000000000000000</dcrValorDolar>
+            <dcrValorReal>000000000000000</dcrValorReal>
+            <dcrValorRecolher>000000000000000</dcrValorRecolher>
+            <fabricanteCidade>CLERMOND</fabricanteCidade>
+            <fabricanteComplemento>63040</fabricanteComplemento>
+            <fabricanteEstado>FD</fabricanteEstado>
+            <fabricanteLogradouro>PLACE DES CARMES-DECHAUX</fabricanteLogradouro>
+            <fabricanteNome>MICHELIN AIRCRAFT TIRE</fabricanteNome>
+            <fabricanteNumero>000000</fabricanteNumero>
+            <fornecedorCidade>LITTLE FERRY</fornecedorCidade>
+            <fornecedorComplemento>ZIP CODE 07643</fornecedorComplemento>
+            <fornecedorEstado>NEW JERSEY</fornecedorEstado>
+            <fornecedorLogradouro>RISER ROAD</fornecedorLogradouro>
+            <fornecedorNome>DASSAULT FALCON JET CORP</fornecedorNome>
+            <fornecedorNumero>200</fornecedorNumero>
+            <freteMoedaNegociadaCodigo>000</freteMoedaNegociadaCodigo>
+            <freteValorMoedaNegociada>000000000266276</freteValorMoedaNegociada>
+            <freteValorReais>000000000874956</freteValorReais>
+            <iiAcordoTarifarioTipoCodigo>0</iiAcordoTarifarioTipoCodigo>
+            <iiAliquotaAcordo>00000</iiAliquotaAcordo>
+            <iiAliquotaAdValorem>00000</iiAliquotaAdValorem>
+            <iiAliquotaPercentualReducao>00000</iiAliquotaPercentualReducao>
+            <iiAliquotaReduzida>00000</iiAliquotaReduzida>
+            <iiAliquotaValorCalculado>000000000000000</iiAliquotaValorCalculado>
+            <iiAliquotaValorDevido>000000000000000</iiAliquotaValorDevido>
+            <iiAliquotaValorRecolher>000000000000000</iiAliquotaValorRecolher>
+            <iiAliquotaValorReduzido>000000000000000</iiAliquotaValorReduzido>
+            <iiBaseCalculo>000000002793922</iiBaseCalculo>
+            <iiFundamentoLegalCodigo>00</iiFundamentoLegalCodigo>
+            <iiMotivoAdmissaoTemporariaCodigo>00</iiMotivoAdmissaoTemporariaCodigo>
+            <iiRegimeTributacaoCodigo>1</iiRegimeTributacaoCodigo>
+            <iiRegimeTributacaoNome>RECOLHIMENTO INTEGRAL</iiRegimeTributacaoNome>
+            <ipiAliquotaAdValorem>00000</ipiAliquotaAdValorem>
+            <ipiAliquotaEspecificaCapacidadeRecipciente>00000</ipiAliquotaEspecificaCapacidadeRecipciente>
+            <ipiAliquotaEspecificaQuantidadeUnidadeMedida>000000000</ipiAliquotaEspecificaQuantidadeUnidadeMedida>
+            <ipiAliquotaEspecificaTipoRecipienteCodigo>00</ipiAliquotaEspecificaTipoRecipienteCodigo>
+            <ipiAliquotaEspecificaValorUnidadeMedida>0000000000</ipiAliquotaEspecificaValorUnidadeMedida>
+            <ipiAliquotaNotaComplementarTIPI>00</ipiAliquotaNotaComplementarTIPI>
+            <ipiAliquotaReduzida>00000</ipiAliquotaReduzida>
+            <ipiAliquotaValorDevido>000000000000000</ipiAliquotaValorDevido>
+            <ipiAliquotaValorRecolher>000000000000000</ipiAliquotaValorRecolher>
+            <ipiRegimeTributacaoCodigo>4</ipiRegimeTributacaoCodigo>
+            <ipiRegimeTributacaoNome>SEM BENEFICIO</ipiRegimeTributacaoNome>
+            <mercadoria>
+                <descricaoMercadoria>PN:M15101-01; SERIAL: 7337J108; PNEU DO TREM DE POUSO DE &#xD;PRINCIPAL DA AERONAVE; MATERIAL DE USO AERONAUTICO; APLICACAO ASA &#xD;FIXA. &#xD;</descricaoMercadoria>
+                <numeroSequencialItem>01</numeroSequencialItem>
+                <quantidade>00000000100000</quantidade>
+                <unidadeMedida>UNIDADE </unidadeMedida>
+                <valorUnitario>00000000014600000000</valorUnitario>
+            </mercadoria>
+            <mercadoria>
+                <descricaoMercadoria>PN:M15101-01; SERIAL: 7337J109; PNEU DO TREM DE POUSO DE &#xD;PRINCIPAL DA AERONAVE; MATERIAL DE USO AERONAUTICO; APLICACAO ASA &#xD;FIXA. &#xD;</descricaoMercadoria>
+                <numeroSequencialItem>02</numeroSequencialItem>
+                <quantidade>00000000100000</quantidade>
+                <unidadeMedida>UNIDADE </unidadeMedida>
+                <valorUnitario>00000000014600000000</valorUnitario>
+            </mercadoria>
+            <mercadoria>
+                <descricaoMercadoria>PN:M15101-01; SERIAL: 7337J110; PNEU DO TREM DE POUSO DE &#xD;PRINCIPAL DA AERONAVE; MATERIAL DE USO AERONAUTICO; APLICACAO ASA &#xD;FIXA. &#xD;</descricaoMercadoria>
+                <numeroSequencialItem>03</numeroSequencialItem>
+                <quantidade>00000000100000</quantidade>
+                <unidadeMedida>UNIDADE </unidadeMedida>
+                <valorUnitario>00000000014600000000</valorUnitario>
+            </mercadoria>
+            <mercadoria>
+                <descricaoMercadoria>PN:M15101-01; SERIAL: 7337J111; PNEU DO TREM DE POUSO DE &#xD;PRINCIPAL DA AERONAVE; MATERIAL DE USO AERONAUTICO; APLICACAO ASA &#xD;FIXA. &#xD;</descricaoMercadoria>
+                <numeroSequencialItem>04</numeroSequencialItem>
+                <quantidade>00000000100000</quantidade>
+                <unidadeMedida>UNIDADE </unidadeMedida>
+                <valorUnitario>00000000014600000000</valorUnitario>
+            </mercadoria>
+            <numeroAdicao>001</numeroAdicao>
+            <numeroDI>1805033540</numeroDI>
+            <numeroLI>0000000000</numeroLI>
+            <paisAquisicaoMercadoriaCodigo>249</paisAquisicaoMercadoriaCodigo>
+            <paisAquisicaoMercadoriaNome>ESTADOS UNIDOS</paisAquisicaoMercadoriaNome>
+            <paisOrigemMercadoriaCodigo>275</paisOrigemMercadoriaCodigo>
+            <paisOrigemMercadoriaNome>FRANCA</paisOrigemMercadoriaNome>
+            <pisCofinsBaseCalculoAliquotaICMS>00000</pisCofinsBaseCalculoAliquotaICMS>
+            <pisCofinsBaseCalculoFundamentoLegalCodigo>17</pisCofinsBaseCalculoFundamentoLegalCodigo>
+            <pisCofinsBaseCalculoFundamentoLegalNome>BENS A SEREM EMPREGADOS EM AERONAVES (LEI 10865/04 - ART 8º,</pisCofinsBaseCalculoFundamentoLegalNome>
+            <pisCofinsBaseCalculoPercentualReducao>00000</pisCofinsBaseCalculoPercentualReducao>
+            <pisCofinsBaseCalculoValor>000000002793922</pisCofinsBaseCalculoValor>
+            <pisCofinsFundamentoLegalReducaoCodigo>00</pisCofinsFundamentoLegalReducaoCodigo>
+            <pisCofinsRegimeTributacaoCodigo>4</pisCofinsRegimeTributacaoCodigo>
+            <pisCofinsRegimeTributacaoNome>REDUCAO</pisCofinsRegimeTributacaoNome>
+            <pisPasepAliquotaAdValorem>00210</pisPasepAliquotaAdValorem>
+            <pisPasepAliquotaEspecificaQuantidadeUnidade>000000000</pisPasepAliquotaEspecificaQuantidadeUnidade>
+            <pisPasepAliquotaEspecificaValor>0000000000</pisPasepAliquotaEspecificaValor>
+            <pisPasepAliquotaReduzida>00000</pisPasepAliquotaReduzida>
+            <pisPasepAliquotaValorDevido>000000000000000</pisPasepAliquotaValorDevido>
+            <pisPasepAliquotaValorRecolher>000000000000000</pisPasepAliquotaValorRecolher>
+            <relacaoCompradorVendedor>Fabricante não é o Exportador</relacaoCompradorVendedor>
+            <seguroMoedaNegociadaCodigo>000</seguroMoedaNegociadaCodigo>
+            <seguroValorMoedaNegociada>000000000000000</seguroValorMoedaNegociada>
+            <seguroValorReais>000000000000000</seguroValorReais>
+            <sequencialRetificacao>00</sequencialRetificacao>
+            <valorMultaARecolher>000000000000000</valorMultaARecolher>
+            <valorMultaARecolherAjustado>000000000000000</valorMultaARecolherAjustado>
+            <valorReaisFreteInternacional>000000000874956</valorReaisFreteInternacional>
+            <valorReaisSeguroInternacional>000000000000000</valorReaisSeguroInternacional>
+            <valorTotalCondicaoVenda>58400000000</valorTotalCondicaoVenda>
+            <vinculoCompradorVendedor>Há vinculação entre comprador e vendedor sem influência no preço da mercadoria.</vinculoCompradorVendedor>
+        </adicao>
+        <adicao>
+            <cideValorAliquotaEspecifica>00000000000</cideValorAliquotaEspecifica>
+            <cideValorDevido>000000000000000</cideValorDevido>
+            <cideValorRecolher>000000000000000</cideValorRecolher>
+            <codigoRelacaoCompradorVendedor>2</codigoRelacaoCompradorVendedor>
+            <codigoVinculoCompradorVendedor>2</codigoVinculoCompradorVendedor>
+            <cofinsAliquotaAdValorem>01065</cofinsAliquotaAdValorem>
+            <cofinsAliquotaEspecificaQuantidadeUnidade>000000000</cofinsAliquotaEspecificaQuantidadeUnidade>
+            <cofinsAliquotaEspecificaValor>0000000000</cofinsAliquotaEspecificaValor>
+            <cofinsAliquotaReduzida>00100</cofinsAliquotaReduzida>
+            <cofinsAliquotaValorDevido>000000000000073</cofinsAliquotaValorDevido>
+            <cofinsAliquotaValorRecolher>000000000000073</cofinsAliquotaValorRecolher>
+            <condicaoVendaIncoterm>FCA</condicaoVendaIncoterm>
+            <condicaoVendaLocal>SAO PAULO - SP</condicaoVendaLocal>
+            <condicaoVendaMetodoValoracaoCodigo>01</condicaoVendaMetodoValoracaoCodigo>
+            <condicaoVendaMetodoValoracaoNome>METODO 1 - ART. 1 DO ACORDO (DECRETO 92930/86)</condicaoVendaMetodoValoracaoNome>
+            <condicaoVendaMoedaCodigo>220</condicaoVendaMoedaCodigo>
+            <condicaoVendaMoedaNome>DOLAR DOS EUA</condicaoVendaMoedaNome>
+            <condicaoVendaValorMoeda>000000000001730</condicaoVendaValorMoeda>
+            <condicaoVendaValorReais>000000000005684</condicaoVendaValorReais>
+            <dadosCambiaisCoberturaCambialCodigo>1</dadosCambiaisCoberturaCambialCodigo>
+            <dadosCambiaisCoberturaCambialNome>COM COBERTURA CAMBIAL E PAGAMENTO FINAL A PRAZO DE ATE' 180</dadosCambiaisCoberturaCambialNome>
+            <dadosCambiaisInstituicaoFinanciadoraCodigo>00</dadosCambiaisInstituicaoFinanciadoraCodigo>
+            <dadosCambiaisInstituicaoFinanciadoraNome>N/I</dadosCambiaisInstituicaoFinanciadoraNome>
+            <dadosCambiaisMotivoSemCoberturaCodigo>00</dadosCambiaisMotivoSemCoberturaCodigo>
+            <dadosCambiaisMotivoSemCoberturaNome>N/I</dadosCambiaisMotivoSemCoberturaNome>
+            <dadosCambiaisValorRealCambio>000000000000000</dadosCambiaisValorRealCambio>
+            <dadosCargaPaisProcedenciaCodigo>000</dadosCargaPaisProcedenciaCodigo>
+            <dadosCargaUrfEntradaCodigo>0000000</dadosCargaUrfEntradaCodigo>
+            <dadosCargaViaTransporteCodigo>00</dadosCargaViaTransporteCodigo>
+            <dadosMercadoriaAplicacao>REVENDA</dadosMercadoriaAplicacao>
+            <dadosMercadoriaCodigoNaladiNCCA>0000000</dadosMercadoriaCodigoNaladiNCCA>
+            <dadosMercadoriaCodigoNaladiSH>00000000</dadosMercadoriaCodigoNaladiSH>
+            <dadosMercadoriaCodigoNcm>40169300</dadosMercadoriaCodigoNcm>
+            <dadosMercadoriaCondicao>NOVA</dadosMercadoriaCondicao>
+            <dadosMercadoriaMedidaEstatisticaQuantidade>00000000008000</dadosMercadoriaMedidaEstatisticaQuantidade>
+            <dadosMercadoriaMedidaEstatisticaUnidade>QUILOGRAMA LIQUIDO</dadosMercadoriaMedidaEstatisticaUnidade>
+            <dadosMercadoriaNomeNcm>-- Juntas, gaxetas e semelhantes</dadosMercadoriaNomeNcm>
+            <dadosMercadoriaPesoLiquido>000000000008000</dadosMercadoriaPesoLiquido>
+            <dcrCoeficienteReducao>00000</dcrCoeficienteReducao>
+            <dcrIdentificacao>00000000</dcrIdentificacao>
+            <dcrValorDevido>000000000000000</dcrValorDevido>
+            <dcrValorDolar>000000000000000</dcrValorDolar>
+            <dcrValorReal>000000000000000</dcrValorReal>
+            <dcrValorRecolher>000000000000000</dcrValorRecolher>
+            <fabricanteCidade>NEW YORK</fabricanteCidade>
+            <fabricanteComplemento>ZIP CODE 10014</fabricanteComplemento>
+            <fabricanteEstado>NY</fabricanteEstado>
+            <fabricanteLogradouro>HUDSON STREET</fabricanteLogradouro>
+            <fabricanteNome>MILITARY SPECIF</fabricanteNome>
+            <fabricanteNumero>375</fabricanteNumero>
+            <fornecedorCidade>LITTLE FERRY</fornecedorCidade>
+            <fornecedorComplemento>ZIP CODE 07643</fornecedorComplemento>
+            <fornecedorEstado>NEW JERSEY</fornecedorEstado>
+            <fornecedorLogradouro>RISER ROAD</fornecedorLogradouro>
+            <fornecedorNome>DASSAULT FALCON JET CORP</fornecedorNome>
+            <fornecedorNumero>200</fornecedorNumero>
+            <freteMoedaNegociadaCodigo>000</freteMoedaNegociadaCodigo>
+            <freteValorMoedaNegociada>000000000000519</freteValorMoedaNegociada>
+            <freteValorReais>000000000001707</freteValorReais>
+            <iiAcordoTarifarioTipoCodigo>0</iiAcordoTarifarioTipoCodigo>
+            <iiAliquotaAcordo>00000</iiAliquotaAcordo>
+            <iiAliquotaAdValorem>01600</iiAliquotaAdValorem>
+            <iiAliquotaPercentualReducao>00000</iiAliquotaPercentualReducao>
+            <iiAliquotaReduzida>00000</iiAliquotaReduzida>
+            <iiAliquotaValorCalculado>000000000001182</iiAliquotaValorCalculado>
+            <iiAliquotaValorDevido>000000000001182</iiAliquotaValorDevido>
+            <iiAliquotaValorRecolher>000000000000000</iiAliquotaValorRecolher>
+            <iiAliquotaValorReduzido>000000000000000</iiAliquotaValorReduzido>
+            <iiBaseCalculo>000000000007392</iiBaseCalculo>
+            <iiFundamentoLegalCodigo>05</iiFundamentoLegalCodigo>
+            <iiFundamentoLegalNome>PARTES,PECAS E COMPS.DESTNS.REPARO, REVISAO E MANUT.D/AERONA</iiFundamentoLegalNome>
+            <iiMotivoAdmissaoTemporariaCodigo>00</iiMotivoAdmissaoTemporariaCodigo>
+            <iiRegimeTributacaoCodigo>3</iiRegimeTributacaoCodigo>
+            <iiRegimeTributacaoNome>ISENCAO</iiRegimeTributacaoNome>
+            <ipiAliquotaAdValorem>00800</ipiAliquotaAdValorem>
+            <ipiAliquotaEspecificaCapacidadeRecipciente>00000</ipiAliquotaEspecificaCapacidadeRecipciente>
+            <ipiAliquotaEspecificaQuantidadeUnidadeMedida>000000000</ipiAliquotaEspecificaQuantidadeUnidadeMedida>
+            <ipiAliquotaEspecificaTipoRecipienteCodigo>00</ipiAliquotaEspecificaTipoRecipienteCodigo>
+            <ipiAliquotaEspecificaValorUnidadeMedida>0000000000</ipiAliquotaEspecificaValorUnidadeMedida>
+            <ipiAliquotaNotaComplementarTIPI>00</ipiAliquotaNotaComplementarTIPI>
+            <ipiAliquotaReduzida>00000</ipiAliquotaReduzida>
+            <ipiAliquotaValorDevido>000000000000591</ipiAliquotaValorDevido>
+            <ipiAliquotaValorRecolher>000000000000000</ipiAliquotaValorRecolher>
+            <ipiBeneficioFiscalAtoLegalAno>1992</ipiBeneficioFiscalAtoLegalAno>
+            <ipiBeneficioFiscalAtoLegalCodigo>LEI</ipiBeneficioFiscalAtoLegalCodigo>
+            <ipiBeneficioFiscalAtoLegalEX>000</ipiBeneficioFiscalAtoLegalEX>
+            <ipiBeneficioFiscalAtoLegalNumero>008402</ipiBeneficioFiscalAtoLegalNumero>
+            <ipiBeneficioFiscalAtoLegalOrgaoEmissor>EXEC</ipiBeneficioFiscalAtoLegalOrgaoEmissor>
+            <ipiRegimeTributacaoCodigo>1</ipiRegimeTributacaoCodigo>
+            <ipiRegimeTributacaoNome>ISENCAO</ipiRegimeTributacaoNome>
+            <mercadoria>
+                <descricaoMercadoria>PN:M25988/3-132;SELO DE VEDACAO HIDRAULICO DE BORRACHA DO SISTEMA &#xD;DE TRANFERENCIA DE COMBUSTIVEL; MATERIAL DE USO AERONAUTICO; &#xD;APLICACAO ASA FIXA. &#xD;</descricaoMercadoria>
+                <numeroSequencialItem>01</numeroSequencialItem>
+                <quantidade>00000001000000</quantidade>
+                <unidadeMedida>UNIDADE </unidadeMedida>
+                <valorUnitario>00000000000017300000</valorUnitario>
+            </mercadoria>
+            <numeroAdicao>002</numeroAdicao>
+            <numeroDI>1805033540</numeroDI>
+            <numeroLI>0000000000</numeroLI>
+            <paisAquisicaoMercadoriaCodigo>249</paisAquisicaoMercadoriaCodigo>
+            <paisAquisicaoMercadoriaNome>ESTADOS UNIDOS</paisAquisicaoMercadoriaNome>
+            <paisOrigemMercadoriaCodigo>249</paisOrigemMercadoriaCodigo>
+            <paisOrigemMercadoriaNome>ESTADOS UNIDOS</paisOrigemMercadoriaNome>
+            <pisCofinsBaseCalculoAliquotaICMS>00000</pisCofinsBaseCalculoAliquotaICMS>
+            <pisCofinsBaseCalculoFundamentoLegalCodigo>17</pisCofinsBaseCalculoFundamentoLegalCodigo>
+            <pisCofinsBaseCalculoFundamentoLegalNome>BENS A SEREM EMPREGADOS EM AERONAVES (LEI 10865/04 - ART 8º,</pisCofinsBaseCalculoFundamentoLegalNome>
+            <pisCofinsBaseCalculoPercentualReducao>00000</pisCofinsBaseCalculoPercentualReducao>
+            <pisCofinsBaseCalculoValor>000000000007392</pisCofinsBaseCalculoValor>
+            <pisCofinsFundamentoLegalReducaoCodigo>00</pisCofinsFundamentoLegalReducaoCodigo>
+            <pisCofinsRegimeTributacaoCodigo>4</pisCofinsRegimeTributacaoCodigo>
+            <pisCofinsRegimeTributacaoNome>REDUCAO</pisCofinsRegimeTributacaoNome>
+            <pisPasepAliquotaAdValorem>00210</pisPasepAliquotaAdValorem>
+            <pisPasepAliquotaEspecificaQuantidadeUnidade>000000000</pisPasepAliquotaEspecificaQuantidadeUnidade>
+            <pisPasepAliquotaEspecificaValor>0000000000</pisPasepAliquotaEspecificaValor>
+            <pisPasepAliquotaReduzida>00000</pisPasepAliquotaReduzida>
+            <pisPasepAliquotaValorDevido>000000000000000</pisPasepAliquotaValorDevido>
+            <pisPasepAliquotaValorRecolher>000000000000000</pisPasepAliquotaValorRecolher>
+            <relacaoCompradorVendedor>Fabricante não é o Exportador</relacaoCompradorVendedor>
+            <seguroMoedaNegociadaCodigo>000</seguroMoedaNegociadaCodigo>
+            <seguroValorMoedaNegociada>000000000000000</seguroValorMoedaNegociada>
+            <seguroValorReais>000000000000000</seguroValorReais>
+            <sequencialRetificacao>00</sequencialRetificacao>
+            <valorMultaARecolher>000000000000000</valorMultaARecolher>
+            <valorMultaARecolherAjustado>000000000000000</valorMultaARecolherAjustado>
+            <valorReaisFreteInternacional>000000000001707</valorReaisFreteInternacional>
+            <valorReaisSeguroInternacional>000000000000000</valorReaisSeguroInternacional>
+            <valorTotalCondicaoVenda>173000000</valorTotalCondicaoVenda>
+            <vinculoCompradorVendedor>Há vinculação entre comprador e vendedor sem influência no preço da mercadoria.</vinculoCompradorVendedor>
+        </adicao>
+        <adicao>
+            <cideValorAliquotaEspecifica>00000000000</cideValorAliquotaEspecifica>
+            <cideValorDevido>000000000000000</cideValorDevido>
+            <cideValorRecolher>000000000000000</cideValorRecolher>
+            <codigoRelacaoCompradorVendedor>2</codigoRelacaoCompradorVendedor>
+            <codigoVinculoCompradorVendedor>2</codigoVinculoCompradorVendedor>
+            <cofinsAliquotaAdValorem>01065</cofinsAliquotaAdValorem>
+            <cofinsAliquotaEspecificaQuantidadeUnidade>000000000</cofinsAliquotaEspecificaQuantidadeUnidade>
+            <cofinsAliquotaEspecificaValor>0000000000</cofinsAliquotaEspecificaValor>
+            <cofinsAliquotaReduzida>00100</cofinsAliquotaReduzida>
+            <cofinsAliquotaValorDevido>000000000002314</cofinsAliquotaValorDevido>
+            <cofinsAliquotaValorRecolher>000000000002314</cofinsAliquotaValorRecolher>
+            <condicaoVendaIncoterm>FCA</condicaoVendaIncoterm>
+            <condicaoVendaLocal>SAO PAULO - SP</condicaoVendaLocal>
+            <condicaoVendaMetodoValoracaoCodigo>01</condicaoVendaMetodoValoracaoCodigo>
+            <condicaoVendaMetodoValoracaoNome>METODO 1 - ART. 1 DO ACORDO (DECRETO 92930/86)</condicaoVendaMetodoValoracaoNome>
+            <condicaoVendaMoedaCodigo>220</condicaoVendaMoedaCodigo>
+            <condicaoVendaMoedaNome>DOLAR DOS EUA</condicaoVendaMoedaNome>
+            <condicaoVendaValorMoeda>000000000070056</condicaoVendaValorMoeda>
+            <condicaoVendaValorReais>000000000230197</condicaoVendaValorReais>
+            <dadosCambiaisCoberturaCambialCodigo>1</dadosCambiaisCoberturaCambialCodigo>
+            <dadosCambiaisCoberturaCambialNome>COM COBERTURA CAMBIAL E PAGAMENTO FINAL A PRAZO DE ATE' 180</dadosCambiaisCoberturaCambialNome>
+            <dadosCambiaisInstituicaoFinanciadoraCodigo>00</dadosCambiaisInstituicaoFinanciadoraCodigo>
+            <dadosCambiaisInstituicaoFinanciadoraNome>N/I</dadosCambiaisInstituicaoFinanciadoraNome>
+            <dadosCambiaisMotivoSemCoberturaCodigo>00</dadosCambiaisMotivoSemCoberturaCodigo>
+            <dadosCambiaisMotivoSemCoberturaNome>N/I</dadosCambiaisMotivoSemCoberturaNome>
+            <dadosCambiaisValorRealCambio>000000000000000</dadosCambiaisValorRealCambio>
+            <dadosCargaPaisProcedenciaCodigo>000</dadosCargaPaisProcedenciaCodigo>
+            <dadosCargaUrfEntradaCodigo>0000000</dadosCargaUrfEntradaCodigo>
+            <dadosCargaViaTransporteCodigo>00</dadosCargaViaTransporteCodigo>
+            <dadosMercadoriaAplicacao>REVENDA</dadosMercadoriaAplicacao>
+            <dadosMercadoriaCodigoNaladiNCCA>0000000</dadosMercadoriaCodigoNaladiNCCA>
+            <dadosMercadoriaCodigoNaladiSH>00000000</dadosMercadoriaCodigoNaladiSH>
+            <dadosMercadoriaCodigoNcm>40169300</dadosMercadoriaCodigoNcm>
+            <dadosMercadoriaCondicao>NOVA</dadosMercadoriaCondicao>
+            <dadosMercadoriaMedidaEstatisticaQuantidade>00000000006000</dadosMercadoriaMedidaEstatisticaQuantidade>
+            <dadosMercadoriaMedidaEstatisticaUnidade>QUILOGRAMA LIQUIDO</dadosMercadoriaMedidaEstatisticaUnidade>
+            <dadosMercadoriaNomeNcm>-- Juntas, gaxetas e semelhantes</dadosMercadoriaNomeNcm>
+            <dadosMercadoriaPesoLiquido>000000000006000</dadosMercadoriaPesoLiquido>
+            <dcrCoeficienteReducao>00000</dcrCoeficienteReducao>
+            <dcrIdentificacao>00000000</dcrIdentificacao>
+            <dcrValorDevido>000000000000000</dcrValorDevido>
+            <dcrValorDolar>000000000000000</dcrValorDolar>
+            <dcrValorReal>000000000000000</dcrValorReal>
+            <dcrValorRecolher>000000000000000</dcrValorRecolher>
+            <fabricanteCidade>LITITZ</fabricanteCidade>
+            <fabricanteEstado>PA</fabricanteEstado>
+            <fabricanteLogradouro>E. AIRPORT ROAD</fabricanteLogradouro>
+            <fabricanteNome>HAMILTON STANDARD</fabricanteNome>
+            <fabricanteNumero>000590</fabricanteNumero>
+            <fornecedorCidade>LITTLE FERRY</fornecedorCidade>
+            <fornecedorComplemento>ZIP CODE 07643</fornecedorComplemento>
+            <fornecedorEstado>NEW JERSEY</fornecedorEstado>
+            <fornecedorLogradouro>RISER ROAD</fornecedorLogradouro>
+            <fornecedorNome>DASSAULT FALCON JET CORP</fornecedorNome>
+            <fornecedorNumero>200</fornecedorNumero>
+            <freteMoedaNegociadaCodigo>000</freteMoedaNegociadaCodigo>
+            <freteValorMoedaNegociada>000000000000389</freteValorMoedaNegociada>
+            <freteValorReais>000000000001280</freteValorReais>
+            <iiAcordoTarifarioTipoCodigo>0</iiAcordoTarifarioTipoCodigo>
+            <iiAliquotaAcordo>00000</iiAliquotaAcordo>
+            <iiAliquotaAdValorem>01600</iiAliquotaAdValorem>
+            <iiAliquotaPercentualReducao>00000</iiAliquotaPercentualReducao>
+            <iiAliquotaReduzida>00000</iiAliquotaReduzida>
+            <iiAliquotaValorCalculado>000000000037036</iiAliquotaValorCalculado>
+            <iiAliquotaValorDevido>000000000037036</iiAliquotaValorDevido>
+            <iiAliquotaValorRecolher>000000000000000</iiAliquotaValorRecolher>
+            <iiAliquotaValorReduzido>000000000000000</iiAliquotaValorReduzido>
+            <iiBaseCalculo>000000000231477</iiBaseCalculo>
+            <iiFundamentoLegalCodigo>05</iiFundamentoLegalCodigo>
+            <iiFundamentoLegalNome>PARTES,PECAS E COMPS.DESTNS.REPARO, REVISAO E MANUT.D/AERONA</iiFundamentoLegalNome>
+            <iiMotivoAdmissaoTemporariaCodigo>00</iiMotivoAdmissaoTemporariaCodigo>
+            <iiRegimeTributacaoCodigo>3</iiRegimeTributacaoCodigo>
+            <iiRegimeTributacaoNome>ISENCAO</iiRegimeTributacaoNome>
+            <ipiAliquotaAdValorem>00800</ipiAliquotaAdValorem>
+            <ipiAliquotaEspecificaCapacidadeRecipciente>00000</ipiAliquotaEspecificaCapacidadeRecipciente>
+            <ipiAliquotaEspecificaQuantidadeUnidadeMedida>000000000</ipiAliquotaEspecificaQuantidadeUnidadeMedida>
+            <ipiAliquotaEspecificaTipoRecipienteCodigo>00</ipiAliquotaEspecificaTipoRecipienteCodigo>
+            <ipiAliquotaEspecificaValorUnidadeMedida>0000000000</ipiAliquotaEspecificaValorUnidadeMedida>
+            <ipiAliquotaNotaComplementarTIPI>00</ipiAliquotaNotaComplementarTIPI>
+            <ipiAliquotaReduzida>00000</ipiAliquotaReduzida>
+            <ipiAliquotaValorDevido>000000000018518</ipiAliquotaValorDevido>
+            <ipiAliquotaValorRecolher>000000000000000</ipiAliquotaValorRecolher>
+            <ipiBeneficioFiscalAtoLegalAno>1992</ipiBeneficioFiscalAtoLegalAno>
+            <ipiBeneficioFiscalAtoLegalCodigo>LEI</ipiBeneficioFiscalAtoLegalCodigo>
+            <ipiBeneficioFiscalAtoLegalEX>000</ipiBeneficioFiscalAtoLegalEX>
+            <ipiBeneficioFiscalAtoLegalNumero>008402</ipiBeneficioFiscalAtoLegalNumero>
+            <ipiBeneficioFiscalAtoLegalOrgaoEmissor>EXEC</ipiBeneficioFiscalAtoLegalOrgaoEmissor>
+            <ipiRegimeTributacaoCodigo>1</ipiRegimeTributacaoCodigo>
+            <ipiRegimeTributacaoNome>ISENCAO</ipiRegimeTributacaoNome>
+            <mercadoria>
+                <descricaoMercadoria>PN:810901-1108;SELO DE VEDACAO DE BORRACHA; MATERIAL DE USO &#xD;AERONAUTICO; APLICACAO ASA FIXA. &#xD;</descricaoMercadoria>
+                <numeroSequencialItem>01</numeroSequencialItem>
+                <quantidade>00000000400000</quantidade>
+                <unidadeMedida>UNIDADE </unidadeMedida>
+                <valorUnitario>00000000001193600000</valorUnitario>
+            </mercadoria>
+            <mercadoria>
+                <descricaoMercadoria>PN:810901-112;SELO DE VEDACAO DE BORRACHA; MATERIAL DE USO &#xD;AERONAUTICO; APLICACAO ASA FIXA. &#xD;</descricaoMercadoria>
+                <numeroSequencialItem>02</numeroSequencialItem>
+                <quantidade>00000000200000</quantidade>
+                <unidadeMedida>UNIDADE </unidadeMedida>
+                <valorUnitario>00000000001115600000</valorUnitario>
+            </mercadoria>
+            <numeroAdicao>003</numeroAdicao>
+            <numeroDI>1805033540</numeroDI>
+            <numeroLI>0000000000</numeroLI>
+            <paisAquisicaoMercadoriaCodigo>249</paisAquisicaoMercadoriaCodigo>
+            <paisAquisicaoMercadoriaNome>ESTADOS UNIDOS</paisAquisicaoMercadoriaNome>
+            <paisOrigemMercadoriaCodigo>249</paisOrigemMercadoriaCodigo>
+            <paisOrigemMercadoriaNome>ESTADOS UNIDOS</paisOrigemMercadoriaNome>
+            <pisCofinsBaseCalculoAliquotaICMS>00000</pisCofinsBaseCalculoAliquotaICMS>
+            <pisCofinsBaseCalculoFundamentoLegalCodigo>17</pisCofinsBaseCalculoFundamentoLegalCodigo>
+            <pisCofinsBaseCalculoFundamentoLegalNome>BENS A SEREM EMPREGADOS EM AERONAVES (LEI 10865/04 - ART 8º,</pisCofinsBaseCalculoFundamentoLegalNome>
+            <pisCofinsBaseCalculoPercentualReducao>00000</pisCofinsBaseCalculoPercentualReducao>
+            <pisCofinsBaseCalculoValor>000000000231477</pisCofinsBaseCalculoValor>
+            <pisCofinsFundamentoLegalReducaoCodigo>00</pisCofinsFundamentoLegalReducaoCodigo>
+            <pisCofinsRegimeTributacaoCodigo>4</pisCofinsRegimeTributacaoCodigo>
+            <pisCofinsRegimeTributacaoNome>REDUCAO</pisCofinsRegimeTributacaoNome>
+            <pisPasepAliquotaAdValorem>00210</pisPasepAliquotaAdValorem>
+            <pisPasepAliquotaEspecificaQuantidadeUnidade>000000000</pisPasepAliquotaEspecificaQuantidadeUnidade>
+            <pisPasepAliquotaEspecificaValor>0000000000</pisPasepAliquotaEspecificaValor>
+            <pisPasepAliquotaReduzida>00000</pisPasepAliquotaReduzida>
+            <pisPasepAliquotaValorDevido>000000000000000</pisPasepAliquotaValorDevido>
+            <pisPasepAliquotaValorRecolher>000000000000000</pisPasepAliquotaValorRecolher>
+            <relacaoCompradorVendedor>Fabricante não é o Exportador</relacaoCompradorVendedor>
+            <seguroMoedaNegociadaCodigo>000</seguroMoedaNegociadaCodigo>
+            <seguroValorMoedaNegociada>000000000000000</seguroValorMoedaNegociada>
+            <seguroValorReais>000000000000000</seguroValorReais>
+            <sequencialRetificacao>00</sequencialRetificacao>
+            <valorMultaARecolher>000000000000000</valorMultaARecolher>
+            <valorMultaARecolherAjustado>000000000000000</valorMultaARecolherAjustado>
+            <valorReaisFreteInternacional>000000000001280</valorReaisFreteInternacional>
+            <valorReaisSeguroInternacional>000000000000000</valorReaisSeguroInternacional>
+            <valorTotalCondicaoVenda>7005600000</valorTotalCondicaoVenda>
+            <vinculoCompradorVendedor>Há vinculação entre comprador e vendedor sem influência no preço da mercadoria.</vinculoCompradorVendedor>
+        </adicao>
+        <adicao>
+            <cideValorAliquotaEspecifica>00000000000</cideValorAliquotaEspecifica>
+            <cideValorDevido>000000000000000</cideValorDevido>
+            <cideValorRecolher>000000000000000</cideValorRecolher>
+            <codigoRelacaoCompradorVendedor>2</codigoRelacaoCompradorVendedor>
+            <codigoVinculoCompradorVendedor>2</codigoVinculoCompradorVendedor>
+            <cofinsAliquotaAdValorem>01065</cofinsAliquotaAdValorem>
+            <cofinsAliquotaEspecificaQuantidadeUnidade>000000000</cofinsAliquotaEspecificaQuantidadeUnidade>
+            <cofinsAliquotaEspecificaValor>0000000000</cofinsAliquotaEspecificaValor>
+            <cofinsAliquotaReduzida>00100</cofinsAliquotaReduzida>
+            <cofinsAliquotaValorDevido>000000000000128</cofinsAliquotaValorDevido>
+            <cofinsAliquotaValorRecolher>000000000000128</cofinsAliquotaValorRecolher>
+            <condicaoVendaIncoterm>FCA</condicaoVendaIncoterm>
+            <condicaoVendaLocal>SAO PAULO - SP</condicaoVendaLocal>
+            <condicaoVendaMetodoValoracaoCodigo>01</condicaoVendaMetodoValoracaoCodigo>
+            <condicaoVendaMetodoValoracaoNome>METODO 1 - ART. 1 DO ACORDO (DECRETO 92930/86)</condicaoVendaMetodoValoracaoNome>
+            <condicaoVendaMoedaCodigo>220</condicaoVendaMoedaCodigo>
+            <condicaoVendaMoedaNome>DOLAR DOS EUA</condicaoVendaMoedaNome>
+            <condicaoVendaValorMoeda>000000000003144</condicaoVendaValorMoeda>
+            <condicaoVendaValorReais>000000000010330</condicaoVendaValorReais>
+            <dadosCambiaisCoberturaCambialCodigo>1</dadosCambiaisCoberturaCambialCodigo>
+            <dadosCambiaisCoberturaCambialNome>COM COBERTURA CAMBIAL E PAGAMENTO FINAL A PRAZO DE ATE' 180</dadosCambiaisCoberturaCambialNome>
+            <dadosCambiaisInstituicaoFinanciadoraCodigo>00</dadosCambiaisInstituicaoFinanciadoraCodigo>
+            <dadosCambiaisInstituicaoFinanciadoraNome>N/I</dadosCambiaisInstituicaoFinanciadoraNome>
+            <dadosCambiaisMotivoSemCoberturaCodigo>00</dadosCambiaisMotivoSemCoberturaCodigo>
+            <dadosCambiaisMotivoSemCoberturaNome>N/I</dadosCambiaisMotivoSemCoberturaNome>
+            <dadosCambiaisValorRealCambio>000000000000000</dadosCambiaisValorRealCambio>
+            <dadosCargaPaisProcedenciaCodigo>000</dadosCargaPaisProcedenciaCodigo>
+            <dadosCargaUrfEntradaCodigo>0000000</dadosCargaUrfEntradaCodigo>
+            <dadosCargaViaTransporteCodigo>00</dadosCargaViaTransporteCodigo>
+            <dadosMercadoriaAplicacao>REVENDA</dadosMercadoriaAplicacao>
+            <dadosMercadoriaCodigoNaladiNCCA>0000000</dadosMercadoriaCodigoNaladiNCCA>
+            <dadosMercadoriaCodigoNaladiSH>00000000</dadosMercadoriaCodigoNaladiSH>
+            <dadosMercadoriaCodigoNcm>40169300</dadosMercadoriaCodigoNcm>
+            <dadosMercadoriaCondicao>NOVA</dadosMercadoriaCondicao>
+            <dadosMercadoriaMedidaEstatisticaQuantidade>00000000012000</dadosMercadoriaMedidaEstatisticaQuantidade>
+            <dadosMercadoriaMedidaEstatisticaUnidade>QUILOGRAMA LIQUIDO</dadosMercadoriaMedidaEstatisticaUnidade>
+            <dadosMercadoriaNomeNcm>-- Juntas, gaxetas e semelhantes</dadosMercadoriaNomeNcm>
+            <dadosMercadoriaPesoLiquido>000000000012000</dadosMercadoriaPesoLiquido>
+            <dcrCoeficienteReducao>00000</dcrCoeficienteReducao>
+            <dcrIdentificacao>00000000</dcrIdentificacao>
+            <dcrValorDevido>000000000000000</dcrValorDevido>
+            <dcrValorDolar>000000000000000</dcrValorDolar>
+            <dcrValorReal>000000000000000</dcrValorReal>
+            <dcrValorRecolher>000000000000000</dcrValorRecolher>
+            <fabricanteCidade>TROY</fabricanteCidade>
+            <fabricanteComplemento>SUITE 1600</fabricanteComplemento>
+            <fabricanteEstado>MI</fabricanteEstado>
+            <fabricanteLogradouro>W,BIG BEAVER</fabricanteLogradouro>
+            <fabricanteNome>SOCIETY OF AUTO</fabricanteNome>
+            <fabricanteNumero>755</fabricanteNumero>
+            <fornecedorCidade>LITTLE FERRY</fornecedorCidade>
+            <fornecedorComplemento>ZIP CODE 07643</fornecedorComplemento>
+            <fornecedorEstado>NEW JERSEY</fornecedorEstado>
+            <fornecedorLogradouro>RISER ROAD</fornecedorLogradouro>
+            <fornecedorNome>DASSAULT FALCON JET CORP</fornecedorNome>
+            <fornecedorNumero>200</fornecedorNumero>
+            <freteMoedaNegociadaCodigo>000</freteMoedaNegociadaCodigo>
+            <freteValorMoedaNegociada>000000000000779</freteValorMoedaNegociada>
+            <freteValorReais>000000000002560</freteValorReais>
+            <iiAcordoTarifarioTipoCodigo>0</iiAcordoTarifarioTipoCodigo>
+            <iiAliquotaAcordo>00000</iiAliquotaAcordo>
+            <iiAliquotaAdValorem>01600</iiAliquotaAdValorem>
+            <iiAliquotaPercentualReducao>00000</iiAliquotaPercentualReducao>
+            <iiAliquotaReduzida>00000</iiAliquotaReduzida>
+            <iiAliquotaValorCalculado>000000000002062</iiAliquotaValorCalculado>
+            <iiAliquotaValorDevido>000000000002062</iiAliquotaValorDevido>
+            <iiAliquotaValorRecolher>000000000000000</iiAliquotaValorRecolher>
+            <iiAliquotaValorReduzido>000000000000000</iiAliquotaValorReduzido>
+            <iiBaseCalculo>000000000012892</iiBaseCalculo>
+            <iiFundamentoLegalCodigo>05</iiFundamentoLegalCodigo>
+            <iiFundamentoLegalNome>PARTES,PECAS E COMPS.DESTNS.REPARO, REVISAO E MANUT.D/AERONA</iiFundamentoLegalNome>
+            <iiMotivoAdmissaoTemporariaCodigo>00</iiMotivoAdmissaoTemporariaCodigo>
+            <iiRegimeTributacaoCodigo>3</iiRegimeTributacaoCodigo>
+            <iiRegimeTributacaoNome>ISENCAO</iiRegimeTributacaoNome>
+            <ipiAliquotaAdValorem>00800</ipiAliquotaAdValorem>
+            <ipiAliquotaEspecificaCapacidadeRecipciente>00000</ipiAliquotaEspecificaCapacidadeRecipciente>
+            <ipiAliquotaEspecificaQuantidadeUnidadeMedida>000000000</ipiAliquotaEspecificaQuantidadeUnidadeMedida>
+            <ipiAliquotaEspecificaTipoRecipienteCodigo>00</ipiAliquotaEspecificaTipoRecipienteCodigo>
+            <ipiAliquotaEspecificaValorUnidadeMedida>0000000000</ipiAliquotaEspecificaValorUnidadeMedida>
+            <ipiAliquotaNotaComplementarTIPI>00</ipiAliquotaNotaComplementarTIPI>
+            <ipiAliquotaReduzida>00000</ipiAliquotaReduzida>
+            <ipiAliquotaValorDevido>000000000001031</ipiAliquotaValorDevido>
+            <ipiAliquotaValorRecolher>000000000000000</ipiAliquotaValorRecolher>
+            <ipiBeneficioFiscalAtoLegalAno>1992</ipiBeneficioFiscalAtoLegalAno>
+            <ipiBeneficioFiscalAtoLegalCodigo>LEI</ipiBeneficioFiscalAtoLegalCodigo>
+            <ipiBeneficioFiscalAtoLegalEX>000</ipiBeneficioFiscalAtoLegalEX>
+            <ipiBeneficioFiscalAtoLegalNumero>008402</ipiBeneficioFiscalAtoLegalNumero>
+            <ipiBeneficioFiscalAtoLegalOrgaoEmissor>EXEC</ipiBeneficioFiscalAtoLegalOrgaoEmissor>
+            <ipiRegimeTributacaoCodigo>1</ipiRegimeTributacaoCodigo>
+            <ipiRegimeTributacaoNome>ISENCAO</ipiRegimeTributacaoNome>
+            <mercadoria>
+                <descricaoMercadoria>PN:M83485/1-010;ANEL DE VEDACAO HIDRAULICO DE BORRACHA; MATERIAL &#xD;DE USO AERONAUTICO; APLICACAO ASA FIXA. &#xD;</descricaoMercadoria>
+                <numeroSequencialItem>01</numeroSequencialItem>
+                <quantidade>00000002400000</quantidade>
+                <unidadeMedida>UNIDADE </unidadeMedida>
+                <valorUnitario>00000000000013100000</valorUnitario>
+            </mercadoria>
+            <numeroAdicao>004</numeroAdicao>
+            <numeroDI>1805033540</numeroDI>
+            <numeroLI>0000000000</numeroLI>
+            <paisAquisicaoMercadoriaCodigo>249</paisAquisicaoMercadoriaCodigo>
+            <paisAquisicaoMercadoriaNome>ESTADOS UNIDOS</paisAquisicaoMercadoriaNome>
+            <paisOrigemMercadoriaCodigo>249</paisOrigemMercadoriaCodigo>
+            <paisOrigemMercadoriaNome>ESTADOS UNIDOS</paisOrigemMercadoriaNome>
+            <pisCofinsBaseCalculoAliquotaICMS>00000</pisCofinsBaseCalculoAliquotaICMS>
+            <pisCofinsBaseCalculoFundamentoLegalCodigo>17</pisCofinsBaseCalculoFundamentoLegalCodigo>
+            <pisCofinsBaseCalculoFundamentoLegalNome>BENS A SEREM EMPREGADOS EM AERONAVES (LEI 10865/04 - ART 8º,</pisCofinsBaseCalculoFundamentoLegalNome>
+            <pisCofinsBaseCalculoPercentualReducao>00000</pisCofinsBaseCalculoPercentualReducao>
+            <pisCofinsBaseCalculoValor>000000000012892</pisCofinsBaseCalculoValor>
+            <pisCofinsFundamentoLegalReducaoCodigo>00</pisCofinsFundamentoLegalReducaoCodigo>
+            <pisCofinsRegimeTributacaoCodigo>4</pisCofinsRegimeTributacaoCodigo>
+            <pisCofinsRegimeTributacaoNome>REDUCAO</pisCofinsRegimeTributacaoNome>
+            <pisPasepAliquotaAdValorem>00210</pisPasepAliquotaAdValorem>
+            <pisPasepAliquotaEspecificaQuantidadeUnidade>000000000</pisPasepAliquotaEspecificaQuantidadeUnidade>
+            <pisPasepAliquotaEspecificaValor>0000000000</pisPasepAliquotaEspecificaValor>
+            <pisPasepAliquotaReduzida>00000</pisPasepAliquotaReduzida>
+            <pisPasepAliquotaValorDevido>000000000000000</pisPasepAliquotaValorDevido>
+            <pisPasepAliquotaValorRecolher>000000000000000</pisPasepAliquotaValorRecolher>
+            <relacaoCompradorVendedor>Fabricante não é o Exportador</relacaoCompradorVendedor>
+            <seguroMoedaNegociadaCodigo>000</seguroMoedaNegociadaCodigo>
+            <seguroValorMoedaNegociada>000000000000000</seguroValorMoedaNegociada>
+            <seguroValorReais>000000000000000</seguroValorReais>
+            <sequencialRetificacao>00</sequencialRetificacao>
+            <valorMultaARecolher>000000000000000</valorMultaARecolher>
+            <valorMultaARecolherAjustado>000000000000000</valorMultaARecolherAjustado>
+            <valorReaisFreteInternacional>000000000002560</valorReaisFreteInternacional>
+            <valorReaisSeguroInternacional>000000000000000</valorReaisSeguroInternacional>
+            <valorTotalCondicaoVenda>314400000</valorTotalCondicaoVenda>
+            <vinculoCompradorVendedor>Há vinculação entre comprador e vendedor sem influência no preço da mercadoria.</vinculoCompradorVendedor>
+        </adicao>
+        <adicao>
+            <cideValorAliquotaEspecifica>00000000000</cideValorAliquotaEspecifica>
+            <cideValorDevido>000000000000000</cideValorDevido>
+            <cideValorRecolher>000000000000000</cideValorRecolher>
+            <codigoRelacaoCompradorVendedor>2</codigoRelacaoCompradorVendedor>
+            <codigoVinculoCompradorVendedor>2</codigoVinculoCompradorVendedor>
+            <cofinsAliquotaAdValorem>01065</cofinsAliquotaAdValorem>
+            <cofinsAliquotaEspecificaQuantidadeUnidade>000000000</cofinsAliquotaEspecificaQuantidadeUnidade>
+            <cofinsAliquotaEspecificaValor>0000000000</cofinsAliquotaEspecificaValor>
+            <cofinsAliquotaReduzida>00100</cofinsAliquotaReduzida>
+            <cofinsAliquotaValorDevido>000000000000115</cofinsAliquotaValorDevido>
+            <cofinsAliquotaValorRecolher>000000000000115</cofinsAliquotaValorRecolher>
+            <condicaoVendaIncoterm>FCA</condicaoVendaIncoterm>
+            <condicaoVendaLocal>SAO PAULO - SP</condicaoVendaLocal>
+            <condicaoVendaMetodoValoracaoCodigo>01</condicaoVendaMetodoValoracaoCodigo>
+            <condicaoVendaMetodoValoracaoNome>METODO 1 - ART. 1 DO ACORDO (DECRETO 92930/86)</condicaoVendaMetodoValoracaoNome>
+            <condicaoVendaMoedaCodigo>220</condicaoVendaMoedaCodigo>
+            <condicaoVendaMoedaNome>DOLAR DOS EUA</condicaoVendaMoedaNome>
+            <condicaoVendaValorMoeda>000000000002610</condicaoVendaValorMoeda>
+            <condicaoVendaValorReais>000000000008576</condicaoVendaValorReais>
+            <dadosCambiaisCoberturaCambialCodigo>1</dadosCambiaisCoberturaCambialCodigo>
+            <dadosCambiaisCoberturaCambialNome>COM COBERTURA CAMBIAL E PAGAMENTO FINAL A PRAZO DE ATE' 180</dadosCambiaisCoberturaCambialNome>
+            <dadosCambiaisInstituicaoFinanciadoraCodigo>00</dadosCambiaisInstituicaoFinanciadoraCodigo>
+            <dadosCambiaisInstituicaoFinanciadoraNome>N/I</dadosCambiaisInstituicaoFinanciadoraNome>
+            <dadosCambiaisMotivoSemCoberturaCodigo>00</dadosCambiaisMotivoSemCoberturaCodigo>
+            <dadosCambiaisMotivoSemCoberturaNome>N/I</dadosCambiaisMotivoSemCoberturaNome>
+            <dadosCambiaisValorRealCambio>000000000000000</dadosCambiaisValorRealCambio>
+            <dadosCargaPaisProcedenciaCodigo>000</dadosCargaPaisProcedenciaCodigo>
+            <dadosCargaUrfEntradaCodigo>0000000</dadosCargaUrfEntradaCodigo>
+            <dadosCargaViaTransporteCodigo>00</dadosCargaViaTransporteCodigo>
+            <dadosMercadoriaAplicacao>REVENDA</dadosMercadoriaAplicacao>
+            <dadosMercadoriaCodigoNaladiNCCA>0000000</dadosMercadoriaCodigoNaladiNCCA>
+            <dadosMercadoriaCodigoNaladiSH>00000000</dadosMercadoriaCodigoNaladiSH>
+            <dadosMercadoriaCodigoNcm>40169300</dadosMercadoriaCodigoNcm>
+            <dadosMercadoriaCondicao>NOVA</dadosMercadoriaCondicao>
+            <dadosMercadoriaMedidaEstatisticaQuantidade>00000000014000</dadosMercadoriaMedidaEstatisticaQuantidade>
+            <dadosMercadoriaMedidaEstatisticaUnidade>QUILOGRAMA LIQUIDO</dadosMercadoriaMedidaEstatisticaUnidade>
+            <dadosMercadoriaNomeNcm>-- Juntas, gaxetas e semelhantes</dadosMercadoriaNomeNcm>
+            <dadosMercadoriaPesoLiquido>000000000014000</dadosMercadoriaPesoLiquido>
+            <dcrCoeficienteReducao>00000</dcrCoeficienteReducao>
+            <dcrIdentificacao>00000000</dcrIdentificacao>
+            <dcrValorDevido>000000000000000</dcrValorDevido>
+            <dcrValorDolar>000000000000000</dcrValorDolar>
+            <dcrValorReal>000000000000000</dcrValorReal>
+            <dcrValorRecolher>000000000000000</dcrValorRecolher>
+            <fabricanteCidade>MIAMI</fabricanteCidade>
+            <fabricanteEstado>EX</fabricanteEstado>
+            <fabricanteLogradouro>P.O BOX</fabricanteLogradouro>
+            <fabricanteNome>MILITARY STANDARD</fabricanteNome>
+            <fabricanteNumero>0</fabricanteNumero>
+            <fornecedorCidade>LITTLE FERRY</fornecedorCidade>
+            <fornecedorComplemento>ZIP CODE 07643</fornecedorComplemento>
+            <fornecedorEstado>NEW JERSEY</fornecedorEstado>
+            <fornecedorLogradouro>RISER ROAD</fornecedorLogradouro>
+            <fornecedorNome>DASSAULT FALCON JET CORP</fornecedorNome>
+            <fornecedorNumero>200</fornecedorNumero>
+            <freteMoedaNegociadaCodigo>000</freteMoedaNegociadaCodigo>
+            <freteValorMoedaNegociada>000000000000909</freteValorMoedaNegociada>
+            <freteValorReais>000000000002987</freteValorReais>
+            <iiAcordoTarifarioTipoCodigo>0</iiAcordoTarifarioTipoCodigo>
+            <iiAliquotaAcordo>00000</iiAliquotaAcordo>
+            <iiAliquotaAdValorem>01600</iiAliquotaAdValorem>
+            <iiAliquotaPercentualReducao>00000</iiAliquotaPercentualReducao>
+            <iiAliquotaReduzida>00000</iiAliquotaReduzida>
+            <iiAliquotaValorCalculado>000000000001850</iiAliquotaValorCalculado>
+            <iiAliquotaValorDevido>000000000001850</iiAliquotaValorDevido>
+            <iiAliquotaValorRecolher>000000000000000</iiAliquotaValorRecolher>
+            <iiAliquotaValorReduzido>000000000000000</iiAliquotaValorReduzido>
+            <iiBaseCalculo>000000000011564</iiBaseCalculo>
+            <iiFundamentoLegalCodigo>05</iiFundamentoLegalCodigo>
+            <iiFundamentoLegalNome>PARTES,PECAS E COMPS.DESTNS.REPARO, REVISAO E MANUT.D/AERONA</iiFundamentoLegalNome>
+            <iiMotivoAdmissaoTemporariaCodigo>00</iiMotivoAdmissaoTemporariaCodigo>
+            <iiRegimeTributacaoCodigo>3</iiRegimeTributacaoCodigo>
+            <iiRegimeTributacaoNome>ISENCAO</iiRegimeTributacaoNome>
+            <ipiAliquotaAdValorem>00800</ipiAliquotaAdValorem>
+            <ipiAliquotaEspecificaCapacidadeRecipciente>00000</ipiAliquotaEspecificaCapacidadeRecipciente>
+            <ipiAliquotaEspecificaQuantidadeUnidadeMedida>000000000</ipiAliquotaEspecificaQuantidadeUnidadeMedida>
+            <ipiAliquotaEspecificaTipoRecipienteCodigo>00</ipiAliquotaEspecificaTipoRecipienteCodigo>
+            <ipiAliquotaEspecificaValorUnidadeMedida>0000000000</ipiAliquotaEspecificaValorUnidadeMedida>
+            <ipiAliquotaNotaComplementarTIPI>00</ipiAliquotaNotaComplementarTIPI>
+            <ipiAliquotaReduzida>00000</ipiAliquotaReduzida>
+            <ipiAliquotaValorDevido>000000000000925</ipiAliquotaValorDevido>
+            <ipiAliquotaValorRecolher>000000000000000</ipiAliquotaValorRecolher>
+            <ipiBeneficioFiscalAtoLegalAno>1992</ipiBeneficioFiscalAtoLegalAno>
+            <ipiBeneficioFiscalAtoLegalCodigo>LEI</ipiBeneficioFiscalAtoLegalCodigo>
+            <ipiBeneficioFiscalAtoLegalEX>000</ipiBeneficioFiscalAtoLegalEX>
+            <ipiBeneficioFiscalAtoLegalNumero>008402</ipiBeneficioFiscalAtoLegalNumero>
+            <ipiBeneficioFiscalAtoLegalOrgaoEmissor>EXEC</ipiBeneficioFiscalAtoLegalOrgaoEmissor>
+            <ipiRegimeTributacaoCodigo>1</ipiRegimeTributacaoCodigo>
+            <ipiRegimeTributacaoNome>ISENCAO</ipiRegimeTributacaoNome>
+            <mercadoria>
+                <descricaoMercadoria>PN:MS28775-353;ANEL DE VEDACAO DE BORRACHA; MATERIAL DE USO &#xD;AERONAUTICO; APLICACAO ASA FIXA. &#xD;</descricaoMercadoria>
+                <numeroSequencialItem>01</numeroSequencialItem>
+                <quantidade>00000000600000</quantidade>
+                <unidadeMedida>UNIDADE </unidadeMedida>
+                <valorUnitario>00000000000043500000</valorUnitario>
+            </mercadoria>
+            <numeroAdicao>005</numeroAdicao>
+            <numeroDI>1805033540</numeroDI>
+            <numeroLI>0000000000</numeroLI>
+            <paisAquisicaoMercadoriaCodigo>249</paisAquisicaoMercadoriaCodigo>
+            <paisAquisicaoMercadoriaNome>ESTADOS UNIDOS</paisAquisicaoMercadoriaNome>
+            <paisOrigemMercadoriaCodigo>249</paisOrigemMercadoriaCodigo>
+            <paisOrigemMercadoriaNome>ESTADOS UNIDOS</paisOrigemMercadoriaNome>
+            <pisCofinsBaseCalculoAliquotaICMS>00000</pisCofinsBaseCalculoAliquotaICMS>
+            <pisCofinsBaseCalculoFundamentoLegalCodigo>17</pisCofinsBaseCalculoFundamentoLegalCodigo>
+            <pisCofinsBaseCalculoFundamentoLegalNome>BENS A SEREM EMPREGADOS EM AERONAVES (LEI 10865/04 - ART 8º,</pisCofinsBaseCalculoFundamentoLegalNome>
+            <pisCofinsBaseCalculoPercentualReducao>00000</pisCofinsBaseCalculoPercentualReducao>
+            <pisCofinsBaseCalculoValor>000000000011564</pisCofinsBaseCalculoValor>
+            <pisCofinsFundamentoLegalReducaoCodigo>00</pisCofinsFundamentoLegalReducaoCodigo>
+            <pisCofinsRegimeTributacaoCodigo>4</pisCofinsRegimeTributacaoCodigo>
+            <pisCofinsRegimeTributacaoNome>REDUCAO</pisCofinsRegimeTributacaoNome>
+            <pisPasepAliquotaAdValorem>00210</pisPasepAliquotaAdValorem>
+            <pisPasepAliquotaEspecificaQuantidadeUnidade>000000000</pisPasepAliquotaEspecificaQuantidadeUnidade>
+            <pisPasepAliquotaEspecificaValor>0000000000</pisPasepAliquotaEspecificaValor>
+            <pisPasepAliquotaReduzida>00000</pisPasepAliquotaReduzida>
+            <pisPasepAliquotaValorDevido>000000000000000</pisPasepAliquotaValorDevido>
+            <pisPasepAliquotaValorRecolher>000000000000000</pisPasepAliquotaValorRecolher>
+            <relacaoCompradorVendedor>Fabricante não é o Exportador</relacaoCompradorVendedor>
+            <seguroMoedaNegociadaCodigo>000</seguroMoedaNegociadaCodigo>
+            <seguroValorMoedaNegociada>000000000000000</seguroValorMoedaNegociada>
+            <seguroValorReais>000000000000000</seguroValorReais>
+            <sequencialRetificacao>00</sequencialRetificacao>
+            <valorMultaARecolher>000000000000000</valorMultaARecolher>
+            <valorMultaARecolherAjustado>000000000000000</valorMultaARecolherAjustado>
+            <valorReaisFreteInternacional>000000000002987</valorReaisFreteInternacional>
+            <valorReaisSeguroInternacional>000000000000000</valorReaisSeguroInternacional>
+            <valorTotalCondicaoVenda>261000000</valorTotalCondicaoVenda>
+            <vinculoCompradorVendedor>Há vinculação entre comprador e vendedor sem influência no preço da mercadoria.</vinculoCompradorVendedor>
+        </adicao>
+        <adicao>
+            <cideValorAliquotaEspecifica>00000000000</cideValorAliquotaEspecifica>
+            <cideValorDevido>000000000000000</cideValorDevido>
+            <cideValorRecolher>000000000000000</cideValorRecolher>
+            <codigoRelacaoCompradorVendedor>2</codigoRelacaoCompradorVendedor>
+            <codigoVinculoCompradorVendedor>2</codigoVinculoCompradorVendedor>
+            <cofinsAliquotaAdValorem>01065</cofinsAliquotaAdValorem>
+            <cofinsAliquotaEspecificaQuantidadeUnidade>000000000</cofinsAliquotaEspecificaQuantidadeUnidade>
+            <cofinsAliquotaEspecificaValor>0000000000</cofinsAliquotaEspecificaValor>
+            <cofinsAliquotaReduzida>00100</cofinsAliquotaReduzida>
+            <cofinsAliquotaValorDevido>000000000001501</cofinsAliquotaValorDevido>
+            <cofinsAliquotaValorRecolher>000000000001501</cofinsAliquotaValorRecolher>
+            <condicaoVendaIncoterm>FCA</condicaoVendaIncoterm>
+            <condicaoVendaLocal>SAO PAULO - SP</condicaoVendaLocal>
+            <condicaoVendaMetodoValoracaoCodigo>01</condicaoVendaMetodoValoracaoCodigo>
+            <condicaoVendaMetodoValoracaoNome>METODO 1 - ART. 1 DO ACORDO (DECRETO 92930/86)</condicaoVendaMetodoValoracaoNome>
+            <condicaoVendaMoedaCodigo>220</condicaoVendaMoedaCodigo>
+            <condicaoVendaMoedaNome>DOLAR DOS EUA</condicaoVendaMoedaNome>
+            <condicaoVendaValorMoeda>000000000045426</condicaoVendaValorMoeda>
+            <condicaoVendaValorReais>000000000149265</condicaoVendaValorReais>
+            <dadosCambiaisCoberturaCambialCodigo>1</dadosCambiaisCoberturaCambialCodigo>
+            <dadosCambiaisCoberturaCambialNome>COM COBERTURA CAMBIAL E PAGAMENTO FINAL A PRAZO DE ATE' 180</dadosCambiaisCoberturaCambialNome>
+            <dadosCambiaisInstituicaoFinanciadoraCodigo>00</dadosCambiaisInstituicaoFinanciadoraCodigo>
+            <dadosCambiaisInstituicaoFinanciadoraNome>N/I</dadosCambiaisInstituicaoFinanciadoraNome>
+            <dadosCambiaisMotivoSemCoberturaCodigo>00</dadosCambiaisMotivoSemCoberturaCodigo>
+            <dadosCambiaisMotivoSemCoberturaNome>N/I</dadosCambiaisMotivoSemCoberturaNome>
+            <dadosCambiaisValorRealCambio>000000000000000</dadosCambiaisValorRealCambio>
+            <dadosCargaPaisProcedenciaCodigo>000</dadosCargaPaisProcedenciaCodigo>
+            <dadosCargaUrfEntradaCodigo>0000000</dadosCargaUrfEntradaCodigo>
+            <dadosCargaViaTransporteCodigo>00</dadosCargaViaTransporteCodigo>
+            <dadosMercadoriaAplicacao>REVENDA</dadosMercadoriaAplicacao>
+            <dadosMercadoriaCodigoNaladiNCCA>0000000</dadosMercadoriaCodigoNaladiNCCA>
+            <dadosMercadoriaCodigoNaladiSH>00000000</dadosMercadoriaCodigoNaladiSH>
+            <dadosMercadoriaCodigoNcm>73181900</dadosMercadoriaCodigoNcm>
+            <dadosMercadoriaCondicao>NOVA</dadosMercadoriaCondicao>
+            <dadosMercadoriaMedidaEstatisticaQuantidade>00000000004000</dadosMercadoriaMedidaEstatisticaQuantidade>
+            <dadosMercadoriaMedidaEstatisticaUnidade>QUILOGRAMA LIQUIDO</dadosMercadoriaMedidaEstatisticaUnidade>
+            <dadosMercadoriaNomeNcm>-- Outros</dadosMercadoriaNomeNcm>
+            <dadosMercadoriaPesoLiquido>000000000004000</dadosMercadoriaPesoLiquido>
+            <dcrCoeficienteReducao>00000</dcrCoeficienteReducao>
+            <dcrIdentificacao>00000000</dcrIdentificacao>
+            <dcrValorDevido>000000000000000</dcrValorDevido>
+            <dcrValorDolar>000000000000000</dcrValorDolar>
+            <dcrValorReal>000000000000000</dcrValorReal>
+            <dcrValorRecolher>000000000000000</dcrValorRecolher>
+            <fabricanteCidade>LE BOURGET</fabricanteCidade>
+            <fabricanteComplemento>ZIP CODE: 93350</fabricanteComplemento>
+            <fabricanteLogradouro>AVENUE DE L EUROPE BAT. 407 AEROPOR</fabricanteLogradouro>
+            <fabricanteNome>DASSAULT AVIATION</fabricanteNome>
+            <fabricanteNumero>1340</fabricanteNumero>
+            <fornecedorCidade>LITTLE FERRY</fornecedorCidade>
+            <fornecedorComplemento>ZIP CODE 07643</fornecedorComplemento>
+            <fornecedorEstado>NEW JERSEY</fornecedorEstado>
+            <fornecedorLogradouro>RISER ROAD</fornecedorLogradouro>
+            <fornecedorNome>DASSAULT FALCON JET CORP</fornecedorNome>
+            <fornecedorNumero>200</fornecedorNumero>
+            <freteMoedaNegociadaCodigo>000</freteMoedaNegociadaCodigo>
+            <freteValorMoedaNegociada>000000000000259</freteValorMoedaNegociada>
+            <freteValorReais>000000000000853</freteValorReais>
+            <iiAcordoTarifarioTipoCodigo>0</iiAcordoTarifarioTipoCodigo>
+            <iiAliquotaAcordo>00000</iiAliquotaAcordo>
+            <iiAliquotaAdValorem>01600</iiAliquotaAdValorem>
+            <iiAliquotaPercentualReducao>00000</iiAliquotaPercentualReducao>
+            <iiAliquotaReduzida>00000</iiAliquotaReduzida>
+            <iiAliquotaValorCalculado>000000000024018</iiAliquotaValorCalculado>
+            <iiAliquotaValorDevido>000000000024018</iiAliquotaValorDevido>
+            <iiAliquotaValorRecolher>000000000000000</iiAliquotaValorRecolher>
+            <iiAliquotaValorReduzido>000000000000000</iiAliquotaValorReduzido>
+            <iiBaseCalculo>000000000150119</iiBaseCalculo>
+            <iiFundamentoLegalCodigo>05</iiFundamentoLegalCodigo>
+            <iiFundamentoLegalNome>PARTES,PECAS E COMPS.DESTNS.REPARO, REVISAO E MANUT.D/AERONA</iiFundamentoLegalNome>
+            <iiMotivoAdmissaoTemporariaCodigo>00</iiMotivoAdmissaoTemporariaCodigo>
+            <iiRegimeTributacaoCodigo>3</iiRegimeTributacaoCodigo>
+            <iiRegimeTributacaoNome>ISENCAO</iiRegimeTributacaoNome>
+            <ipiAliquotaAdValorem>01000</ipiAliquotaAdValorem>
+            <ipiAliquotaEspecificaCapacidadeRecipciente>00000</ipiAliquotaEspecificaCapacidadeRecipciente>
+            <ipiAliquotaEspecificaQuantidadeUnidadeMedida>000000000</ipiAliquotaEspecificaQuantidadeUnidadeMedida>
+            <ipiAliquotaEspecificaTipoRecipienteCodigo>00</ipiAliquotaEspecificaTipoRecipienteCodigo>
+            <ipiAliquotaEspecificaValorUnidadeMedida>0000000000</ipiAliquotaEspecificaValorUnidadeMedida>
+            <ipiAliquotaNotaComplementarTIPI>00</ipiAliquotaNotaComplementarTIPI>
+            <ipiAliquotaReduzida>00000</ipiAliquotaReduzida>
+            <ipiAliquotaValorDevido>000000000015011</ipiAliquotaValorDevido>
+            <ipiAliquotaValorRecolher>000000000000000</ipiAliquotaValorRecolher>
+            <ipiBeneficioFiscalAtoLegalAno>1992</ipiBeneficioFiscalAtoLegalAno>
+            <ipiBeneficioFiscalAtoLegalCodigo>LEI</ipiBeneficioFiscalAtoLegalCodigo>
+            <ipiBeneficioFiscalAtoLegalEX>000</ipiBeneficioFiscalAtoLegalEX>
+            <ipiBeneficioFiscalAtoLegalNumero>008402</ipiBeneficioFiscalAtoLegalNumero>
+            <ipiBeneficioFiscalAtoLegalOrgaoEmissor>EXEC</ipiBeneficioFiscalAtoLegalOrgaoEmissor>
+            <ipiRegimeTributacaoCodigo>1</ipiRegimeTributacaoCodigo>
+            <ipiRegimeTributacaoNome>ISENCAO</ipiRegimeTributacaoNome>
+            <mercadoria>
+                <descricaoMercadoria>PN:FGFB242420130A2;PLUGUE DE ACO LIGA FABRICADO DE ACORDO COM AS &#xD;NORMAS INTERNACIONAIS PARA UTILIZACAO NA INDUSTRIA AERONAUTICA / &#xD;AEROESPACIAL; MATERIAL DE USO AERONAUTICO; APLICACAO ASA FIXA. &#xD;</descricaoMercadoria>
+                <numeroSequencialItem>01</numeroSequencialItem>
+                <quantidade>00000000100000</quantidade>
+                <unidadeMedida>UNIDADE </unidadeMedida>
+                <valorUnitario>00000000004542600000</valorUnitario>
+            </mercadoria>
+            <nomenclaturaValorAduaneiro>
+                <atributo>AA</atributo>
+                <especificacao>0003</especificacao>
+                <nivelNome>POSICAO </nivelNome>
+            </nomenclaturaValorAduaneiro>
+            <nomenclaturaValorAduaneiro>
+                <atributo>AB</atributo>
+                <especificacao>0003</especificacao>
+                <nivelNome>POSICAO </nivelNome>
+            </nomenclaturaValorAduaneiro>
+            <nomenclaturaValorAduaneiro>
+                <atributo>AC</atributo>
+                <especificacao>0001</especificacao>
+                <nivelNome>POSICAO </nivelNome>
+            </nomenclaturaValorAduaneiro>
+            <numeroAdicao>006</numeroAdicao>
+            <numeroDI>1805033540</numeroDI>
+            <numeroLI>0000000000</numeroLI>
+            <paisAquisicaoMercadoriaCodigo>249</paisAquisicaoMercadoriaCodigo>
+            <paisAquisicaoMercadoriaNome>ESTADOS UNIDOS</paisAquisicaoMercadoriaNome>
+            <paisOrigemMercadoriaCodigo>275</paisOrigemMercadoriaCodigo>
+            <paisOrigemMercadoriaNome>FRANCA</paisOrigemMercadoriaNome>
+            <pisCofinsBaseCalculoAliquotaICMS>00000</pisCofinsBaseCalculoAliquotaICMS>
+            <pisCofinsBaseCalculoFundamentoLegalCodigo>17</pisCofinsBaseCalculoFundamentoLegalCodigo>
+            <pisCofinsBaseCalculoFundamentoLegalNome>BENS A SEREM EMPREGADOS EM AERONAVES (LEI 10865/04 - ART 8º,</pisCofinsBaseCalculoFundamentoLegalNome>
+            <pisCofinsBaseCalculoPercentualReducao>00000</pisCofinsBaseCalculoPercentualReducao>
+            <pisCofinsBaseCalculoValor>000000000150119</pisCofinsBaseCalculoValor>
+            <pisCofinsFundamentoLegalReducaoCodigo>00</pisCofinsFundamentoLegalReducaoCodigo>
+            <pisCofinsRegimeTributacaoCodigo>4</pisCofinsRegimeTributacaoCodigo>
+            <pisCofinsRegimeTributacaoNome>REDUCAO</pisCofinsRegimeTributacaoNome>
+            <pisPasepAliquotaAdValorem>00210</pisPasepAliquotaAdValorem>
+            <pisPasepAliquotaEspecificaQuantidadeUnidade>000000000</pisPasepAliquotaEspecificaQuantidadeUnidade>
+            <pisPasepAliquotaEspecificaValor>0000000000</pisPasepAliquotaEspecificaValor>
+            <pisPasepAliquotaReduzida>00000</pisPasepAliquotaReduzida>
+            <pisPasepAliquotaValorDevido>000000000000000</pisPasepAliquotaValorDevido>
+            <pisPasepAliquotaValorRecolher>000000000000000</pisPasepAliquotaValorRecolher>
+            <relacaoCompradorVendedor>Fabricante não é o Exportador</relacaoCompradorVendedor>
+            <seguroMoedaNegociadaCodigo>000</seguroMoedaNegociadaCodigo>
+            <seguroValorMoedaNegociada>000000000000000</seguroValorMoedaNegociada>
+            <seguroValorReais>000000000000000</seguroValorReais>
+            <sequencialRetificacao>00</sequencialRetificacao>
+            <valorMultaARecolher>000000000000000</valorMultaARecolher>
+            <valorMultaARecolherAjustado>000000000000000</valorMultaARecolherAjustado>
+            <valorReaisFreteInternacional>000000000000853</valorReaisFreteInternacional>
+            <valorReaisSeguroInternacional>000000000000000</valorReaisSeguroInternacional>
+            <valorTotalCondicaoVenda>4542600000</valorTotalCondicaoVenda>
+            <vinculoCompradorVendedor>Há vinculação entre comprador e vendedor sem influência no preço da mercadoria.</vinculoCompradorVendedor>
+        </adicao>
+        <adicao>
+            <cideValorAliquotaEspecifica>00000000000</cideValorAliquotaEspecifica>
+            <cideValorDevido>000000000000000</cideValorDevido>
+            <cideValorRecolher>000000000000000</cideValorRecolher>
+            <codigoRelacaoCompradorVendedor>2</codigoRelacaoCompradorVendedor>
+            <codigoVinculoCompradorVendedor>2</codigoVinculoCompradorVendedor>
+            <cofinsAliquotaAdValorem>01065</cofinsAliquotaAdValorem>
+            <cofinsAliquotaEspecificaQuantidadeUnidade>000000000</cofinsAliquotaEspecificaQuantidadeUnidade>
+            <cofinsAliquotaEspecificaValor>0000000000</cofinsAliquotaEspecificaValor>
+            <cofinsAliquotaReduzida>00100</cofinsAliquotaReduzida>
+            <cofinsAliquotaValorDevido>000000000000095</cofinsAliquotaValorDevido>
+            <cofinsAliquotaValorRecolher>000000000000095</cofinsAliquotaValorRecolher>
+            <condicaoVendaIncoterm>FCA</condicaoVendaIncoterm>
+            <condicaoVendaLocal>SAO PAULO - SP</condicaoVendaLocal>
+            <condicaoVendaMetodoValoracaoCodigo>01</condicaoVendaMetodoValoracaoCodigo>
+            <condicaoVendaMetodoValoracaoNome>METODO 1 - ART. 1 DO ACORDO (DECRETO 92930/86)</condicaoVendaMetodoValoracaoNome>
+            <condicaoVendaMoedaCodigo>220</condicaoVendaMoedaCodigo>
+            <condicaoVendaMoedaNome>DOLAR DOS EUA</condicaoVendaMoedaNome>
+            <condicaoVendaValorMoeda>000000000002900</condicaoVendaValorMoeda>
+            <condicaoVendaValorReais>000000000009529</condicaoVendaValorReais>
+            <dadosCambiaisCoberturaCambialCodigo>1</dadosCambiaisCoberturaCambialCodigo>
+            <dadosCambiaisCoberturaCambialNome>COM COBERTURA CAMBIAL E PAGAMENTO FINAL A PRAZO DE ATE' 180</dadosCambiaisCoberturaCambialNome>
+            <dadosCambiaisInstituicaoFinanciadoraCodigo>00</dadosCambiaisInstituicaoFinanciadoraCodigo>
+            <dadosCambiaisInstituicaoFinanciadoraNome>N/I</dadosCambiaisInstituicaoFinanciadoraNome>
+            <dadosCambiaisMotivoSemCoberturaCodigo>00</dadosCambiaisMotivoSemCoberturaCodigo>
+            <dadosCambiaisMotivoSemCoberturaNome>N/I</dadosCambiaisMotivoSemCoberturaNome>
+            <dadosCambiaisValorRealCambio>000000000000000</dadosCambiaisValorRealCambio>
+            <dadosCargaPaisProcedenciaCodigo>000</dadosCargaPaisProcedenciaCodigo>
+            <dadosCargaUrfEntradaCodigo>0000000</dadosCargaUrfEntradaCodigo>
+            <dadosCargaViaTransporteCodigo>00</dadosCargaViaTransporteCodigo>
+            <dadosMercadoriaAplicacao>REVENDA</dadosMercadoriaAplicacao>
+            <dadosMercadoriaCodigoNaladiNCCA>0000000</dadosMercadoriaCodigoNaladiNCCA>
+            <dadosMercadoriaCodigoNaladiSH>00000000</dadosMercadoriaCodigoNaladiSH>
+            <dadosMercadoriaCodigoNcm>73182200</dadosMercadoriaCodigoNcm>
+            <dadosMercadoriaCondicao>NOVA</dadosMercadoriaCondicao>
+            <dadosMercadoriaMedidaEstatisticaQuantidade>00000000000080</dadosMercadoriaMedidaEstatisticaQuantidade>
+            <dadosMercadoriaMedidaEstatisticaUnidade>QUILOGRAMA LIQUIDO</dadosMercadoriaMedidaEstatisticaUnidade>
+            <dadosMercadoriaNomeNcm>-- Outras arruelas (anilhas*)</dadosMercadoriaNomeNcm>
+            <dadosMercadoriaPesoLiquido>000000000000080</dadosMercadoriaPesoLiquido>
+            <dcrCoeficienteReducao>00000</dcrCoeficienteReducao>
+            <dcrIdentificacao>00000000</dcrIdentificacao>
+            <dcrValorDevido>000000000000000</dcrValorDevido>
+            <dcrValorDolar>000000000000000</dcrValorDolar>
+            <dcrValorReal>000000000000000</dcrValorReal>
+            <dcrValorRecolher>000000000000000</dcrValorRecolher>
+            <fabricanteCidade>LE BOURGET</fabricanteCidade>
+            <fabricanteComplemento>ZIP CODE: 93350</fabricanteComplemento>
+            <fabricanteLogradouro>AVENUE DE L EUROPE BAT. 407 AEROPOR</fabricanteLogradouro>
+            <fabricanteNome>DASSAULT AVIATION</fabricanteNome>
+            <fabricanteNumero>1340</fabricanteNumero>
+            <fornecedorCidade>LITTLE FERRY</fornecedorCidade>
+            <fornecedorComplemento>ZIP CODE 07643</fornecedorComplemento>
+            <fornecedorEstado>NEW JERSEY</fornecedorEstado>
+            <fornecedorLogradouro>RISER ROAD</fornecedorLogradouro>
+            <fornecedorNome>DASSAULT FALCON JET CORP</fornecedorNome>
+            <fornecedorNumero>200</fornecedorNumero>
+            <freteMoedaNegociadaCodigo>000</freteMoedaNegociadaCodigo>
+            <freteValorMoedaNegociada>000000000000005</freteValorMoedaNegociada>
+            <freteValorReais>000000000000017</freteValorReais>
+            <iiAcordoTarifarioTipoCodigo>0</iiAcordoTarifarioTipoCodigo>
+            <iiAliquotaAcordo>00000</iiAliquotaAcordo>
+            <iiAliquotaAdValorem>01600</iiAliquotaAdValorem>
+            <iiAliquotaPercentualReducao>00000</iiAliquotaPercentualReducao>
+            <iiAliquotaReduzida>00000</iiAliquotaReduzida>
+            <iiAliquotaValorCalculado>000000000001527</iiAliquotaValorCalculado>
+            <iiAliquotaValorDevido>000000000001527</iiAliquotaValorDevido>
+            <iiAliquotaValorRecolher>000000000000000</iiAliquotaValorRecolher>
+            <iiAliquotaValorReduzido>000000000000000</iiAliquotaValorReduzido>
+            <iiBaseCalculo>000000000009546</iiBaseCalculo>
+            <iiFundamentoLegalCodigo>05</iiFundamentoLegalCodigo>
+            <iiFundamentoLegalNome>PARTES,PECAS E COMPS.DESTNS.REPARO, REVISAO E MANUT.D/AERONA</iiFundamentoLegalNome>
+            <iiMotivoAdmissaoTemporariaCodigo>00</iiMotivoAdmissaoTemporariaCodigo>
+            <iiRegimeTributacaoCodigo>3</iiRegimeTributacaoCodigo>
+            <iiRegimeTributacaoNome>ISENCAO</iiRegimeTributacaoNome>
+            <ipiAliquotaAdValorem>01000</ipiAliquotaAdValorem>
+            <ipiAliquotaEspecificaCapacidadeRecipciente>00000</ipiAliquotaEspecificaCapacidadeRecipciente>
+            <ipiAliquotaEspecificaQuantidadeUnidadeMedida>000000000</ipiAliquotaEspecificaQuantidadeUnidadeMedida>
+            <ipiAliquotaEspecificaTipoRecipienteCodigo>00</ipiAliquotaEspecificaTipoRecipienteCodigo>
+            <ipiAliquotaEspecificaValorUnidadeMedida>0000000000</ipiAliquotaEspecificaValorUnidadeMedida>
+            <ipiAliquotaNotaComplementarTIPI>00</ipiAliquotaNotaComplementarTIPI>
+            <ipiAliquotaReduzida>00000</ipiAliquotaReduzida>
+            <ipiAliquotaValorDevido>000000000000954</ipiAliquotaValorDevido>
+            <ipiAliquotaValorRecolher>000000000000000</ipiAliquotaValorRecolher>
+            <ipiBeneficioFiscalAtoLegalAno>1992</ipiBeneficioFiscalAtoLegalAno>
+            <ipiBeneficioFiscalAtoLegalCodigo>LEI</ipiBeneficioFiscalAtoLegalCodigo>
+            <ipiBeneficioFiscalAtoLegalEX>000</ipiBeneficioFiscalAtoLegalEX>
+            <ipiBeneficioFiscalAtoLegalNumero>008402</ipiBeneficioFiscalAtoLegalNumero>
+            <ipiBeneficioFiscalAtoLegalOrgaoEmissor>EXEC</ipiBeneficioFiscalAtoLegalOrgaoEmissor>
+            <ipiRegimeTributacaoCodigo>1</ipiRegimeTributacaoCodigo>
+            <ipiRegimeTributacaoNome>ISENCAO</ipiRegimeTributacaoNome>
+            <mercadoria>
+                <descricaoMercadoria>PN:33340CA063;ARRUELA DE ACO LIGA FABRICADO DE ACORDO COM AS &#xD;NORMAS INTERNACIONAIS PARA UTILIZACAO NA INDUSTRIA AERONAUTICA / &#xD;AEROESPACIAL; MATERIAL DE USO AERONAUTICO; APLICACAO ASA FIXA. &#xD;</descricaoMercadoria>
+                <numeroSequencialItem>01</numeroSequencialItem>
+                <quantidade>00000001000000</quantidade>
+                <unidadeMedida>UNIDADE </unidadeMedida>
+                <valorUnitario>00000000000029000000</valorUnitario>
+            </mercadoria>
+            <nomenclaturaValorAduaneiro>
+                <atributo>AA</atributo>
+                <especificacao>0003</especificacao>
+                <nivelNome>POSICAO </nivelNome>
+            </nomenclaturaValorAduaneiro>
+            <nomenclaturaValorAduaneiro>
+                <atributo>AB</atributo>
+                <especificacao>0003</especificacao>
+                <nivelNome>POSICAO </nivelNome>
+            </nomenclaturaValorAduaneiro>
+            <nomenclaturaValorAduaneiro>
+                <atributo>AC</atributo>
+                <especificacao>0001</especificacao>
+                <nivelNome>POSICAO </nivelNome>
+            </nomenclaturaValorAduaneiro>
+            <numeroAdicao>007</numeroAdicao>
+            <numeroDI>1805033540</numeroDI>
+            <numeroLI>0000000000</numeroLI>
+            <paisAquisicaoMercadoriaCodigo>249</paisAquisicaoMercadoriaCodigo>
+            <paisAquisicaoMercadoriaNome>ESTADOS UNIDOS</paisAquisicaoMercadoriaNome>
+            <paisOrigemMercadoriaCodigo>275</paisOrigemMercadoriaCodigo>
+            <paisOrigemMercadoriaNome>FRANCA</paisOrigemMercadoriaNome>
+            <pisCofinsBaseCalculoAliquotaICMS>00000</pisCofinsBaseCalculoAliquotaICMS>
+            <pisCofinsBaseCalculoFundamentoLegalCodigo>17</pisCofinsBaseCalculoFundamentoLegalCodigo>
+            <pisCofinsBaseCalculoFundamentoLegalNome>BENS A SEREM EMPREGADOS EM AERONAVES (LEI 10865/04 - ART 8º,</pisCofinsBaseCalculoFundamentoLegalNome>
+            <pisCofinsBaseCalculoPercentualReducao>00000</pisCofinsBaseCalculoPercentualReducao>
+            <pisCofinsBaseCalculoValor>000000000009546</pisCofinsBaseCalculoValor>
+            <pisCofinsFundamentoLegalReducaoCodigo>00</pisCofinsFundamentoLegalReducaoCodigo>
+            <pisCofinsRegimeTributacaoCodigo>4</pisCofinsRegimeTributacaoCodigo>
+            <pisCofinsRegimeTributacaoNome>REDUCAO</pisCofinsRegimeTributacaoNome>
+            <pisPasepAliquotaAdValorem>00210</pisPasepAliquotaAdValorem>
+            <pisPasepAliquotaEspecificaQuantidadeUnidade>000000000</pisPasepAliquotaEspecificaQuantidadeUnidade>
+            <pisPasepAliquotaEspecificaValor>0000000000</pisPasepAliquotaEspecificaValor>
+            <pisPasepAliquotaReduzida>00000</pisPasepAliquotaReduzida>
+            <pisPasepAliquotaValorDevido>000000000000000</pisPasepAliquotaValorDevido>
+            <pisPasepAliquotaValorRecolher>000000000000000</pisPasepAliquotaValorRecolher>
+            <relacaoCompradorVendedor>Fabricante não é o Exportador</relacaoCompradorVendedor>
+            <seguroMoedaNegociadaCodigo>000</seguroMoedaNegociadaCodigo>
+            <seguroValorMoedaNegociada>000000000000000</seguroValorMoedaNegociada>
+            <seguroValorReais>000000000000000</seguroValorReais>
+            <sequencialRetificacao>00</sequencialRetificacao>
+            <valorMultaARecolher>000000000000000</valorMultaARecolher>
+            <valorMultaARecolherAjustado>000000000000000</valorMultaARecolherAjustado>
+            <valorReaisFreteInternacional>000000000000017</valorReaisFreteInternacional>
+            <valorReaisSeguroInternacional>000000000000000</valorReaisSeguroInternacional>
+            <valorTotalCondicaoVenda>290000000</valorTotalCondicaoVenda>
+            <vinculoCompradorVendedor>Há vinculação entre comprador e vendedor sem influência no preço da mercadoria.</vinculoCompradorVendedor>
+        </adicao>
+        <adicao>
+            <cideValorAliquotaEspecifica>00000000000</cideValorAliquotaEspecifica>
+            <cideValorDevido>000000000000000</cideValorDevido>
+            <cideValorRecolher>000000000000000</cideValorRecolher>
+            <codigoRelacaoCompradorVendedor>2</codigoRelacaoCompradorVendedor>
+            <codigoVinculoCompradorVendedor>2</codigoVinculoCompradorVendedor>
+            <cofinsAliquotaAdValorem>01065</cofinsAliquotaAdValorem>
+            <cofinsAliquotaEspecificaQuantidadeUnidade>000000000</cofinsAliquotaEspecificaQuantidadeUnidade>
+            <cofinsAliquotaEspecificaValor>0000000000</cofinsAliquotaEspecificaValor>
+            <cofinsAliquotaReduzida>00100</cofinsAliquotaReduzida>
+            <cofinsAliquotaValorDevido>000000000000832</cofinsAliquotaValorDevido>
+            <cofinsAliquotaValorRecolher>000000000000832</cofinsAliquotaValorRecolher>
+            <condicaoVendaIncoterm>FCA</condicaoVendaIncoterm>
+            <condicaoVendaLocal>SAO PAULO - SP</condicaoVendaLocal>
+            <condicaoVendaMetodoValoracaoCodigo>01</condicaoVendaMetodoValoracaoCodigo>
+            <condicaoVendaMetodoValoracaoNome>METODO 1 - ART. 1 DO ACORDO (DECRETO 92930/86)</condicaoVendaMetodoValoracaoNome>
+            <condicaoVendaMoedaCodigo>220</condicaoVendaMoedaCodigo>
+            <condicaoVendaMoedaNome>DOLAR DOS EUA</condicaoVendaMoedaNome>
+            <condicaoVendaValorMoeda>000000000025200</condicaoVendaValorMoeda>
+            <condicaoVendaValorReais>000000000082804</condicaoVendaValorReais>
+            <dadosCambiaisCoberturaCambialCodigo>1</dadosCambiaisCoberturaCambialCodigo>
+            <dadosCambiaisCoberturaCambialNome>COM COBERTURA CAMBIAL E PAGAMENTO FINAL A PRAZO DE ATE' 180</dadosCambiaisCoberturaCambialNome>
+            <dadosCambiaisInstituicaoFinanciadoraCodigo>00</dadosCambiaisInstituicaoFinanciadoraCodigo>
+            <dadosCambiaisInstituicaoFinanciadoraNome>N/I</dadosCambiaisInstituicaoFinanciadoraNome>
+            <dadosCambiaisMotivoSemCoberturaCodigo>00</dadosCambiaisMotivoSemCoberturaCodigo>
+            <dadosCambiaisMotivoSemCoberturaNome>N/I</dadosCambiaisMotivoSemCoberturaNome>
+            <dadosCambiaisValorRealCambio>000000000000000</dadosCambiaisValorRealCambio>
+            <dadosCargaPaisProcedenciaCodigo>000</dadosCargaPaisProcedenciaCodigo>
+            <dadosCargaUrfEntradaCodigo>0000000</dadosCargaUrfEntradaCodigo>
+            <dadosCargaViaTransporteCodigo>00</dadosCargaViaTransporteCodigo>
+            <dadosMercadoriaAplicacao>REVENDA</dadosMercadoriaAplicacao>
+            <dadosMercadoriaCodigoNaladiNCCA>0000000</dadosMercadoriaCodigoNaladiNCCA>
+            <dadosMercadoriaCodigoNaladiSH>00000000</dadosMercadoriaCodigoNaladiSH>
+            <dadosMercadoriaCodigoNcm>73182900</dadosMercadoriaCodigoNcm>
+            <dadosMercadoriaCondicao>NOVA</dadosMercadoriaCondicao>
+            <dadosMercadoriaMedidaEstatisticaQuantidade>00000000002000</dadosMercadoriaMedidaEstatisticaQuantidade>
+            <dadosMercadoriaMedidaEstatisticaUnidade>QUILOGRAMA LIQUIDO</dadosMercadoriaMedidaEstatisticaUnidade>
+            <dadosMercadoriaNomeNcm>-- Outros</dadosMercadoriaNomeNcm>
+            <dadosMercadoriaPesoLiquido>000000000002000</dadosMercadoriaPesoLiquido>
+            <dcrCoeficienteReducao>00000</dcrCoeficienteReducao>
+            <dcrIdentificacao>00000000</dcrIdentificacao>
+            <dcrValorDevido>000000000000000</dcrValorDevido>
+            <dcrValorDolar>000000000000000</dcrValorDolar>
+            <dcrValorReal>000000000000000</dcrValorReal>
+            <dcrValorRecolher>000000000000000</dcrValorRecolher>
+            <fabricanteCidade>PLAISER</fabricanteCidade>
+            <fabricanteEstado>CEDEX</fabricanteEstado>
+            <fabricanteLogradouro>RUE PIERRE CURIE BP 1</fabricanteLogradouro>
+            <fabricanteNome>INTERTECHNIQUE</fabricanteNome>
+            <fabricanteNumero>61,</fabricanteNumero>
+            <fornecedorCidade>LITTLE FERRY</fornecedorCidade>
+            <fornecedorComplemento>ZIP CODE 07643</fornecedorComplemento>
+            <fornecedorEstado>NEW JERSEY</fornecedorEstado>
+            <fornecedorLogradouro>RISER ROAD</fornecedorLogradouro>
+            <fornecedorNome>DASSAULT FALCON JET CORP</fornecedorNome>
+            <fornecedorNumero>200</fornecedorNumero>
+            <freteMoedaNegociadaCodigo>000</freteMoedaNegociadaCodigo>
+            <freteValorMoedaNegociada>000000000000129</freteValorMoedaNegociada>
+            <freteValorReais>000000000000426</freteValorReais>
+            <iiAcordoTarifarioTipoCodigo>0</iiAcordoTarifarioTipoCodigo>
+            <iiAliquotaAcordo>00000</iiAliquotaAcordo>
+            <iiAliquotaAdValorem>01600</iiAliquotaAdValorem>
+            <iiAliquotaPercentualReducao>00000</iiAliquotaPercentualReducao>
+            <iiAliquotaReduzida>00000</iiAliquotaReduzida>
+            <iiAliquotaValorCalculado>000000000013316</iiAliquotaValorCalculado>
+            <iiAliquotaValorDevido>000000000013316</iiAliquotaValorDevido>
+            <iiAliquotaValorRecolher>000000000000000</iiAliquotaValorRecolher>
+            <iiAliquotaValorReduzido>000000000000000</iiAliquotaValorReduzido>
+            <iiBaseCalculo>000000000083231</iiBaseCalculo>
+            <iiFundamentoLegalCodigo>05</iiFundamentoLegalCodigo>
+            <iiFundamentoLegalNome>PARTES,PECAS E COMPS.DESTNS.REPARO, REVISAO E MANUT.D/AERONA</iiFundamentoLegalNome>
+            <iiMotivoAdmissaoTemporariaCodigo>00</iiMotivoAdmissaoTemporariaCodigo>
+            <iiRegimeTributacaoCodigo>3</iiRegimeTributacaoCodigo>
+            <iiRegimeTributacaoNome>ISENCAO</iiRegimeTributacaoNome>
+            <ipiAliquotaAdValorem>01000</ipiAliquotaAdValorem>
+            <ipiAliquotaEspecificaCapacidadeRecipciente>00000</ipiAliquotaEspecificaCapacidadeRecipciente>
+            <ipiAliquotaEspecificaQuantidadeUnidadeMedida>000000000</ipiAliquotaEspecificaQuantidadeUnidadeMedida>
+            <ipiAliquotaEspecificaTipoRecipienteCodigo>00</ipiAliquotaEspecificaTipoRecipienteCodigo>
+            <ipiAliquotaEspecificaValorUnidadeMedida>0000000000</ipiAliquotaEspecificaValorUnidadeMedida>
+            <ipiAliquotaNotaComplementarTIPI>00</ipiAliquotaNotaComplementarTIPI>
+            <ipiAliquotaReduzida>00000</ipiAliquotaReduzida>
+            <ipiAliquotaValorDevido>000000000008323</ipiAliquotaValorDevido>
+            <ipiAliquotaValorRecolher>000000000000000</ipiAliquotaValorRecolher>
+            <ipiBeneficioFiscalAtoLegalAno>1992</ipiBeneficioFiscalAtoLegalAno>
+            <ipiBeneficioFiscalAtoLegalCodigo>LEI</ipiBeneficioFiscalAtoLegalCodigo>
+            <ipiBeneficioFiscalAtoLegalEX>000</ipiBeneficioFiscalAtoLegalEX>
+            <ipiBeneficioFiscalAtoLegalNumero>008402</ipiBeneficioFiscalAtoLegalNumero>
+            <ipiBeneficioFiscalAtoLegalOrgaoEmissor>EXEC</ipiBeneficioFiscalAtoLegalOrgaoEmissor>
+            <ipiRegimeTributacaoCodigo>1</ipiRegimeTributacaoCodigo>
+            <ipiRegimeTributacaoNome>ISENCAO</ipiRegimeTributacaoNome>
+            <mercadoria>
+                <descricaoMercadoria>PN:AF85-71;TRAVA DE ACO LIGA DO SISTEMA DE COMBUSTIVEL FABRICADO &#xD;DE ACORDO COM AS NORMAS INTERNACIONAIS PARA UTILIZACAO NA &#xD;INDUSTRIA AERONAUTICA / AEROESPACIAL; MATERIAL DE USO &#xD;AERONAUTICO; APLICACAO ASA FIXA. &#xD;</descricaoMercadoria>
+                <numeroSequencialItem>01</numeroSequencialItem>
+                <quantidade>00000001000000</quantidade>
+                <unidadeMedida>UNIDADE </unidadeMedida>
+                <valorUnitario>00000000000252000000</valorUnitario>
+            </mercadoria>
+            <nomenclaturaValorAduaneiro>
+                <atributo>AA</atributo>
+                <especificacao>0003</especificacao>
+                <nivelNome>POSICAO </nivelNome>
+            </nomenclaturaValorAduaneiro>
+            <nomenclaturaValorAduaneiro>
+                <atributo>AB</atributo>
+                <especificacao>0003</especificacao>
+                <nivelNome>POSICAO </nivelNome>
+            </nomenclaturaValorAduaneiro>
+            <nomenclaturaValorAduaneiro>
+                <atributo>AC</atributo>
+                <especificacao>0001</especificacao>
+                <nivelNome>POSICAO </nivelNome>
+            </nomenclaturaValorAduaneiro>
+            <numeroAdicao>008</numeroAdicao>
+            <numeroDI>1805033540</numeroDI>
+            <numeroLI>0000000000</numeroLI>
+            <paisAquisicaoMercadoriaCodigo>249</paisAquisicaoMercadoriaCodigo>
+            <paisAquisicaoMercadoriaNome>ESTADOS UNIDOS</paisAquisicaoMercadoriaNome>
+            <paisOrigemMercadoriaCodigo>275</paisOrigemMercadoriaCodigo>
+            <paisOrigemMercadoriaNome>FRANCA</paisOrigemMercadoriaNome>
+            <pisCofinsBaseCalculoAliquotaICMS>00000</pisCofinsBaseCalculoAliquotaICMS>
+            <pisCofinsBaseCalculoFundamentoLegalCodigo>17</pisCofinsBaseCalculoFundamentoLegalCodigo>
+            <pisCofinsBaseCalculoFundamentoLegalNome>BENS A SEREM EMPREGADOS EM AERONAVES (LEI 10865/04 - ART 8º,</pisCofinsBaseCalculoFundamentoLegalNome>
+            <pisCofinsBaseCalculoPercentualReducao>00000</pisCofinsBaseCalculoPercentualReducao>
+            <pisCofinsBaseCalculoValor>000000000083231</pisCofinsBaseCalculoValor>
+            <pisCofinsFundamentoLegalReducaoCodigo>00</pisCofinsFundamentoLegalReducaoCodigo>
+            <pisCofinsRegimeTributacaoCodigo>4</pisCofinsRegimeTributacaoCodigo>
+            <pisCofinsRegimeTributacaoNome>REDUCAO</pisCofinsRegimeTributacaoNome>
+            <pisPasepAliquotaAdValorem>00210</pisPasepAliquotaAdValorem>
+            <pisPasepAliquotaEspecificaQuantidadeUnidade>000000000</pisPasepAliquotaEspecificaQuantidadeUnidade>
+            <pisPasepAliquotaEspecificaValor>0000000000</pisPasepAliquotaEspecificaValor>
+            <pisPasepAliquotaReduzida>00000</pisPasepAliquotaReduzida>
+            <pisPasepAliquotaValorDevido>000000000000000</pisPasepAliquotaValorDevido>
+            <pisPasepAliquotaValorRecolher>000000000000000</pisPasepAliquotaValorRecolher>
+            <relacaoCompradorVendedor>Fabricante não é o Exportador</relacaoCompradorVendedor>
+            <seguroMoedaNegociadaCodigo>000</seguroMoedaNegociadaCodigo>
+            <seguroValorMoedaNegociada>000000000000000</seguroValorMoedaNegociada>
+            <seguroValorReais>000000000000000</seguroValorReais>
+            <sequencialRetificacao>00</sequencialRetificacao>
+            <valorMultaARecolher>000000000000000</valorMultaARecolher>
+            <valorMultaARecolherAjustado>000000000000000</valorMultaARecolherAjustado>
+            <valorReaisFreteInternacional>000000000000426</valorReaisFreteInternacional>
+            <valorReaisSeguroInternacional>000000000000000</valorReaisSeguroInternacional>
+            <valorTotalCondicaoVenda>2520000000</valorTotalCondicaoVenda>
+            <vinculoCompradorVendedor>Há vinculação entre comprador e vendedor sem influência no preço da mercadoria.</vinculoCompradorVendedor>
+        </adicao>
+        <adicao>
+            <cideValorAliquotaEspecifica>00000000000</cideValorAliquotaEspecifica>
+            <cideValorDevido>000000000000000</cideValorDevido>
+            <cideValorRecolher>000000000000000</cideValorRecolher>
+            <codigoRelacaoCompradorVendedor>2</codigoRelacaoCompradorVendedor>
+            <codigoVinculoCompradorVendedor>2</codigoVinculoCompradorVendedor>
+            <cofinsAliquotaAdValorem>00965</cofinsAliquotaAdValorem>
+            <cofinsAliquotaEspecificaQuantidadeUnidade>000000000</cofinsAliquotaEspecificaQuantidadeUnidade>
+            <cofinsAliquotaEspecificaValor>0000000000</cofinsAliquotaEspecificaValor>
+            <cofinsAliquotaReduzida>00100</cofinsAliquotaReduzida>
+            <cofinsAliquotaValorDevido>000000000000412</cofinsAliquotaValorDevido>
+            <cofinsAliquotaValorRecolher>000000000000412</cofinsAliquotaValorRecolher>
+            <condicaoVendaIncoterm>FCA</condicaoVendaIncoterm>
+            <condicaoVendaLocal>SAO PAULO - SP</condicaoVendaLocal>
+            <condicaoVendaMetodoValoracaoCodigo>01</condicaoVendaMetodoValoracaoCodigo>
+            <condicaoVendaMetodoValoracaoNome>METODO 1 - ART. 1 DO ACORDO (DECRETO 92930/86)</condicaoVendaMetodoValoracaoNome>
+            <condicaoVendaMoedaCodigo>220</condicaoVendaMoedaCodigo>
+            <condicaoVendaMoedaNome>DOLAR DOS EUA</condicaoVendaMoedaNome>
+            <condicaoVendaValorMoeda>000000000012019</condicaoVendaValorMoeda>
+            <condicaoVendaValorReais>000000000039493</condicaoVendaValorReais>
+            <dadosCambiaisCoberturaCambialCodigo>1</dadosCambiaisCoberturaCambialCodigo>
+            <dadosCambiaisCoberturaCambialNome>COM COBERTURA CAMBIAL E PAGAMENTO FINAL A PRAZO DE ATE' 180</dadosCambiaisCoberturaCambialNome>
+            <dadosCambiaisInstituicaoFinanciadoraCodigo>00</dadosCambiaisInstituicaoFinanciadoraCodigo>
+            <dadosCambiaisInstituicaoFinanciadoraNome>N/I</dadosCambiaisInstituicaoFinanciadoraNome>
+            <dadosCambiaisMotivoSemCoberturaCodigo>00</dadosCambiaisMotivoSemCoberturaCodigo>
+            <dadosCambiaisMotivoSemCoberturaNome>N/I</dadosCambiaisMotivoSemCoberturaNome>
+            <dadosCambiaisValorRealCambio>000000000000000</dadosCambiaisValorRealCambio>
+            <dadosCargaPaisProcedenciaCodigo>000</dadosCargaPaisProcedenciaCodigo>
+            <dadosCargaUrfEntradaCodigo>0000000</dadosCargaUrfEntradaCodigo>
+            <dadosCargaViaTransporteCodigo>00</dadosCargaViaTransporteCodigo>
+            <dadosMercadoriaAplicacao>REVENDA</dadosMercadoriaAplicacao>
+            <dadosMercadoriaCodigoNaladiNCCA>0000000</dadosMercadoriaCodigoNaladiNCCA>
+            <dadosMercadoriaCodigoNaladiSH>00000000</dadosMercadoriaCodigoNaladiSH>
+            <dadosMercadoriaCodigoNcm>83024900</dadosMercadoriaCodigoNcm>
+            <dadosMercadoriaCondicao>NOVA</dadosMercadoriaCondicao>
+            <dadosMercadoriaMedidaEstatisticaQuantidade>00000000008000</dadosMercadoriaMedidaEstatisticaQuantidade>
+            <dadosMercadoriaMedidaEstatisticaUnidade>QUILOGRAMA LIQUIDO</dadosMercadoriaMedidaEstatisticaUnidade>
+            <dadosMercadoriaNomeNcm>-- Outros</dadosMercadoriaNomeNcm>
+            <dadosMercadoriaPesoLiquido>000000000008000</dadosMercadoriaPesoLiquido>
+            <dcrCoeficienteReducao>00000</dcrCoeficienteReducao>
+            <dcrIdentificacao>00000000</dcrIdentificacao>
+            <dcrValorDevido>000000000000000</dcrValorDevido>
+            <dcrValorDolar>000000000000000</dcrValorDolar>
+            <dcrValorReal>000000000000000</dcrValorReal>
+            <dcrValorRecolher>000000000000000</dcrValorRecolher>
+            <fabricanteCidade>MILL CREEK</fabricanteCidade>
+            <fabricanteEstado>NGTON</fabricanteEstado>
+            <fabricanteLogradouro>16001 MILL CREEK BLVD. SE</fabricanteLogradouro>
+            <fabricanteNome>SEALTH AERO MARINE</fabricanteNome>
+            <fornecedorCidade>LITTLE FERRY</fornecedorCidade>
+            <fornecedorComplemento>ZIP CODE 07643</fornecedorComplemento>
+            <fornecedorEstado>NEW JERSEY</fornecedorEstado>
+            <fornecedorLogradouro>RISER ROAD</fornecedorLogradouro>
+            <fornecedorNome>DASSAULT FALCON JET CORP</fornecedorNome>
+            <fornecedorNumero>200</fornecedorNumero>
+            <freteMoedaNegociadaCodigo>000</freteMoedaNegociadaCodigo>
+            <freteValorMoedaNegociada>000000000000519</freteValorMoedaNegociada>
+            <freteValorReais>000000000001707</freteValorReais>
+            <iiAcordoTarifarioTipoCodigo>0</iiAcordoTarifarioTipoCodigo>
+            <iiAliquotaAcordo>00000</iiAliquotaAcordo>
+            <iiAliquotaAdValorem>01600</iiAliquotaAdValorem>
+            <iiAliquotaPercentualReducao>00000</iiAliquotaPercentualReducao>
+            <iiAliquotaReduzida>00000</iiAliquotaReduzida>
+            <iiAliquotaValorCalculado>000000000006592</iiAliquotaValorCalculado>
+            <iiAliquotaValorDevido>000000000006592</iiAliquotaValorDevido>
+            <iiAliquotaValorRecolher>000000000000000</iiAliquotaValorRecolher>
+            <iiAliquotaValorReduzido>000000000000000</iiAliquotaValorReduzido>
+            <iiBaseCalculo>000000000041200</iiBaseCalculo>
+            <iiFundamentoLegalCodigo>05</iiFundamentoLegalCodigo>
+            <iiFundamentoLegalNome>PARTES,PECAS E COMPS.DESTNS.REPARO, REVISAO E MANUT.D/AERONA</iiFundamentoLegalNome>
+            <iiMotivoAdmissaoTemporariaCodigo>00</iiMotivoAdmissaoTemporariaCodigo>
+            <iiRegimeTributacaoCodigo>3</iiRegimeTributacaoCodigo>
+            <iiRegimeTributacaoNome>ISENCAO</iiRegimeTributacaoNome>
+            <ipiAliquotaAdValorem>01000</ipiAliquotaAdValorem>
+            <ipiAliquotaEspecificaCapacidadeRecipciente>00000</ipiAliquotaEspecificaCapacidadeRecipciente>
+            <ipiAliquotaEspecificaQuantidadeUnidadeMedida>000000000</ipiAliquotaEspecificaQuantidadeUnidadeMedida>
+            <ipiAliquotaEspecificaTipoRecipienteCodigo>00</ipiAliquotaEspecificaTipoRecipienteCodigo>
+            <ipiAliquotaEspecificaValorUnidadeMedida>0000000000</ipiAliquotaEspecificaValorUnidadeMedida>
+            <ipiAliquotaNotaComplementarTIPI>00</ipiAliquotaNotaComplementarTIPI>
+            <ipiAliquotaReduzida>00000</ipiAliquotaReduzida>
+            <ipiAliquotaValorDevido>000000000004120</ipiAliquotaValorDevido>
+            <ipiAliquotaValorRecolher>000000000000000</ipiAliquotaValorRecolher>
+            <ipiBeneficioFiscalAtoLegalAno>1992</ipiBeneficioFiscalAtoLegalAno>
+            <ipiBeneficioFiscalAtoLegalCodigo>LEI</ipiBeneficioFiscalAtoLegalCodigo>
+            <ipiBeneficioFiscalAtoLegalEX>000</ipiBeneficioFiscalAtoLegalEX>
+            <ipiBeneficioFiscalAtoLegalNumero>008402</ipiBeneficioFiscalAtoLegalNumero>
+            <ipiBeneficioFiscalAtoLegalOrgaoEmissor>EXEC</ipiBeneficioFiscalAtoLegalOrgaoEmissor>
+            <ipiRegimeTributacaoCodigo>1</ipiRegimeTributacaoCodigo>
+            <ipiRegimeTributacaoNome>ISENCAO</ipiRegimeTributacaoNome>
+            <mercadoria>
+                <descricaoMercadoria>PN:SAM286-1;PUXADOR DA GAVETA DA AERONAVE; MATERIAL DE USO &#xD;AERONAUTICO; APLICACAO ASA FIXA; PREFIXO AERONAVE PP-CFJ. &#xD;</descricaoMercadoria>
+                <numeroSequencialItem>01</numeroSequencialItem>
+                <quantidade>00000000100000</quantidade>
+                <unidadeMedida>UNIDADE </unidadeMedida>
+                <valorUnitario>00000000001201900000</valorUnitario>
+            </mercadoria>
+            <numeroAdicao>009</numeroAdicao>
+            <numeroDI>1805033540</numeroDI>
+            <numeroLI>0000000000</numeroLI>
+            <paisAquisicaoMercadoriaCodigo>249</paisAquisicaoMercadoriaCodigo>
+            <paisAquisicaoMercadoriaNome>ESTADOS UNIDOS</paisAquisicaoMercadoriaNome>
+            <paisOrigemMercadoriaCodigo>249</paisOrigemMercadoriaCodigo>
+            <paisOrigemMercadoriaNome>ESTADOS UNIDOS</paisOrigemMercadoriaNome>
+            <pisCofinsBaseCalculoAliquotaICMS>00000</pisCofinsBaseCalculoAliquotaICMS>
+            <pisCofinsBaseCalculoFundamentoLegalCodigo>17</pisCofinsBaseCalculoFundamentoLegalCodigo>
+            <pisCofinsBaseCalculoFundamentoLegalNome>BENS A SEREM EMPREGADOS EM AERONAVES (LEI 10865/04 - ART 8º,</pisCofinsBaseCalculoFundamentoLegalNome>
+            <pisCofinsBaseCalculoPercentualReducao>00000</pisCofinsBaseCalculoPercentualReducao>
+            <pisCofinsBaseCalculoValor>000000000041200</pisCofinsBaseCalculoValor>
+            <pisCofinsFundamentoLegalReducaoCodigo>00</pisCofinsFundamentoLegalReducaoCodigo>
+            <pisCofinsRegimeTributacaoCodigo>4</pisCofinsRegimeTributacaoCodigo>
+            <pisCofinsRegimeTributacaoNome>REDUCAO</pisCofinsRegimeTributacaoNome>
+            <pisPasepAliquotaAdValorem>00210</pisPasepAliquotaAdValorem>
+            <pisPasepAliquotaEspecificaQuantidadeUnidade>000000000</pisPasepAliquotaEspecificaQuantidadeUnidade>
+            <pisPasepAliquotaEspecificaValor>0000000000</pisPasepAliquotaEspecificaValor>
+            <pisPasepAliquotaReduzida>00000</pisPasepAliquotaReduzida>
+            <pisPasepAliquotaValorDevido>000000000000000</pisPasepAliquotaValorDevido>
+            <pisPasepAliquotaValorRecolher>000000000000000</pisPasepAliquotaValorRecolher>
+            <relacaoCompradorVendedor>Fabricante não é o Exportador</relacaoCompradorVendedor>
+            <seguroMoedaNegociadaCodigo>000</seguroMoedaNegociadaCodigo>
+            <seguroValorMoedaNegociada>000000000000000</seguroValorMoedaNegociada>
+            <seguroValorReais>000000000000000</seguroValorReais>
+            <sequencialRetificacao>00</sequencialRetificacao>
+            <valorMultaARecolher>000000000000000</valorMultaARecolher>
+            <valorMultaARecolherAjustado>000000000000000</valorMultaARecolherAjustado>
+            <valorReaisFreteInternacional>000000000001707</valorReaisFreteInternacional>
+            <valorReaisSeguroInternacional>000000000000000</valorReaisSeguroInternacional>
+            <valorTotalCondicaoVenda>1201900000</valorTotalCondicaoVenda>
+            <vinculoCompradorVendedor>Há vinculação entre comprador e vendedor sem influência no preço da mercadoria.</vinculoCompradorVendedor>
+        </adicao>
+        <adicao>
+            <cideValorAliquotaEspecifica>00000000000</cideValorAliquotaEspecifica>
+            <cideValorDevido>000000000000000</cideValorDevido>
+            <cideValorRecolher>000000000000000</cideValorRecolher>
+            <codigoRelacaoCompradorVendedor>2</codigoRelacaoCompradorVendedor>
+            <codigoVinculoCompradorVendedor>2</codigoVinculoCompradorVendedor>
+            <cofinsAliquotaAdValorem>01065</cofinsAliquotaAdValorem>
+            <cofinsAliquotaEspecificaQuantidadeUnidade>000000000</cofinsAliquotaEspecificaQuantidadeUnidade>
+            <cofinsAliquotaEspecificaValor>0000000000</cofinsAliquotaEspecificaValor>
+            <cofinsAliquotaReduzida>00100</cofinsAliquotaReduzida>
+            <cofinsAliquotaValorDevido>000000000008057</cofinsAliquotaValorDevido>
+            <cofinsAliquotaValorRecolher>000000000008057</cofinsAliquotaValorRecolher>
+            <condicaoVendaIncoterm>FCA</condicaoVendaIncoterm>
+            <condicaoVendaLocal>SAO PAULO - SP</condicaoVendaLocal>
+            <condicaoVendaMetodoValoracaoCodigo>01</condicaoVendaMetodoValoracaoCodigo>
+            <condicaoVendaMetodoValoracaoNome>METODO 1 - ART. 1 DO ACORDO (DECRETO 92930/86)</condicaoVendaMetodoValoracaoNome>
+            <condicaoVendaMoedaCodigo>220</condicaoVendaMoedaCodigo>
+            <condicaoVendaMoedaNome>DOLAR DOS EUA</condicaoVendaMoedaNome>
+            <condicaoVendaValorMoeda>000000000231254</condicaoVendaValorMoeda>
+            <condicaoVendaValorReais>000000000759877</condicaoVendaValorReais>
+            <dadosCambiaisCoberturaCambialCodigo>4</dadosCambiaisCoberturaCambialCodigo>
+            <dadosCambiaisCoberturaCambialNome>SEM COBERTURA CAMBIAL</dadosCambiaisCoberturaCambialNome>
+            <dadosCambiaisInstituicaoFinanciadoraCodigo>00</dadosCambiaisInstituicaoFinanciadoraCodigo>
+            <dadosCambiaisInstituicaoFinanciadoraNome>N/I</dadosCambiaisInstituicaoFinanciadoraNome>
+            <dadosCambiaisMotivoSemCoberturaCodigo>99</dadosCambiaisMotivoSemCoberturaCodigo>
+            <dadosCambiaisMotivoSemCoberturaNome>OUTRAS IMPORTACOES SEM COBERTURA CAMBIAL</dadosCambiaisMotivoSemCoberturaNome>
+            <dadosCambiaisValorRealCambio>000000000000000</dadosCambiaisValorRealCambio>
+            <dadosCargaPaisProcedenciaCodigo>000</dadosCargaPaisProcedenciaCodigo>
+            <dadosCargaUrfEntradaCodigo>0000000</dadosCargaUrfEntradaCodigo>
+            <dadosCargaViaTransporteCodigo>00</dadosCargaViaTransporteCodigo>
+            <dadosMercadoriaAplicacao>REVENDA</dadosMercadoriaAplicacao>
+            <dadosMercadoriaCodigoNaladiNCCA>0000000</dadosMercadoriaCodigoNaladiNCCA>
+            <dadosMercadoriaCodigoNaladiSH>00000000</dadosMercadoriaCodigoNaladiSH>
+            <dadosMercadoriaCodigoNcm>84135090</dadosMercadoriaCodigoNcm>
+            <dadosMercadoriaCondicao>NOVA</dadosMercadoriaCondicao>
+            <dadosMercadoriaMedidaEstatisticaQuantidade>00000000100000</dadosMercadoriaMedidaEstatisticaQuantidade>
+            <dadosMercadoriaMedidaEstatisticaUnidade>UNIDADE</dadosMercadoriaMedidaEstatisticaUnidade>
+            <dadosMercadoriaNomeNcm>Outras</dadosMercadoriaNomeNcm>
+            <dadosMercadoriaPesoLiquido>000000000215000</dadosMercadoriaPesoLiquido>
+            <dcrCoeficienteReducao>00000</dcrCoeficienteReducao>
+            <dcrIdentificacao>00000000</dcrIdentificacao>
+            <dcrValorDevido>000000000000000</dcrValorDevido>
+            <dcrValorDolar>000000000000000</dcrValorDolar>
+            <dcrValorReal>000000000000000</dcrValorReal>
+            <dcrValorRecolher>000000000000000</dcrValorRecolher>
+            <destaqueNcm>
+                <numeroDestaque>999</numeroDestaque>
+            </destaqueNcm>
+            <fabricanteCidade>MACHESNEY PARK</fabricanteCidade>
+            <fabricanteEstado>IL</fabricanteEstado>
+            <fabricanteLogradouro>TURRET DR.</fabricanteLogradouro>
+            <fabricanteNome>MAG AEROSPACE</fabricanteNome>
+            <fabricanteNumero>1260</fabricanteNumero>
+            <fornecedorCidade>LITTLE FERRY</fornecedorCidade>
+            <fornecedorComplemento>ZIP CODE 07643</fornecedorComplemento>
+            <fornecedorEstado>NEW JERSEY</fornecedorEstado>
+            <fornecedorLogradouro>RISER ROAD</fornecedorLogradouro>
+            <fornecedorNome>DASSAULT FALCON JET CORP</fornecedorNome>
+            <fornecedorNumero>200</fornecedorNumero>
+            <freteMoedaNegociadaCodigo>000</freteMoedaNegociadaCodigo>
+            <freteValorMoedaNegociada>000000000013963</freteValorMoedaNegociada>
+            <freteValorReais>000000000045881</freteValorReais>
+            <iiAcordoTarifarioTipoCodigo>0</iiAcordoTarifarioTipoCodigo>
+            <iiAliquotaAcordo>00000</iiAliquotaAcordo>
+            <iiAliquotaAdValorem>01400</iiAliquotaAdValorem>
+            <iiAliquotaPercentualReducao>00000</iiAliquotaPercentualReducao>
+            <iiAliquotaReduzida>00000</iiAliquotaReduzida>
+            <iiAliquotaValorCalculado>000000000112806</iiAliquotaValorCalculado>
+            <iiAliquotaValorDevido>000000000112806</iiAliquotaValorDevido>
+            <iiAliquotaValorRecolher>000000000000000</iiAliquotaValorRecolher>
+            <iiAliquotaValorReduzido>000000000000000</iiAliquotaValorReduzido>
+            <iiBaseCalculo>000000000805759</iiBaseCalculo>
+            <iiFundamentoLegalCodigo>05</iiFundamentoLegalCodigo>
+            <iiFundamentoLegalNome>PARTES,PECAS E COMPS.DESTNS.REPARO, REVISAO E MANUT.D/AERONA</iiFundamentoLegalNome>
+            <iiMotivoAdmissaoTemporariaCodigo>00</iiMotivoAdmissaoTemporariaCodigo>
+            <iiRegimeTributacaoCodigo>3</iiRegimeTributacaoCodigo>
+            <iiRegimeTributacaoNome>ISENCAO</iiRegimeTributacaoNome>
+            <ipiAliquotaAdValorem>00000</ipiAliquotaAdValorem>
+            <ipiAliquotaEspecificaCapacidadeRecipciente>00000</ipiAliquotaEspecificaCapacidadeRecipciente>
+            <ipiAliquotaEspecificaQuantidadeUnidadeMedida>000000000</ipiAliquotaEspecificaQuantidadeUnidadeMedida>
+            <ipiAliquotaEspecificaTipoRecipienteCodigo>00</ipiAliquotaEspecificaTipoRecipienteCodigo>
+            <ipiAliquotaEspecificaValorUnidadeMedida>0000000000</ipiAliquotaEspecificaValorUnidadeMedida>
+            <ipiAliquotaNotaComplementarTIPI>00</ipiAliquotaNotaComplementarTIPI>
+            <ipiAliquotaReduzida>00000</ipiAliquotaReduzida>
+            <ipiAliquotaValorDevido>000000000000000</ipiAliquotaValorDevido>
+            <ipiAliquotaValorRecolher>000000000000000</ipiAliquotaValorRecolher>
+            <ipiBeneficioFiscalAtoLegalAno>1992</ipiBeneficioFiscalAtoLegalAno>
+            <ipiBeneficioFiscalAtoLegalCodigo>LEI</ipiBeneficioFiscalAtoLegalCodigo>
+            <ipiBeneficioFiscalAtoLegalEX>000</ipiBeneficioFiscalAtoLegalEX>
+            <ipiBeneficioFiscalAtoLegalNumero>008402</ipiBeneficioFiscalAtoLegalNumero>
+            <ipiBeneficioFiscalAtoLegalOrgaoEmissor>EXEC</ipiBeneficioFiscalAtoLegalOrgaoEmissor>
+            <ipiRegimeTributacaoCodigo>1</ipiRegimeTributacaoCodigo>
+            <ipiRegimeTributacaoNome>ISENCAO</ipiRegimeTributacaoNome>
+            <mercadoria>
+                <descricaoMercadoria>PN:3519-004; SERIAL: 3-372; BOMBA DE DRENAGEM DO SISTEMA DO &#xD;BANHEIRO; ITEM REVISADO/USADO; MATERIAL DE USO AERONAUTICO; &#xD;APLICACAO ASA FIXA; PREFIXO AERONAVE PP-PPN. &#xD;</descricaoMercadoria>
+                <numeroSequencialItem>01</numeroSequencialItem>
+                <quantidade>00000000100000</quantidade>
+                <unidadeMedida>UNIDADE </unidadeMedida>
+                <valorUnitario>00000000023125400000</valorUnitario>
+            </mercadoria>
+            <numeroAdicao>010</numeroAdicao>
+            <numeroDI>1805033540</numeroDI>
+            <numeroLI>0000000000</numeroLI>
+            <paisAquisicaoMercadoriaCodigo>249</paisAquisicaoMercadoriaCodigo>
+            <paisAquisicaoMercadoriaNome>ESTADOS UNIDOS</paisAquisicaoMercadoriaNome>
+            <paisOrigemMercadoriaCodigo>249</paisOrigemMercadoriaCodigo>
+            <paisOrigemMercadoriaNome>ESTADOS UNIDOS</paisOrigemMercadoriaNome>
+            <pisCofinsBaseCalculoAliquotaICMS>00000</pisCofinsBaseCalculoAliquotaICMS>
+            <pisCofinsBaseCalculoFundamentoLegalCodigo>17</pisCofinsBaseCalculoFundamentoLegalCodigo>
+            <pisCofinsBaseCalculoFundamentoLegalNome>BENS A SEREM EMPREGADOS EM AERONAVES (LEI 10865/04 - ART 8º,</pisCofinsBaseCalculoFundamentoLegalNome>
+            <pisCofinsBaseCalculoPercentualReducao>00000</pisCofinsBaseCalculoPercentualReducao>
+            <pisCofinsBaseCalculoValor>000000000805759</pisCofinsBaseCalculoValor>
+            <pisCofinsFundamentoLegalReducaoCodigo>00</pisCofinsFundamentoLegalReducaoCodigo>
+            <pisCofinsRegimeTributacaoCodigo>4</pisCofinsRegimeTributacaoCodigo>
+            <pisCofinsRegimeTributacaoNome>REDUCAO</pisCofinsRegimeTributacaoNome>
+            <pisPasepAliquotaAdValorem>00210</pisPasepAliquotaAdValorem>
+            <pisPasepAliquotaEspecificaQuantidadeUnidade>000000000</pisPasepAliquotaEspecificaQuantidadeUnidade>
+            <pisPasepAliquotaEspecificaValor>0000000000</pisPasepAliquotaEspecificaValor>
+            <pisPasepAliquotaReduzida>00000</pisPasepAliquotaReduzida>
+            <pisPasepAliquotaValorDevido>000000000000000</pisPasepAliquotaValorDevido>
+            <pisPasepAliquotaValorRecolher>000000000000000</pisPasepAliquotaValorRecolher>
+            <relacaoCompradorVendedor>Fabricante não é o Exportador</relacaoCompradorVendedor>
+            <seguroMoedaNegociadaCodigo>000</seguroMoedaNegociadaCodigo>
+            <seguroValorMoedaNegociada>000000000000000</seguroValorMoedaNegociada>
+            <seguroValorReais>000000000000000</seguroValorReais>
+            <sequencialRetificacao>00</sequencialRetificacao>
+            <valorMultaARecolher>000000000000000</valorMultaARecolher>
+            <valorMultaARecolherAjustado>000000000000000</valorMultaARecolherAjustado>
+            <valorReaisFreteInternacional>000000000045881</valorReaisFreteInternacional>
+            <valorReaisSeguroInternacional>000000000000000</valorReaisSeguroInternacional>
+            <valorTotalCondicaoVenda>23125400000</valorTotalCondicaoVenda>
+            <vinculoCompradorVendedor>Há vinculação entre comprador e vendedor sem influência no preço da mercadoria.</vinculoCompradorVendedor>
+        </adicao>
+        <adicao>
+            <cideValorAliquotaEspecifica>00000000000</cideValorAliquotaEspecifica>
+            <cideValorDevido>000000000000000</cideValorDevido>
+            <cideValorRecolher>000000000000000</cideValorRecolher>
+            <codigoRelacaoCompradorVendedor>2</codigoRelacaoCompradorVendedor>
+            <codigoVinculoCompradorVendedor>2</codigoVinculoCompradorVendedor>
+            <cofinsAliquotaAdValorem>01065</cofinsAliquotaAdValorem>
+            <cofinsAliquotaEspecificaQuantidadeUnidade>000000000</cofinsAliquotaEspecificaQuantidadeUnidade>
+            <cofinsAliquotaEspecificaValor>0000000000</cofinsAliquotaEspecificaValor>
+            <cofinsAliquotaReduzida>00100</cofinsAliquotaReduzida>
+            <cofinsAliquotaValorDevido>000000000006022</cofinsAliquotaValorDevido>
+            <cofinsAliquotaValorRecolher>000000000006022</cofinsAliquotaValorRecolher>
+            <condicaoVendaIncoterm>FCA</condicaoVendaIncoterm>
+            <condicaoVendaLocal>SAO PAULO - SP</condicaoVendaLocal>
+            <condicaoVendaMetodoValoracaoCodigo>01</condicaoVendaMetodoValoracaoCodigo>
+            <condicaoVendaMetodoValoracaoNome>METODO 1 - ART. 1 DO ACORDO (DECRETO 92930/86)</condicaoVendaMetodoValoracaoNome>
+            <condicaoVendaMoedaCodigo>220</condicaoVendaMoedaCodigo>
+            <condicaoVendaMoedaNome>DOLAR DOS EUA</condicaoVendaMoedaNome>
+            <condicaoVendaValorMoeda>000000000179000</condicaoVendaValorMoeda>
+            <condicaoVendaValorReais>000000000588176</condicaoVendaValorReais>
+            <dadosCambiaisCoberturaCambialCodigo>1</dadosCambiaisCoberturaCambialCodigo>
+            <dadosCambiaisCoberturaCambialNome>COM COBERTURA CAMBIAL E PAGAMENTO FINAL A PRAZO DE ATE' 180</dadosCambiaisCoberturaCambialNome>
+            <dadosCambiaisInstituicaoFinanciadoraCodigo>00</dadosCambiaisInstituicaoFinanciadoraCodigo>
+            <dadosCambiaisInstituicaoFinanciadoraNome>N/I</dadosCambiaisInstituicaoFinanciadoraNome>
+            <dadosCambiaisMotivoSemCoberturaCodigo>00</dadosCambiaisMotivoSemCoberturaCodigo>
+            <dadosCambiaisMotivoSemCoberturaNome>N/I</dadosCambiaisMotivoSemCoberturaNome>
+            <dadosCambiaisValorRealCambio>000000000000000</dadosCambiaisValorRealCambio>
+            <dadosCargaPaisProcedenciaCodigo>000</dadosCargaPaisProcedenciaCodigo>
+            <dadosCargaUrfEntradaCodigo>0000000</dadosCargaUrfEntradaCodigo>
+            <dadosCargaViaTransporteCodigo>00</dadosCargaViaTransporteCodigo>
+            <dadosMercadoriaAplicacao>REVENDA</dadosMercadoriaAplicacao>
+            <dadosMercadoriaCodigoNaladiNCCA>0000000</dadosMercadoriaCodigoNaladiNCCA>
+            <dadosMercadoriaCodigoNaladiSH>00000000</dadosMercadoriaCodigoNaladiSH>
+            <dadosMercadoriaCodigoNcm>84212300</dadosMercadoriaCodigoNcm>
+            <dadosMercadoriaCondicao>NOVA</dadosMercadoriaCondicao>
+            <dadosMercadoriaMedidaEstatisticaQuantidade>00000000100000</dadosMercadoriaMedidaEstatisticaQuantidade>
+            <dadosMercadoriaMedidaEstatisticaUnidade>UNIDADE</dadosMercadoriaMedidaEstatisticaUnidade>
+            <dadosMercadoriaNomeNcm>-- Para filtrar óleos minerais nos motores de ignição p</dadosMercadoriaNomeNcm>
+            <dadosMercadoriaPesoLiquido>000000000066000</dadosMercadoriaPesoLiquido>
+            <dcrCoeficienteReducao>00000</dcrCoeficienteReducao>
+            <dcrIdentificacao>00000000</dcrIdentificacao>
+            <dcrValorDevido>000000000000000</dcrValorDevido>
+            <dcrValorDolar>000000000000000</dcrValorDolar>
+            <dcrValorReal>000000000000000</dcrValorReal>
+            <dcrValorRecolher>000000000000000</dcrValorRecolher>
+            <destaqueNcm>
+                <numeroDestaque>999</numeroDestaque>
+            </destaqueNcm>
+            <fabricanteCidade>LONGUEUIL</fabricanteCidade>
+            <fabricanteEstado>EX</fabricanteEstado>
+            <fabricanteLogradouro>MARIE VICTORIN BLVD EAST</fabricanteLogradouro>
+            <fabricanteNome>PRATT &amp; WHITNEY</fabricanteNome>
+            <fabricanteNumero>1000</fabricanteNumero>
+            <fornecedorCidade>LITTLE FERRY</fornecedorCidade>
+            <fornecedorComplemento>ZIP CODE 07643</fornecedorComplemento>
+            <fornecedorEstado>NEW JERSEY</fornecedorEstado>
+            <fornecedorLogradouro>RISER ROAD</fornecedorLogradouro>
+            <fornecedorNome>DASSAULT FALCON JET CORP</fornecedorNome>
+            <fornecedorNumero>200</fornecedorNumero>
+            <freteMoedaNegociadaCodigo>000</freteMoedaNegociadaCodigo>
+            <freteValorMoedaNegociada>000000000004286</freteValorMoedaNegociada>
+            <freteValorReais>000000000014084</freteValorReais>
+            <iiAcordoTarifarioTipoCodigo>0</iiAcordoTarifarioTipoCodigo>
+            <iiAliquotaAcordo>00000</iiAliquotaAcordo>
+            <iiAliquotaAdValorem>01600</iiAliquotaAdValorem>
+            <iiAliquotaPercentualReducao>00000</iiAliquotaPercentualReducao>
+            <iiAliquotaReduzida>00000</iiAliquotaReduzida>
+            <iiAliquotaValorCalculado>000000000096361</iiAliquotaValorCalculado>
+            <iiAliquotaValorDevido>000000000096361</iiAliquotaValorDevido>
+            <iiAliquotaValorRecolher>000000000000000</iiAliquotaValorRecolher>
+            <iiAliquotaValorReduzido>000000000000000</iiAliquotaValorReduzido>
+            <iiBaseCalculo>000000000602261</iiBaseCalculo>
+            <iiFundamentoLegalCodigo>05</iiFundamentoLegalCodigo>
+            <iiFundamentoLegalNome>PARTES,PECAS E COMPS.DESTNS.REPARO, REVISAO E MANUT.D/AERONA</iiFundamentoLegalNome>
+            <iiMotivoAdmissaoTemporariaCodigo>00</iiMotivoAdmissaoTemporariaCodigo>
+            <iiRegimeTributacaoCodigo>3</iiRegimeTributacaoCodigo>
+            <iiRegimeTributacaoNome>ISENCAO</iiRegimeTributacaoNome>
+            <ipiAliquotaAdValorem>00800</ipiAliquotaAdValorem>
+            <ipiAliquotaEspecificaCapacidadeRecipciente>00000</ipiAliquotaEspecificaCapacidadeRecipciente>
+            <ipiAliquotaEspecificaQuantidadeUnidadeMedida>000000000</ipiAliquotaEspecificaQuantidadeUnidadeMedida>
+            <ipiAliquotaEspecificaTipoRecipienteCodigo>00</ipiAliquotaEspecificaTipoRecipienteCodigo>
+            <ipiAliquotaEspecificaValorUnidadeMedida>0000000000</ipiAliquotaEspecificaValorUnidadeMedida>
+            <ipiAliquotaNotaComplementarTIPI>00</ipiAliquotaNotaComplementarTIPI>
+            <ipiAliquotaReduzida>00000</ipiAliquotaReduzida>
+            <ipiAliquotaValorDevido>000000000048180</ipiAliquotaValorDevido>
+            <ipiAliquotaValorRecolher>000000000000000</ipiAliquotaValorRecolher>
+            <ipiBeneficioFiscalAtoLegalAno>1992</ipiBeneficioFiscalAtoLegalAno>
+            <ipiBeneficioFiscalAtoLegalCodigo>LEI</ipiBeneficioFiscalAtoLegalCodigo>
+            <ipiBeneficioFiscalAtoLegalEX>000</ipiBeneficioFiscalAtoLegalEX>
+            <ipiBeneficioFiscalAtoLegalNumero>008402</ipiBeneficioFiscalAtoLegalNumero>
+            <ipiBeneficioFiscalAtoLegalOrgaoEmissor>EXEC</ipiBeneficioFiscalAtoLegalOrgaoEmissor>
+            <ipiRegimeTributacaoCodigo>1</ipiRegimeTributacaoCodigo>
+            <ipiRegimeTributacaoNome>ISENCAO</ipiRegimeTributacaoNome>
+            <mercadoria>
+                <descricaoMercadoria>PN:30P2335-03;FILTRO DE OLEO PARA MOTORES DE IGNICAO; MATERIAL DE &#xD;USO AERONAUTICO; APLICACAO ASA FIXA. &#xD;</descricaoMercadoria>
+                <numeroSequencialItem>01</numeroSequencialItem>
+                <quantidade>00000000100000</quantidade>
+                <unidadeMedida>UNIDADE </unidadeMedida>
+                <valorUnitario>00000000017900000000</valorUnitario>
+            </mercadoria>
+            <numeroAdicao>011</numeroAdicao>
+            <numeroDI>1805033540</numeroDI>
+            <numeroLI>0000000000</numeroLI>
+            <paisAquisicaoMercadoriaCodigo>249</paisAquisicaoMercadoriaCodigo>
+            <paisAquisicaoMercadoriaNome>ESTADOS UNIDOS</paisAquisicaoMercadoriaNome>
+            <paisOrigemMercadoriaCodigo>149</paisOrigemMercadoriaCodigo>
+            <paisOrigemMercadoriaNome>CANADA</paisOrigemMercadoriaNome>
+            <pisCofinsBaseCalculoAliquotaICMS>00000</pisCofinsBaseCalculoAliquotaICMS>
+            <pisCofinsBaseCalculoFundamentoLegalCodigo>17</pisCofinsBaseCalculoFundamentoLegalCodigo>
+            <pisCofinsBaseCalculoFundamentoLegalNome>BENS A SEREM EMPREGADOS EM AERONAVES (LEI 10865/04 - ART 8º,</pisCofinsBaseCalculoFundamentoLegalNome>
+            <pisCofinsBaseCalculoPercentualReducao>00000</pisCofinsBaseCalculoPercentualReducao>
+            <pisCofinsBaseCalculoValor>000000000602261</pisCofinsBaseCalculoValor>
+            <pisCofinsFundamentoLegalReducaoCodigo>00</pisCofinsFundamentoLegalReducaoCodigo>
+            <pisCofinsRegimeTributacaoCodigo>4</pisCofinsRegimeTributacaoCodigo>
+            <pisCofinsRegimeTributacaoNome>REDUCAO</pisCofinsRegimeTributacaoNome>
+            <pisPasepAliquotaAdValorem>00210</pisPasepAliquotaAdValorem>
+            <pisPasepAliquotaEspecificaQuantidadeUnidade>000000000</pisPasepAliquotaEspecificaQuantidadeUnidade>
+            <pisPasepAliquotaEspecificaValor>0000000000</pisPasepAliquotaEspecificaValor>
+            <pisPasepAliquotaReduzida>00000</pisPasepAliquotaReduzida>
+            <pisPasepAliquotaValorDevido>000000000000000</pisPasepAliquotaValorDevido>
+            <pisPasepAliquotaValorRecolher>000000000000000</pisPasepAliquotaValorRecolher>
+            <relacaoCompradorVendedor>Fabricante não é o Exportador</relacaoCompradorVendedor>
+            <seguroMoedaNegociadaCodigo>000</seguroMoedaNegociadaCodigo>
+            <seguroValorMoedaNegociada>000000000000000</seguroValorMoedaNegociada>
+            <seguroValorReais>000000000000000</seguroValorReais>
+            <sequencialRetificacao>00</sequencialRetificacao>
+            <valorMultaARecolher>000000000000000</valorMultaARecolher>
+            <valorMultaARecolherAjustado>000000000000000</valorMultaARecolherAjustado>
+            <valorReaisFreteInternacional>000000000014084</valorReaisFreteInternacional>
+            <valorReaisSeguroInternacional>000000000000000</valorReaisSeguroInternacional>
+            <valorTotalCondicaoVenda>17900000000</valorTotalCondicaoVenda>
+            <vinculoCompradorVendedor>Há vinculação entre comprador e vendedor sem influência no preço da mercadoria.</vinculoCompradorVendedor>
+        </adicao>
+        <adicao>
+            <cideValorAliquotaEspecifica>00000000000</cideValorAliquotaEspecifica>
+            <cideValorDevido>000000000000000</cideValorDevido>
+            <cideValorRecolher>000000000000000</cideValorRecolher>
+            <codigoRelacaoCompradorVendedor>2</codigoRelacaoCompradorVendedor>
+            <codigoVinculoCompradorVendedor>2</codigoVinculoCompradorVendedor>
+            <cofinsAliquotaAdValorem>01065</cofinsAliquotaAdValorem>
+            <cofinsAliquotaEspecificaQuantidadeUnidade>000000000</cofinsAliquotaEspecificaQuantidadeUnidade>
+            <cofinsAliquotaEspecificaValor>0000000000</cofinsAliquotaEspecificaValor>
+            <cofinsAliquotaReduzida>00100</cofinsAliquotaReduzida>
+            <cofinsAliquotaValorDevido>000000000005607</cofinsAliquotaValorDevido>
+            <cofinsAliquotaValorRecolher>000000000005607</cofinsAliquotaValorRecolher>
+            <condicaoVendaIncoterm>FCA</condicaoVendaIncoterm>
+            <condicaoVendaLocal>SAO PAULO - SP</condicaoVendaLocal>
+            <condicaoVendaMetodoValoracaoCodigo>01</condicaoVendaMetodoValoracaoCodigo>
+            <condicaoVendaMetodoValoracaoNome>METODO 1 - ART. 1 DO ACORDO (DECRETO 92930/86)</condicaoVendaMetodoValoracaoNome>
+            <condicaoVendaMoedaCodigo>220</condicaoVendaMoedaCodigo>
+            <condicaoVendaMoedaNome>DOLAR DOS EUA</condicaoVendaMoedaNome>
+            <condicaoVendaValorMoeda>000000000170640</condicaoVendaValorMoeda>
+            <condicaoVendaValorReais>000000000560705</condicaoVendaValorReais>
+            <dadosCambiaisCoberturaCambialCodigo>1</dadosCambiaisCoberturaCambialCodigo>
+            <dadosCambiaisCoberturaCambialNome>COM COBERTURA CAMBIAL E PAGAMENTO FINAL A PRAZO DE ATE' 180</dadosCambiaisCoberturaCambialNome>
+            <dadosCambiaisInstituicaoFinanciadoraCodigo>00</dadosCambiaisInstituicaoFinanciadoraCodigo>
+            <dadosCambiaisInstituicaoFinanciadoraNome>N/I</dadosCambiaisInstituicaoFinanciadoraNome>
+            <dadosCambiaisMotivoSemCoberturaCodigo>00</dadosCambiaisMotivoSemCoberturaCodigo>
+            <dadosCambiaisMotivoSemCoberturaNome>N/I</dadosCambiaisMotivoSemCoberturaNome>
+            <dadosCambiaisValorRealCambio>000000000000000</dadosCambiaisValorRealCambio>
+            <dadosCargaPaisProcedenciaCodigo>000</dadosCargaPaisProcedenciaCodigo>
+            <dadosCargaUrfEntradaCodigo>0000000</dadosCargaUrfEntradaCodigo>
+            <dadosCargaViaTransporteCodigo>00</dadosCargaViaTransporteCodigo>
+            <dadosMercadoriaAplicacao>REVENDA</dadosMercadoriaAplicacao>
+            <dadosMercadoriaCodigoNaladiNCCA>0000000</dadosMercadoriaCodigoNaladiNCCA>
+            <dadosMercadoriaCodigoNaladiSH>00000000</dadosMercadoriaCodigoNaladiSH>
+            <dadosMercadoriaCodigoNcm>84212990</dadosMercadoriaCodigoNcm>
+            <dadosMercadoriaCondicao>NOVA</dadosMercadoriaCondicao>
+            <dadosMercadoriaMedidaEstatisticaQuantidade>00000000200000</dadosMercadoriaMedidaEstatisticaQuantidade>
+            <dadosMercadoriaMedidaEstatisticaUnidade>UNIDADE</dadosMercadoriaMedidaEstatisticaUnidade>
+            <dadosMercadoriaNomeNcm>Outros</dadosMercadoriaNomeNcm>
+            <dadosMercadoriaPesoLiquido>000000000000040</dadosMercadoriaPesoLiquido>
+            <dcrCoeficienteReducao>00000</dcrCoeficienteReducao>
+            <dcrIdentificacao>00000000</dcrIdentificacao>
+            <dcrValorDevido>000000000000000</dcrValorDevido>
+            <dcrValorDolar>000000000000000</dcrValorDolar>
+            <dcrValorReal>000000000000000</dcrValorReal>
+            <dcrValorRecolher>000000000000000</dcrValorRecolher>
+            <destaqueNcm>
+                <numeroDestaque>999</numeroDestaque>
+            </destaqueNcm>
+            <fabricanteCidade>LONGUEUIL</fabricanteCidade>
+            <fabricanteEstado>EX</fabricanteEstado>
+            <fabricanteLogradouro>MARIE VICTORIN BLVD EAST</fabricanteLogradouro>
+            <fabricanteNome>PRATT &amp; WHITNEY</fabricanteNome>
+            <fabricanteNumero>1000</fabricanteNumero>
+            <fornecedorCidade>LITTLE FERRY</fornecedorCidade>
+            <fornecedorComplemento>ZIP CODE 07643</fornecedorComplemento>
+            <fornecedorEstado>NEW JERSEY</fornecedorEstado>
+            <fornecedorLogradouro>RISER ROAD</fornecedorLogradouro>
+            <fornecedorNome>DASSAULT FALCON JET CORP</fornecedorNome>
+            <fornecedorNumero>200</fornecedorNumero>
+            <freteMoedaNegociadaCodigo>000</freteMoedaNegociadaCodigo>
+            <freteValorMoedaNegociada>000000000000002</freteValorMoedaNegociada>
+            <freteValorReais>000000000000008</freteValorReais>
+            <iiAcordoTarifarioTipoCodigo>0</iiAcordoTarifarioTipoCodigo>
+            <iiAliquotaAcordo>00000</iiAliquotaAcordo>
+            <iiAliquotaAdValorem>01400</iiAliquotaAdValorem>
+            <iiAliquotaPercentualReducao>00000</iiAliquotaPercentualReducao>
+            <iiAliquotaReduzida>00000</iiAliquotaReduzida>
+            <iiAliquotaValorCalculado>000000000078499</iiAliquotaValorCalculado>
+            <iiAliquotaValorDevido>000000000078499</iiAliquotaValorDevido>
+            <iiAliquotaValorRecolher>000000000000000</iiAliquotaValorRecolher>
+            <iiAliquotaValorReduzido>000000000000000</iiAliquotaValorReduzido>
+            <iiBaseCalculo>000000000560715</iiBaseCalculo>
+            <iiFundamentoLegalCodigo>05</iiFundamentoLegalCodigo>
+            <iiFundamentoLegalNome>PARTES,PECAS E COMPS.DESTNS.REPARO, REVISAO E MANUT.D/AERONA</iiFundamentoLegalNome>
+            <iiMotivoAdmissaoTemporariaCodigo>00</iiMotivoAdmissaoTemporariaCodigo>
+            <iiRegimeTributacaoCodigo>3</iiRegimeTributacaoCodigo>
+            <iiRegimeTributacaoNome>ISENCAO</iiRegimeTributacaoNome>
+            <ipiAliquotaAdValorem>00000</ipiAliquotaAdValorem>
+            <ipiAliquotaEspecificaCapacidadeRecipciente>00000</ipiAliquotaEspecificaCapacidadeRecipciente>
+            <ipiAliquotaEspecificaQuantidadeUnidadeMedida>000000000</ipiAliquotaEspecificaQuantidadeUnidadeMedida>
+            <ipiAliquotaEspecificaTipoRecipienteCodigo>00</ipiAliquotaEspecificaTipoRecipienteCodigo>
+            <ipiAliquotaEspecificaValorUnidadeMedida>0000000000</ipiAliquotaEspecificaValorUnidadeMedida>
+            <ipiAliquotaNotaComplementarTIPI>00</ipiAliquotaNotaComplementarTIPI>
+            <ipiAliquotaReduzida>00000</ipiAliquotaReduzida>
+            <ipiAliquotaValorDevido>000000000000000</ipiAliquotaValorDevido>
+            <ipiAliquotaValorRecolher>000000000000000</ipiAliquotaValorRecolher>
+            <ipiBeneficioFiscalAtoLegalAno>1992</ipiBeneficioFiscalAtoLegalAno>
+            <ipiBeneficioFiscalAtoLegalCodigo>LEI</ipiBeneficioFiscalAtoLegalCodigo>
+            <ipiBeneficioFiscalAtoLegalEX>000</ipiBeneficioFiscalAtoLegalEX>
+            <ipiBeneficioFiscalAtoLegalNumero>008402</ipiBeneficioFiscalAtoLegalNumero>
+            <ipiBeneficioFiscalAtoLegalOrgaoEmissor>EXEC</ipiBeneficioFiscalAtoLegalOrgaoEmissor>
+            <ipiRegimeTributacaoCodigo>1</ipiRegimeTributacaoCodigo>
+            <ipiRegimeTributacaoNome>ISENCAO</ipiRegimeTributacaoNome>
+            <mercadoria>
+                <descricaoMercadoria>PN:30C5456-01;FILTRO DE COMBUSTIVEL PARA MOTORES DE IGNICAO; &#xD;MATERIAL DE USO AERONAUTICO; APLICACAO ASA FIXA. &#xD;</descricaoMercadoria>
+                <numeroSequencialItem>01</numeroSequencialItem>
+                <quantidade>00000000200000</quantidade>
+                <unidadeMedida>UNIDADE </unidadeMedida>
+                <valorUnitario>00000000008532000000</valorUnitario>
+            </mercadoria>
+            <numeroAdicao>012</numeroAdicao>
+            <numeroDI>1805033540</numeroDI>
+            <numeroLI>0000000000</numeroLI>
+            <paisAquisicaoMercadoriaCodigo>249</paisAquisicaoMercadoriaCodigo>
+            <paisAquisicaoMercadoriaNome>ESTADOS UNIDOS</paisAquisicaoMercadoriaNome>
+            <paisOrigemMercadoriaCodigo>149</paisOrigemMercadoriaCodigo>
+            <paisOrigemMercadoriaNome>CANADA</paisOrigemMercadoriaNome>
+            <pisCofinsBaseCalculoAliquotaICMS>00000</pisCofinsBaseCalculoAliquotaICMS>
+            <pisCofinsBaseCalculoFundamentoLegalCodigo>17</pisCofinsBaseCalculoFundamentoLegalCodigo>
+            <pisCofinsBaseCalculoFundamentoLegalNome>BENS A SEREM EMPREGADOS EM AERONAVES (LEI 10865/04 - ART 8º,</pisCofinsBaseCalculoFundamentoLegalNome>
+            <pisCofinsBaseCalculoPercentualReducao>00000</pisCofinsBaseCalculoPercentualReducao>
+            <pisCofinsBaseCalculoValor>000000000560715</pisCofinsBaseCalculoValor>
+            <pisCofinsFundamentoLegalReducaoCodigo>00</pisCofinsFundamentoLegalReducaoCodigo>
+            <pisCofinsRegimeTributacaoCodigo>4</pisCofinsRegimeTributacaoCodigo>
+            <pisCofinsRegimeTributacaoNome>REDUCAO</pisCofinsRegimeTributacaoNome>
+            <pisPasepAliquotaAdValorem>00210</pisPasepAliquotaAdValorem>
+            <pisPasepAliquotaEspecificaQuantidadeUnidade>000000000</pisPasepAliquotaEspecificaQuantidadeUnidade>
+            <pisPasepAliquotaEspecificaValor>0000000000</pisPasepAliquotaEspecificaValor>
+            <pisPasepAliquotaReduzida>00000</pisPasepAliquotaReduzida>
+            <pisPasepAliquotaValorDevido>000000000000000</pisPasepAliquotaValorDevido>
+            <pisPasepAliquotaValorRecolher>000000000000000</pisPasepAliquotaValorRecolher>
+            <relacaoCompradorVendedor>Fabricante não é o Exportador</relacaoCompradorVendedor>
+            <seguroMoedaNegociadaCodigo>000</seguroMoedaNegociadaCodigo>
+            <seguroValorMoedaNegociada>000000000000000</seguroValorMoedaNegociada>
+            <seguroValorReais>000000000000000</seguroValorReais>
+            <sequencialRetificacao>00</sequencialRetificacao>
+            <valorMultaARecolher>000000000000000</valorMultaARecolher>
+            <valorMultaARecolherAjustado>000000000000000</valorMultaARecolherAjustado>
+            <valorReaisFreteInternacional>000000000000008</valorReaisFreteInternacional>
+            <valorReaisSeguroInternacional>000000000000000</valorReaisSeguroInternacional>
+            <valorTotalCondicaoVenda>17064000000</valorTotalCondicaoVenda>
+            <vinculoCompradorVendedor>Há vinculação entre comprador e vendedor sem influência no preço da mercadoria.</vinculoCompradorVendedor>
+        </adicao>
+        <adicao>
+            <cideValorAliquotaEspecifica>00000000000</cideValorAliquotaEspecifica>
+            <cideValorDevido>000000000000000</cideValorDevido>
+            <cideValorRecolher>000000000000000</cideValorRecolher>
+            <codigoRelacaoCompradorVendedor>2</codigoRelacaoCompradorVendedor>
+            <codigoVinculoCompradorVendedor>2</codigoVinculoCompradorVendedor>
+            <cofinsAliquotaAdValorem>01065</cofinsAliquotaAdValorem>
+            <cofinsAliquotaEspecificaQuantidadeUnidade>000000000</cofinsAliquotaEspecificaQuantidadeUnidade>
+            <cofinsAliquotaEspecificaValor>0000000000</cofinsAliquotaEspecificaValor>
+            <cofinsAliquotaReduzida>00100</cofinsAliquotaReduzida>
+            <cofinsAliquotaValorDevido>000000000000577</cofinsAliquotaValorDevido>
+            <cofinsAliquotaValorRecolher>000000000000577</cofinsAliquotaValorRecolher>
+            <condicaoVendaIncoterm>FCA</condicaoVendaIncoterm>
+            <condicaoVendaLocal>SAO PAULO - SP</condicaoVendaLocal>
+            <condicaoVendaMetodoValoracaoCodigo>01</condicaoVendaMetodoValoracaoCodigo>
+            <condicaoVendaMetodoValoracaoNome>METODO 1 - ART. 1 DO ACORDO (DECRETO 92930/86)</condicaoVendaMetodoValoracaoNome>
+            <condicaoVendaMoedaCodigo>220</condicaoVendaMoedaCodigo>
+            <condicaoVendaMoedaNome>DOLAR DOS EUA</condicaoVendaMoedaNome>
+            <condicaoVendaValorMoeda>000000000017190</condicaoVendaValorMoeda>
+            <condicaoVendaValorReais>000000000056484</condicaoVendaValorReais>
+            <dadosCambiaisCoberturaCambialCodigo>1</dadosCambiaisCoberturaCambialCodigo>
+            <dadosCambiaisCoberturaCambialNome>COM COBERTURA CAMBIAL E PAGAMENTO FINAL A PRAZO DE ATE' 180</dadosCambiaisCoberturaCambialNome>
+            <dadosCambiaisInstituicaoFinanciadoraCodigo>00</dadosCambiaisInstituicaoFinanciadoraCodigo>
+            <dadosCambiaisInstituicaoFinanciadoraNome>N/I</dadosCambiaisInstituicaoFinanciadoraNome>
+            <dadosCambiaisMotivoSemCoberturaCodigo>00</dadosCambiaisMotivoSemCoberturaCodigo>
+            <dadosCambiaisMotivoSemCoberturaNome>N/I</dadosCambiaisMotivoSemCoberturaNome>
+            <dadosCambiaisValorRealCambio>000000000000000</dadosCambiaisValorRealCambio>
+            <dadosCargaPaisProcedenciaCodigo>000</dadosCargaPaisProcedenciaCodigo>
+            <dadosCargaUrfEntradaCodigo>0000000</dadosCargaUrfEntradaCodigo>
+            <dadosCargaViaTransporteCodigo>00</dadosCargaViaTransporteCodigo>
+            <dadosMercadoriaAplicacao>REVENDA</dadosMercadoriaAplicacao>
+            <dadosMercadoriaCodigoNaladiNCCA>0000000</dadosMercadoriaCodigoNaladiNCCA>
+            <dadosMercadoriaCodigoNaladiSH>00000000</dadosMercadoriaCodigoNaladiSH>
+            <dadosMercadoriaCodigoNcm>84814000</dadosMercadoriaCodigoNcm>
+            <dadosMercadoriaCondicao>NOVA</dadosMercadoriaCondicao>
+            <dadosMercadoriaMedidaEstatisticaQuantidade>00000000100000</dadosMercadoriaMedidaEstatisticaQuantidade>
+            <dadosMercadoriaMedidaEstatisticaUnidade>UNIDADE</dadosMercadoriaMedidaEstatisticaUnidade>
+            <dadosMercadoriaNomeNcm>- Válvulas de segurança ou de alívio</dadosMercadoriaNomeNcm>
+            <dadosMercadoriaPesoLiquido>000000000006000</dadosMercadoriaPesoLiquido>
+            <dcrCoeficienteReducao>00000</dcrCoeficienteReducao>
+            <dcrIdentificacao>00000000</dcrIdentificacao>
+            <dcrValorDevido>000000000000000</dcrValorDevido>
+            <dcrValorDolar>000000000000000</dcrValorDolar>
+            <dcrValorReal>000000000000000</dcrValorReal>
+            <dcrValorRecolher>000000000000000</dcrValorRecolher>
+            <destaqueNcm>
+                <numeroDestaque>999</numeroDestaque>
+            </destaqueNcm>
+            <fabricanteCidade>CORONA</fabricanteCidade>
+            <fabricanteEstado>92880</fabricanteEstado>
+            <fabricanteLogradouro>2301 WARDLOW CIRCLE</fabricanteLogradouro>
+            <fabricanteNome>CIRCOR</fabricanteNome>
+            <fabricanteNumero>2301</fabricanteNumero>
+            <fornecedorCidade>LITTLE FERRY</fornecedorCidade>
+            <fornecedorComplemento>ZIP CODE 07643</fornecedorComplemento>
+            <fornecedorEstado>NEW JERSEY</fornecedorEstado>
+            <fornecedorLogradouro>RISER ROAD</fornecedorLogradouro>
+            <fornecedorNome>DASSAULT FALCON JET CORP</fornecedorNome>
+            <fornecedorNumero>200</fornecedorNumero>
+            <freteMoedaNegociadaCodigo>000</freteMoedaNegociadaCodigo>
+            <freteValorMoedaNegociada>000000000000389</freteValorMoedaNegociada>
+            <freteValorReais>000000000001280</freteValorReais>
+            <iiAcordoTarifarioTipoCodigo>0</iiAcordoTarifarioTipoCodigo>
+            <iiAliquotaAcordo>00000</iiAliquotaAcordo>
+            <iiAliquotaAdValorem>01400</iiAliquotaAdValorem>
+            <iiAliquotaPercentualReducao>00000</iiAliquotaPercentualReducao>
+            <iiAliquotaReduzida>00000</iiAliquotaReduzida>
+            <iiAliquotaValorCalculado>000000000008086</iiAliquotaValorCalculado>
+            <iiAliquotaValorDevido>000000000008086</iiAliquotaValorDevido>
+            <iiAliquotaValorRecolher>000000000000000</iiAliquotaValorRecolher>
+            <iiAliquotaValorReduzido>000000000000000</iiAliquotaValorReduzido>
+            <iiBaseCalculo>000000000057765</iiBaseCalculo>
+            <iiFundamentoLegalCodigo>05</iiFundamentoLegalCodigo>
+            <iiFundamentoLegalNome>PARTES,PECAS E COMPS.DESTNS.REPARO, REVISAO E MANUT.D/AERONA</iiFundamentoLegalNome>
+            <iiMotivoAdmissaoTemporariaCodigo>00</iiMotivoAdmissaoTemporariaCodigo>
+            <iiRegimeTributacaoCodigo>3</iiRegimeTributacaoCodigo>
+            <iiRegimeTributacaoNome>ISENCAO</iiRegimeTributacaoNome>
+            <ipiAliquotaAdValorem>00000</ipiAliquotaAdValorem>
+            <ipiAliquotaEspecificaCapacidadeRecipciente>00000</ipiAliquotaEspecificaCapacidadeRecipciente>
+            <ipiAliquotaEspecificaQuantidadeUnidadeMedida>000000000</ipiAliquotaEspecificaQuantidadeUnidadeMedida>
+            <ipiAliquotaEspecificaTipoRecipienteCodigo>00</ipiAliquotaEspecificaTipoRecipienteCodigo>
+            <ipiAliquotaEspecificaValorUnidadeMedida>0000000000</ipiAliquotaEspecificaValorUnidadeMedida>
+            <ipiAliquotaNotaComplementarTIPI>00</ipiAliquotaNotaComplementarTIPI>
+            <ipiAliquotaReduzida>00000</ipiAliquotaReduzida>
+            <ipiAliquotaValorDevido>000000000000000</ipiAliquotaValorDevido>
+            <ipiAliquotaValorRecolher>000000000000000</ipiAliquotaValorRecolher>
+            <ipiBeneficioFiscalAtoLegalAno>1992</ipiBeneficioFiscalAtoLegalAno>
+            <ipiBeneficioFiscalAtoLegalCodigo>LEI</ipiBeneficioFiscalAtoLegalCodigo>
+            <ipiBeneficioFiscalAtoLegalEX>000</ipiBeneficioFiscalAtoLegalEX>
+            <ipiBeneficioFiscalAtoLegalNumero>008402</ipiBeneficioFiscalAtoLegalNumero>
+            <ipiBeneficioFiscalAtoLegalOrgaoEmissor>EXEC</ipiBeneficioFiscalAtoLegalOrgaoEmissor>
+            <ipiRegimeTributacaoCodigo>1</ipiRegimeTributacaoCodigo>
+            <ipiRegimeTributacaoNome>ISENCAO</ipiRegimeTributacaoNome>
+            <mercadoria>
+                <descricaoMercadoria>PN:D532A-4D; SERIAL: 17-12303; VALVULA DE ALIVIO DA AERONAVE &#xD;; MATERIAL DE USO AERONAUTICO; APLICACAO ASA FIXA; PREFIXO &#xD;AERONAVE CX-MBS. &#xD;</descricaoMercadoria>
+                <numeroSequencialItem>01</numeroSequencialItem>
+                <quantidade>00000000100000</quantidade>
+                <unidadeMedida>UNIDADE </unidadeMedida>
+                <valorUnitario>00000000001719000000</valorUnitario>
+            </mercadoria>
+            <numeroAdicao>013</numeroAdicao>
+            <numeroDI>1805033540</numeroDI>
+            <numeroLI>0000000000</numeroLI>
+            <paisAquisicaoMercadoriaCodigo>249</paisAquisicaoMercadoriaCodigo>
+            <paisAquisicaoMercadoriaNome>ESTADOS UNIDOS</paisAquisicaoMercadoriaNome>
+            <paisOrigemMercadoriaCodigo>249</paisOrigemMercadoriaCodigo>
+            <paisOrigemMercadoriaNome>ESTADOS UNIDOS</paisOrigemMercadoriaNome>
+            <pisCofinsBaseCalculoAliquotaICMS>00000</pisCofinsBaseCalculoAliquotaICMS>
+            <pisCofinsBaseCalculoFundamentoLegalCodigo>17</pisCofinsBaseCalculoFundamentoLegalCodigo>
+            <pisCofinsBaseCalculoFundamentoLegalNome>BENS A SEREM EMPREGADOS EM AERONAVES (LEI 10865/04 - ART 8º,</pisCofinsBaseCalculoFundamentoLegalNome>
+            <pisCofinsBaseCalculoPercentualReducao>00000</pisCofinsBaseCalculoPercentualReducao>
+            <pisCofinsBaseCalculoValor>000000000057765</pisCofinsBaseCalculoValor>
+            <pisCofinsFundamentoLegalReducaoCodigo>00</pisCofinsFundamentoLegalReducaoCodigo>
+            <pisCofinsRegimeTributacaoCodigo>4</pisCofinsRegimeTributacaoCodigo>
+            <pisCofinsRegimeTributacaoNome>REDUCAO</pisCofinsRegimeTributacaoNome>
+            <pisPasepAliquotaAdValorem>00210</pisPasepAliquotaAdValorem>
+            <pisPasepAliquotaEspecificaQuantidadeUnidade>000000000</pisPasepAliquotaEspecificaQuantidadeUnidade>
+            <pisPasepAliquotaEspecificaValor>0000000000</pisPasepAliquotaEspecificaValor>
+            <pisPasepAliquotaReduzida>00000</pisPasepAliquotaReduzida>
+            <pisPasepAliquotaValorDevido>000000000000000</pisPasepAliquotaValorDevido>
+            <pisPasepAliquotaValorRecolher>000000000000000</pisPasepAliquotaValorRecolher>
+            <relacaoCompradorVendedor>Fabricante não é o Exportador</relacaoCompradorVendedor>
+            <seguroMoedaNegociadaCodigo>000</seguroMoedaNegociadaCodigo>
+            <seguroValorMoedaNegociada>000000000000000</seguroValorMoedaNegociada>
+            <seguroValorReais>000000000000000</seguroValorReais>
+            <sequencialRetificacao>00</sequencialRetificacao>
+            <valorMultaARecolher>000000000000000</valorMultaARecolher>
+            <valorMultaARecolherAjustado>000000000000000</valorMultaARecolherAjustado>
+            <valorReaisFreteInternacional>000000000001280</valorReaisFreteInternacional>
+            <valorReaisSeguroInternacional>000000000000000</valorReaisSeguroInternacional>
+            <valorTotalCondicaoVenda>1719000000</valorTotalCondicaoVenda>
+            <vinculoCompradorVendedor>Há vinculação entre comprador e vendedor sem influência no preço da mercadoria.</vinculoCompradorVendedor>
+        </adicao>
+        <adicao>
+            <cideValorAliquotaEspecifica>00000000000</cideValorAliquotaEspecifica>
+            <cideValorDevido>000000000000000</cideValorDevido>
+            <cideValorRecolher>000000000000000</cideValorRecolher>
+            <codigoRelacaoCompradorVendedor>2</codigoRelacaoCompradorVendedor>
+            <codigoVinculoCompradorVendedor>2</codigoVinculoCompradorVendedor>
+            <cofinsAliquotaAdValorem>01065</cofinsAliquotaAdValorem>
+            <cofinsAliquotaEspecificaQuantidadeUnidade>000000000</cofinsAliquotaEspecificaQuantidadeUnidade>
+            <cofinsAliquotaEspecificaValor>0000000000</cofinsAliquotaEspecificaValor>
+            <cofinsAliquotaReduzida>00100</cofinsAliquotaReduzida>
+            <cofinsAliquotaValorDevido>000000000005341</cofinsAliquotaValorDevido>
+            <cofinsAliquotaValorRecolher>000000000005341</cofinsAliquotaValorRecolher>
+            <condicaoVendaIncoterm>FCA</condicaoVendaIncoterm>
+            <condicaoVendaLocal>SAO PAULO - SP</condicaoVendaLocal>
+            <condicaoVendaMetodoValoracaoCodigo>01</condicaoVendaMetodoValoracaoCodigo>
+            <condicaoVendaMetodoValoracaoNome>METODO 1 - ART. 1 DO ACORDO (DECRETO 92930/86)</condicaoVendaMetodoValoracaoNome>
+            <condicaoVendaMoedaCodigo>220</condicaoVendaMoedaCodigo>
+            <condicaoVendaMoedaNome>DOLAR DOS EUA</condicaoVendaMoedaNome>
+            <condicaoVendaValorMoeda>000000000161900</condicaoVendaValorMoeda>
+            <condicaoVendaValorReais>000000000531987</condicaoVendaValorReais>
+            <dadosCambiaisCoberturaCambialCodigo>1</dadosCambiaisCoberturaCambialCodigo>
+            <dadosCambiaisCoberturaCambialNome>COM COBERTURA CAMBIAL E PAGAMENTO FINAL A PRAZO DE ATE' 180</dadosCambiaisCoberturaCambialNome>
+            <dadosCambiaisInstituicaoFinanciadoraCodigo>00</dadosCambiaisInstituicaoFinanciadoraCodigo>
+            <dadosCambiaisInstituicaoFinanciadoraNome>N/I</dadosCambiaisInstituicaoFinanciadoraNome>
+            <dadosCambiaisMotivoSemCoberturaCodigo>00</dadosCambiaisMotivoSemCoberturaCodigo>
+            <dadosCambiaisMotivoSemCoberturaNome>N/I</dadosCambiaisMotivoSemCoberturaNome>
+            <dadosCambiaisValorRealCambio>000000000000000</dadosCambiaisValorRealCambio>
+            <dadosCargaPaisProcedenciaCodigo>000</dadosCargaPaisProcedenciaCodigo>
+            <dadosCargaUrfEntradaCodigo>0000000</dadosCargaUrfEntradaCodigo>
+            <dadosCargaViaTransporteCodigo>00</dadosCargaViaTransporteCodigo>
+            <dadosMercadoriaAplicacao>REVENDA</dadosMercadoriaAplicacao>
+            <dadosMercadoriaCodigoNaladiNCCA>0000000</dadosMercadoriaCodigoNaladiNCCA>
+            <dadosMercadoriaCodigoNaladiSH>00000000</dadosMercadoriaCodigoNaladiSH>
+            <dadosMercadoriaCodigoNcm>85118090</dadosMercadoriaCodigoNcm>
+            <dadosMercadoriaCondicao>NOVA</dadosMercadoriaCondicao>
+            <dadosMercadoriaMedidaEstatisticaQuantidade>00000000100000</dadosMercadoriaMedidaEstatisticaQuantidade>
+            <dadosMercadoriaMedidaEstatisticaUnidade>UNIDADE</dadosMercadoriaMedidaEstatisticaUnidade>
+            <dadosMercadoriaNomeNcm>Outros</dadosMercadoriaNomeNcm>
+            <dadosMercadoriaPesoLiquido>000000000010000</dadosMercadoriaPesoLiquido>
+            <dcrCoeficienteReducao>00000</dcrCoeficienteReducao>
+            <dcrIdentificacao>00000000</dcrIdentificacao>
+            <dcrValorDevido>000000000000000</dcrValorDevido>
+            <dcrValorDolar>000000000000000</dcrValorDolar>
+            <dcrValorReal>000000000000000</dcrValorReal>
+            <dcrValorRecolher>000000000000000</dcrValorRecolher>
+            <destaqueNcm>
+                <numeroDestaque>999</numeroDestaque>
+            </destaqueNcm>
+            <fabricanteCidade>LONGUEUIL</fabricanteCidade>
+            <fabricanteEstado>EX</fabricanteEstado>
+            <fabricanteLogradouro>MARIE VICTORIN BLVD EAST</fabricanteLogradouro>
+            <fabricanteNome>PRATT &amp; WHITNEY</fabricanteNome>
+            <fabricanteNumero>1000</fabricanteNumero>
+            <fornecedorCidade>LITTLE FERRY</fornecedorCidade>
+            <fornecedorComplemento>ZIP CODE 07643</fornecedorComplemento>
+            <fornecedorEstado>NEW JERSEY</fornecedorEstado>
+            <fornecedorLogradouro>RISER ROAD</fornecedorLogradouro>
+            <fornecedorNome>DASSAULT FALCON JET CORP</fornecedorNome>
+            <fornecedorNumero>200</fornecedorNumero>
+            <freteMoedaNegociadaCodigo>000</freteMoedaNegociadaCodigo>
+            <freteValorMoedaNegociada>000000000000649</freteValorMoedaNegociada>
+            <freteValorReais>000000000002134</freteValorReais>
+            <iiAcordoTarifarioTipoCodigo>0</iiAcordoTarifarioTipoCodigo>
+            <iiAliquotaAcordo>00000</iiAliquotaAcordo>
+            <iiAliquotaAdValorem>01800</iiAliquotaAdValorem>
+            <iiAliquotaPercentualReducao>00000</iiAliquotaPercentualReducao>
+            <iiAliquotaReduzida>00000</iiAliquotaReduzida>
+            <iiAliquotaValorCalculado>000000000096141</iiAliquotaValorCalculado>
+            <iiAliquotaValorDevido>000000000096141</iiAliquotaValorDevido>
+            <iiAliquotaValorRecolher>000000000000000</iiAliquotaValorRecolher>
+            <iiAliquotaValorReduzido>000000000000000</iiAliquotaValorReduzido>
+            <iiBaseCalculo>000000000534121</iiBaseCalculo>
+            <iiFundamentoLegalCodigo>05</iiFundamentoLegalCodigo>
+            <iiFundamentoLegalNome>PARTES,PECAS E COMPS.DESTNS.REPARO, REVISAO E MANUT.D/AERONA</iiFundamentoLegalNome>
+            <iiMotivoAdmissaoTemporariaCodigo>00</iiMotivoAdmissaoTemporariaCodigo>
+            <iiRegimeTributacaoCodigo>3</iiRegimeTributacaoCodigo>
+            <iiRegimeTributacaoNome>ISENCAO</iiRegimeTributacaoNome>
+            <ipiAliquotaAdValorem>01500</ipiAliquotaAdValorem>
+            <ipiAliquotaEspecificaCapacidadeRecipciente>00000</ipiAliquotaEspecificaCapacidadeRecipciente>
+            <ipiAliquotaEspecificaQuantidadeUnidadeMedida>000000000</ipiAliquotaEspecificaQuantidadeUnidadeMedida>
+            <ipiAliquotaEspecificaTipoRecipienteCodigo>00</ipiAliquotaEspecificaTipoRecipienteCodigo>
+            <ipiAliquotaEspecificaValorUnidadeMedida>0000000000</ipiAliquotaEspecificaValorUnidadeMedida>
+            <ipiAliquotaNotaComplementarTIPI>00</ipiAliquotaNotaComplementarTIPI>
+            <ipiAliquotaReduzida>00000</ipiAliquotaReduzida>
+            <ipiAliquotaValorDevido>000000000080118</ipiAliquotaValorDevido>
+            <ipiAliquotaValorRecolher>000000000000000</ipiAliquotaValorRecolher>
+            <ipiBeneficioFiscalAtoLegalAno>1992</ipiBeneficioFiscalAtoLegalAno>
+            <ipiBeneficioFiscalAtoLegalCodigo>LEI</ipiBeneficioFiscalAtoLegalCodigo>
+            <ipiBeneficioFiscalAtoLegalEX>000</ipiBeneficioFiscalAtoLegalEX>
+            <ipiBeneficioFiscalAtoLegalNumero>008402</ipiBeneficioFiscalAtoLegalNumero>
+            <ipiBeneficioFiscalAtoLegalOrgaoEmissor>EXEC</ipiBeneficioFiscalAtoLegalOrgaoEmissor>
+            <ipiRegimeTributacaoCodigo>1</ipiRegimeTributacaoCodigo>
+            <ipiRegimeTributacaoNome>ISENCAO</ipiRegimeTributacaoNome>
+            <mercadoria>
+                <descricaoMercadoria>PN:30C1356-05;PLUGUE DE IGNICAO DO APU; MATERIAL DE USO &#xD;AERONAUTICO; APLICACAO ASA FIXA. &#xD;</descricaoMercadoria>
+                <numeroSequencialItem>01</numeroSequencialItem>
+                <quantidade>00000000100000</quantidade>
+                <unidadeMedida>UNIDADE </unidadeMedida>
+                <valorUnitario>00000000016190000000</valorUnitario>
+            </mercadoria>
+            <numeroAdicao>014</numeroAdicao>
+            <numeroDI>1805033540</numeroDI>
+            <numeroLI>0000000000</numeroLI>
+            <paisAquisicaoMercadoriaCodigo>249</paisAquisicaoMercadoriaCodigo>
+            <paisAquisicaoMercadoriaNome>ESTADOS UNIDOS</paisAquisicaoMercadoriaNome>
+            <paisOrigemMercadoriaCodigo>149</paisOrigemMercadoriaCodigo>
+            <paisOrigemMercadoriaNome>CANADA</paisOrigemMercadoriaNome>
+            <pisCofinsBaseCalculoAliquotaICMS>00000</pisCofinsBaseCalculoAliquotaICMS>
+            <pisCofinsBaseCalculoFundamentoLegalCodigo>17</pisCofinsBaseCalculoFundamentoLegalCodigo>
+            <pisCofinsBaseCalculoFundamentoLegalNome>BENS A SEREM EMPREGADOS EM AERONAVES (LEI 10865/04 - ART 8º,</pisCofinsBaseCalculoFundamentoLegalNome>
+            <pisCofinsBaseCalculoPercentualReducao>00000</pisCofinsBaseCalculoPercentualReducao>
+            <pisCofinsBaseCalculoValor>000000000534121</pisCofinsBaseCalculoValor>
+            <pisCofinsFundamentoLegalReducaoCodigo>00</pisCofinsFundamentoLegalReducaoCodigo>
+            <pisCofinsRegimeTributacaoCodigo>4</pisCofinsRegimeTributacaoCodigo>
+            <pisCofinsRegimeTributacaoNome>REDUCAO</pisCofinsRegimeTributacaoNome>
+            <pisPasepAliquotaAdValorem>00210</pisPasepAliquotaAdValorem>
+            <pisPasepAliquotaEspecificaQuantidadeUnidade>000000000</pisPasepAliquotaEspecificaQuantidadeUnidade>
+            <pisPasepAliquotaEspecificaValor>0000000000</pisPasepAliquotaEspecificaValor>
+            <pisPasepAliquotaReduzida>00000</pisPasepAliquotaReduzida>
+            <pisPasepAliquotaValorDevido>000000000000000</pisPasepAliquotaValorDevido>
+            <pisPasepAliquotaValorRecolher>000000000000000</pisPasepAliquotaValorRecolher>
+            <relacaoCompradorVendedor>Fabricante não é o Exportador</relacaoCompradorVendedor>
+            <seguroMoedaNegociadaCodigo>000</seguroMoedaNegociadaCodigo>
+            <seguroValorMoedaNegociada>000000000000000</seguroValorMoedaNegociada>
+            <seguroValorReais>000000000000000</seguroValorReais>
+            <sequencialRetificacao>00</sequencialRetificacao>
+            <valorMultaARecolher>000000000000000</valorMultaARecolher>
+            <valorMultaARecolherAjustado>000000000000000</valorMultaARecolherAjustado>
+            <valorReaisFreteInternacional>000000000002134</valorReaisFreteInternacional>
+            <valorReaisSeguroInternacional>000000000000000</valorReaisSeguroInternacional>
+            <valorTotalCondicaoVenda>16190000000</valorTotalCondicaoVenda>
+            <vinculoCompradorVendedor>Há vinculação entre comprador e vendedor sem influência no preço da mercadoria.</vinculoCompradorVendedor>
+        </adicao>
+        <adicao>
+            <cideValorAliquotaEspecifica>00000000000</cideValorAliquotaEspecifica>
+            <cideValorDevido>000000000000000</cideValorDevido>
+            <cideValorRecolher>000000000000000</cideValorRecolher>
+            <codigoRelacaoCompradorVendedor>2</codigoRelacaoCompradorVendedor>
+            <codigoVinculoCompradorVendedor>2</codigoVinculoCompradorVendedor>
+            <cofinsAliquotaAdValorem>01065</cofinsAliquotaAdValorem>
+            <cofinsAliquotaEspecificaQuantidadeUnidade>000000000</cofinsAliquotaEspecificaQuantidadeUnidade>
+            <cofinsAliquotaEspecificaValor>0000000000</cofinsAliquotaEspecificaValor>
+            <cofinsAliquotaReduzida>00100</cofinsAliquotaReduzida>
+            <cofinsAliquotaValorDevido>000000000015633</cofinsAliquotaValorDevido>
+            <cofinsAliquotaValorRecolher>000000000015633</cofinsAliquotaValorRecolher>
+            <condicaoVendaIncoterm>FCA</condicaoVendaIncoterm>
+            <condicaoVendaLocal>SAO PAULO - SP</condicaoVendaLocal>
+            <condicaoVendaMetodoValoracaoCodigo>01</condicaoVendaMetodoValoracaoCodigo>
+            <condicaoVendaMetodoValoracaoNome>METODO 1 - ART. 1 DO ACORDO (DECRETO 92930/86)</condicaoVendaMetodoValoracaoNome>
+            <condicaoVendaMoedaCodigo>220</condicaoVendaMoedaCodigo>
+            <condicaoVendaMoedaNome>DOLAR DOS EUA</condicaoVendaMoedaNome>
+            <condicaoVendaValorMoeda>000000000469800</condicaoVendaValorMoeda>
+            <condicaoVendaValorReais>000000001543715</condicaoVendaValorReais>
+            <dadosCambiaisCoberturaCambialCodigo>4</dadosCambiaisCoberturaCambialCodigo>
+            <dadosCambiaisCoberturaCambialNome>SEM COBERTURA CAMBIAL</dadosCambiaisCoberturaCambialNome>
+            <dadosCambiaisInstituicaoFinanciadoraCodigo>00</dadosCambiaisInstituicaoFinanciadoraCodigo>
+            <dadosCambiaisInstituicaoFinanciadoraNome>N/I</dadosCambiaisInstituicaoFinanciadoraNome>
+            <dadosCambiaisMotivoSemCoberturaCodigo>99</dadosCambiaisMotivoSemCoberturaCodigo>
+            <dadosCambiaisMotivoSemCoberturaNome>OUTRAS IMPORTACOES SEM COBERTURA CAMBIAL</dadosCambiaisMotivoSemCoberturaNome>
+            <dadosCambiaisValorRealCambio>000000000000000</dadosCambiaisValorRealCambio>
+            <dadosCargaPaisProcedenciaCodigo>000</dadosCargaPaisProcedenciaCodigo>
+            <dadosCargaUrfEntradaCodigo>0000000</dadosCargaUrfEntradaCodigo>
+            <dadosCargaViaTransporteCodigo>00</dadosCargaViaTransporteCodigo>
+            <dadosMercadoriaAplicacao>REVENDA</dadosMercadoriaAplicacao>
+            <dadosMercadoriaCodigoNaladiNCCA>0000000</dadosMercadoriaCodigoNaladiNCCA>
+            <dadosMercadoriaCodigoNaladiSH>00000000</dadosMercadoriaCodigoNaladiSH>
+            <dadosMercadoriaCodigoNcm>90200090</dadosMercadoriaCodigoNcm>
+            <dadosMercadoriaCondicao>NOVA</dadosMercadoriaCondicao>
+            <dadosMercadoriaMedidaEstatisticaQuantidade>00000000092000</dadosMercadoriaMedidaEstatisticaQuantidade>
+            <dadosMercadoriaMedidaEstatisticaUnidade>QUILOGRAMA LIQUIDO</dadosMercadoriaMedidaEstatisticaUnidade>
+            <dadosMercadoriaNomeNcm>Outros</dadosMercadoriaNomeNcm>
+            <dadosMercadoriaPesoLiquido>000000000092000</dadosMercadoriaPesoLiquido>
+            <dcrCoeficienteReducao>00000</dcrCoeficienteReducao>
+            <dcrIdentificacao>00000000</dcrIdentificacao>
+            <dcrValorDevido>000000000000000</dcrValorDevido>
+            <dcrValorDolar>000000000000000</dcrValorDolar>
+            <dcrValorReal>000000000000000</dcrValorReal>
+            <dcrValorRecolher>000000000000000</dcrValorRecolher>
+            <destaqueNcm>
+                <numeroDestaque>999</numeroDestaque>
+            </destaqueNcm>
+            <fabricanteCidade>PLAISER</fabricanteCidade>
+            <fabricanteEstado>CEDEX</fabricanteEstado>
+            <fabricanteLogradouro>RUE PIERRE CURIE BP 1</fabricanteLogradouro>
+            <fabricanteNome>INTERTECHNIQUE</fabricanteNome>
+            <fabricanteNumero>61,</fabricanteNumero>
+            <fornecedorCidade>LITTLE FERRY</fornecedorCidade>
+            <fornecedorComplemento>ZIP CODE 07643</fornecedorComplemento>
+            <fornecedorEstado>NEW JERSEY</fornecedorEstado>
+            <fornecedorLogradouro>RISER ROAD</fornecedorLogradouro>
+            <fornecedorNome>DASSAULT FALCON JET CORP</fornecedorNome>
+            <fornecedorNumero>200</fornecedorNumero>
+            <freteMoedaNegociadaCodigo>000</freteMoedaNegociadaCodigo>
+            <freteValorMoedaNegociada>000000000005974</freteValorMoedaNegociada>
+            <freteValorReais>000000000019633</freteValorReais>
+            <iiAcordoTarifarioTipoCodigo>0</iiAcordoTarifarioTipoCodigo>
+            <iiAliquotaAcordo>00000</iiAliquotaAcordo>
+            <iiAliquotaAdValorem>01600</iiAliquotaAdValorem>
+            <iiAliquotaPercentualReducao>00000</iiAliquotaPercentualReducao>
+            <iiAliquotaReduzida>00000</iiAliquotaReduzida>
+            <iiAliquotaValorCalculado>000000000250135</iiAliquotaValorCalculado>
+            <iiAliquotaValorDevido>000000000250135</iiAliquotaValorDevido>
+            <iiAliquotaValorRecolher>000000000000000</iiAliquotaValorRecolher>
+            <iiAliquotaValorReduzido>000000000000000</iiAliquotaValorReduzido>
+            <iiBaseCalculo>000000001563349</iiBaseCalculo>
+            <iiFundamentoLegalCodigo>05</iiFundamentoLegalCodigo>
+            <iiFundamentoLegalNome>PARTES,PECAS E COMPS.DESTNS.REPARO, REVISAO E MANUT.D/AERONA</iiFundamentoLegalNome>
+            <iiMotivoAdmissaoTemporariaCodigo>00</iiMotivoAdmissaoTemporariaCodigo>
+            <iiRegimeTributacaoCodigo>3</iiRegimeTributacaoCodigo>
+            <iiRegimeTributacaoNome>ISENCAO</iiRegimeTributacaoNome>
+            <ipiAliquotaAdValorem>00800</ipiAliquotaAdValorem>
+            <ipiAliquotaEspecificaCapacidadeRecipciente>00000</ipiAliquotaEspecificaCapacidadeRecipciente>
+            <ipiAliquotaEspecificaQuantidadeUnidadeMedida>000000000</ipiAliquotaEspecificaQuantidadeUnidadeMedida>
+            <ipiAliquotaEspecificaTipoRecipienteCodigo>00</ipiAliquotaEspecificaTipoRecipienteCodigo>
+            <ipiAliquotaEspecificaValorUnidadeMedida>0000000000</ipiAliquotaEspecificaValorUnidadeMedida>
+            <ipiAliquotaNotaComplementarTIPI>00</ipiAliquotaNotaComplementarTIPI>
+            <ipiAliquotaReduzida>00000</ipiAliquotaReduzida>
+            <ipiAliquotaValorDevido>000000000125067</ipiAliquotaValorDevido>
+            <ipiAliquotaValorRecolher>000000000000000</ipiAliquotaValorRecolher>
+            <ipiBeneficioFiscalAtoLegalAno>1992</ipiBeneficioFiscalAtoLegalAno>
+            <ipiBeneficioFiscalAtoLegalCodigo>LEI</ipiBeneficioFiscalAtoLegalCodigo>
+            <ipiBeneficioFiscalAtoLegalEX>000</ipiBeneficioFiscalAtoLegalEX>
+            <ipiBeneficioFiscalAtoLegalNumero>008402</ipiBeneficioFiscalAtoLegalNumero>
+            <ipiBeneficioFiscalAtoLegalOrgaoEmissor>EXEC</ipiBeneficioFiscalAtoLegalOrgaoEmissor>
+            <ipiRegimeTributacaoCodigo>1</ipiRegimeTributacaoCodigo>
+            <ipiRegimeTributacaoNome>ISENCAO</ipiRegimeTributacaoNome>
+            <mercadoria>
+                <descricaoMercadoria>PN:MLD30-004; SERIAL: 775; MASCARA DE OXIGENIO; ITEM &#xD;REVISADO/USADO; MATERIAL DE USO AERONAUTICO; APLICACAO ASA FIXA; &#xD;PREIFXO AERONAVE PP-VEL. &#xD;</descricaoMercadoria>
+                <numeroSequencialItem>01</numeroSequencialItem>
+                <quantidade>00000000100000</quantidade>
+                <unidadeMedida>UNIDADE </unidadeMedida>
+                <valorUnitario>00000000046980000000</valorUnitario>
+            </mercadoria>
+            <numeroAdicao>015</numeroAdicao>
+            <numeroDI>1805033540</numeroDI>
+            <numeroLI>0000000000</numeroLI>
+            <paisAquisicaoMercadoriaCodigo>249</paisAquisicaoMercadoriaCodigo>
+            <paisAquisicaoMercadoriaNome>ESTADOS UNIDOS</paisAquisicaoMercadoriaNome>
+            <paisOrigemMercadoriaCodigo>275</paisOrigemMercadoriaCodigo>
+            <paisOrigemMercadoriaNome>FRANCA</paisOrigemMercadoriaNome>
+            <pisCofinsBaseCalculoAliquotaICMS>00000</pisCofinsBaseCalculoAliquotaICMS>
+            <pisCofinsBaseCalculoFundamentoLegalCodigo>17</pisCofinsBaseCalculoFundamentoLegalCodigo>
+            <pisCofinsBaseCalculoFundamentoLegalNome>BENS A SEREM EMPREGADOS EM AERONAVES (LEI 10865/04 - ART 8º,</pisCofinsBaseCalculoFundamentoLegalNome>
+            <pisCofinsBaseCalculoPercentualReducao>00000</pisCofinsBaseCalculoPercentualReducao>
+            <pisCofinsBaseCalculoValor>000000001563349</pisCofinsBaseCalculoValor>
+            <pisCofinsFundamentoLegalReducaoCodigo>00</pisCofinsFundamentoLegalReducaoCodigo>
+            <pisCofinsRegimeTributacaoCodigo>4</pisCofinsRegimeTributacaoCodigo>
+            <pisCofinsRegimeTributacaoNome>REDUCAO</pisCofinsRegimeTributacaoNome>
+            <pisPasepAliquotaAdValorem>00210</pisPasepAliquotaAdValorem>
+            <pisPasepAliquotaEspecificaQuantidadeUnidade>000000000</pisPasepAliquotaEspecificaQuantidadeUnidade>
+            <pisPasepAliquotaEspecificaValor>0000000000</pisPasepAliquotaEspecificaValor>
+            <pisPasepAliquotaReduzida>00000</pisPasepAliquotaReduzida>
+            <pisPasepAliquotaValorDevido>000000000000000</pisPasepAliquotaValorDevido>
+            <pisPasepAliquotaValorRecolher>000000000000000</pisPasepAliquotaValorRecolher>
+            <relacaoCompradorVendedor>Fabricante não é o Exportador</relacaoCompradorVendedor>
+            <seguroMoedaNegociadaCodigo>000</seguroMoedaNegociadaCodigo>
+            <seguroValorMoedaNegociada>000000000000000</seguroValorMoedaNegociada>
+            <seguroValorReais>000000000000000</seguroValorReais>
+            <sequencialRetificacao>00</sequencialRetificacao>
+            <valorMultaARecolher>000000000000000</valorMultaARecolher>
+            <valorMultaARecolherAjustado>000000000000000</valorMultaARecolherAjustado>
+            <valorReaisFreteInternacional>000000000019633</valorReaisFreteInternacional>
+            <valorReaisSeguroInternacional>000000000000000</valorReaisSeguroInternacional>
+            <valorTotalCondicaoVenda>46980000000</valorTotalCondicaoVenda>
+            <vinculoCompradorVendedor>Há vinculação entre comprador e vendedor sem influência no preço da mercadoria.</vinculoCompradorVendedor>
+        </adicao>
+        <adicao>
+            <cideValorAliquotaEspecifica>00000000000</cideValorAliquotaEspecifica>
+            <cideValorDevido>000000000000000</cideValorDevido>
+            <cideValorRecolher>000000000000000</cideValorRecolher>
+            <codigoRelacaoCompradorVendedor>2</codigoRelacaoCompradorVendedor>
+            <codigoVinculoCompradorVendedor>2</codigoVinculoCompradorVendedor>
+            <cofinsAliquotaAdValorem>01065</cofinsAliquotaAdValorem>
+            <cofinsAliquotaEspecificaQuantidadeUnidade>000000000</cofinsAliquotaEspecificaQuantidadeUnidade>
+            <cofinsAliquotaEspecificaValor>0000000000</cofinsAliquotaEspecificaValor>
+            <cofinsAliquotaReduzida>00100</cofinsAliquotaReduzida>
+            <cofinsAliquotaValorDevido>000000000071472</cofinsAliquotaValorDevido>
+            <cofinsAliquotaValorRecolher>000000000071472</cofinsAliquotaValorRecolher>
+            <condicaoVendaIncoterm>FCA</condicaoVendaIncoterm>
+            <condicaoVendaLocal>SAO PAULO - SP</condicaoVendaLocal>
+            <condicaoVendaMetodoValoracaoCodigo>01</condicaoVendaMetodoValoracaoCodigo>
+            <condicaoVendaMetodoValoracaoNome>METODO 1 - ART. 1 DO ACORDO (DECRETO 92930/86)</condicaoVendaMetodoValoracaoNome>
+            <condicaoVendaMoedaCodigo>220</condicaoVendaMoedaCodigo>
+            <condicaoVendaMoedaNome>DOLAR DOS EUA</condicaoVendaMoedaNome>
+            <condicaoVendaValorMoeda>000000002110182</condicaoVendaValorMoeda>
+            <condicaoVendaValorReais>000000006933847</condicaoVendaValorReais>
+            <dadosCambiaisCoberturaCambialCodigo>1</dadosCambiaisCoberturaCambialCodigo>
+            <dadosCambiaisCoberturaCambialNome>COM COBERTURA CAMBIAL E PAGAMENTO FINAL A PRAZO DE ATE' 180</dadosCambiaisCoberturaCambialNome>
+            <dadosCambiaisInstituicaoFinanciadoraCodigo>00</dadosCambiaisInstituicaoFinanciadoraCodigo>
+            <dadosCambiaisInstituicaoFinanciadoraNome>N/I</dadosCambiaisInstituicaoFinanciadoraNome>
+            <dadosCambiaisMotivoSemCoberturaCodigo>00</dadosCambiaisMotivoSemCoberturaCodigo>
+            <dadosCambiaisMotivoSemCoberturaNome>N/I</dadosCambiaisMotivoSemCoberturaNome>
+            <dadosCambiaisValorRealCambio>000000000000000</dadosCambiaisValorRealCambio>
+            <dadosCargaPaisProcedenciaCodigo>000</dadosCargaPaisProcedenciaCodigo>
+            <dadosCargaUrfEntradaCodigo>0000000</dadosCargaUrfEntradaCodigo>
+            <dadosCargaViaTransporteCodigo>00</dadosCargaViaTransporteCodigo>
+            <dadosMercadoriaAplicacao>REVENDA</dadosMercadoriaAplicacao>
+            <dadosMercadoriaCodigoNaladiNCCA>0000000</dadosMercadoriaCodigoNaladiNCCA>
+            <dadosMercadoriaCodigoNaladiSH>00000000</dadosMercadoriaCodigoNaladiSH>
+            <dadosMercadoriaCodigoNcm>90328989</dadosMercadoriaCodigoNcm>
+            <dadosMercadoriaCondicao>NOVA</dadosMercadoriaCondicao>
+            <dadosMercadoriaMedidaEstatisticaQuantidade>00000000100000</dadosMercadoriaMedidaEstatisticaQuantidade>
+            <dadosMercadoriaMedidaEstatisticaUnidade>UNIDADE</dadosMercadoriaMedidaEstatisticaUnidade>
+            <dadosMercadoriaNomeNcm>Outros</dadosMercadoriaNomeNcm>
+            <dadosMercadoriaPesoLiquido>000000001000000</dadosMercadoriaPesoLiquido>
+            <dcrCoeficienteReducao>00000</dcrCoeficienteReducao>
+            <dcrIdentificacao>00000000</dcrIdentificacao>
+            <dcrValorDevido>000000000000000</dcrValorDevido>
+            <dcrValorDolar>000000000000000</dcrValorDolar>
+            <dcrValorReal>000000000000000</dcrValorReal>
+            <dcrValorRecolher>000000000000000</dcrValorRecolher>
+            <destaqueNcm>
+                <numeroDestaque>999</numeroDestaque>
+            </destaqueNcm>
+            <fabricanteCidade>PHOENIX</fabricanteCidade>
+            <fabricanteEstado>AZ</fabricanteEstado>
+            <fabricanteLogradouro>N.19TH AVENUE</fabricanteLogradouro>
+            <fabricanteNome>HONEYWELL INTERNATIONAL INC</fabricanteNome>
+            <fabricanteNumero>21111</fabricanteNumero>
+            <fornecedorCidade>NORTH KANSAS CITY</fornecedorCidade>
+            <fornecedorComplemento>ZIP CODE 64116</fornecedorComplemento>
+            <fornecedorEstado>MO</fornecedorEstado>
+            <fornecedorLogradouro>BEDFORD ROAD</fornecedorLogradouro>
+            <fornecedorNome>HONEYWELL SPEX</fornecedorNome>
+            <fornecedorNumero>1401</fornecedorNumero>
+            <freteMoedaNegociadaCodigo>000</freteMoedaNegociadaCodigo>
+            <freteValorMoedaNegociada>000000000064945</freteValorMoedaNegociada>
+            <freteValorReais>000000000213404</freteValorReais>
+            <iiAcordoTarifarioTipoCodigo>0</iiAcordoTarifarioTipoCodigo>
+            <iiAliquotaAcordo>00000</iiAliquotaAcordo>
+            <iiAliquotaAdValorem>01400</iiAliquotaAdValorem>
+            <iiAliquotaPercentualReducao>00000</iiAliquotaPercentualReducao>
+            <iiAliquotaReduzida>00000</iiAliquotaReduzida>
+            <iiAliquotaValorCalculado>000000001000615</iiAliquotaValorCalculado>
+            <iiAliquotaValorDevido>000000001000615</iiAliquotaValorDevido>
+            <iiAliquotaValorRecolher>000000000000000</iiAliquotaValorRecolher>
+            <iiAliquotaValorReduzido>000000000000000</iiAliquotaValorReduzido>
+            <iiBaseCalculo>000000007147251</iiBaseCalculo>
+            <iiFundamentoLegalCodigo>05</iiFundamentoLegalCodigo>
+            <iiFundamentoLegalNome>PARTES,PECAS E COMPS.DESTNS.REPARO, REVISAO E MANUT.D/AERONA</iiFundamentoLegalNome>
+            <iiMotivoAdmissaoTemporariaCodigo>00</iiMotivoAdmissaoTemporariaCodigo>
+            <iiRegimeTributacaoCodigo>3</iiRegimeTributacaoCodigo>
+            <iiRegimeTributacaoNome>ISENCAO</iiRegimeTributacaoNome>
+            <ipiAliquotaAdValorem>01500</ipiAliquotaAdValorem>
+            <ipiAliquotaEspecificaCapacidadeRecipciente>00000</ipiAliquotaEspecificaCapacidadeRecipciente>
+            <ipiAliquotaEspecificaQuantidadeUnidadeMedida>000000000</ipiAliquotaEspecificaQuantidadeUnidadeMedida>
+            <ipiAliquotaEspecificaTipoRecipienteCodigo>00</ipiAliquotaEspecificaTipoRecipienteCodigo>
+            <ipiAliquotaEspecificaValorUnidadeMedida>0000000000</ipiAliquotaEspecificaValorUnidadeMedida>
+            <ipiAliquotaNotaComplementarTIPI>00</ipiAliquotaNotaComplementarTIPI>
+            <ipiAliquotaReduzida>00000</ipiAliquotaReduzida>
+            <ipiAliquotaValorDevido>000000001072087</ipiAliquotaValorDevido>
+            <ipiAliquotaValorRecolher>000000000000000</ipiAliquotaValorRecolher>
+            <ipiBeneficioFiscalAtoLegalAno>1992</ipiBeneficioFiscalAtoLegalAno>
+            <ipiBeneficioFiscalAtoLegalCodigo>LEI</ipiBeneficioFiscalAtoLegalCodigo>
+            <ipiBeneficioFiscalAtoLegalEX>000</ipiBeneficioFiscalAtoLegalEX>
+            <ipiBeneficioFiscalAtoLegalNumero>008402</ipiBeneficioFiscalAtoLegalNumero>
+            <ipiBeneficioFiscalAtoLegalOrgaoEmissor>EXEC</ipiBeneficioFiscalAtoLegalOrgaoEmissor>
+            <ipiRegimeTributacaoCodigo>1</ipiRegimeTributacaoCodigo>
+            <ipiRegimeTributacaoNome>ISENCAO</ipiRegimeTributacaoNome>
+            <mercadoria>
+                <descricaoMercadoria>PN:7004403-901; SERIAL: 87030215; DISPLAY DE CONTROLE DO FMS; &#xD;ITEM REVISADO/USADO; MATERIAL DE USO AERONAUTICO; APLICACAO ASA &#xD;FIXA; PREFIXO AERONAVE PT-OEX. &#xD;</descricaoMercadoria>
+                <numeroSequencialItem>01</numeroSequencialItem>
+                <quantidade>00000000100000</quantidade>
+                <unidadeMedida>UNIDADE </unidadeMedida>
+                <valorUnitario>00000000211018200000</valorUnitario>
+            </mercadoria>
+            <numeroAdicao>016</numeroAdicao>
+            <numeroDI>1805033540</numeroDI>
+            <numeroLI>0000000000</numeroLI>
+            <paisAquisicaoMercadoriaCodigo>249</paisAquisicaoMercadoriaCodigo>
+            <paisAquisicaoMercadoriaNome>ESTADOS UNIDOS</paisAquisicaoMercadoriaNome>
+            <paisOrigemMercadoriaCodigo>249</paisOrigemMercadoriaCodigo>
+            <paisOrigemMercadoriaNome>ESTADOS UNIDOS</paisOrigemMercadoriaNome>
+            <pisCofinsBaseCalculoAliquotaICMS>00000</pisCofinsBaseCalculoAliquotaICMS>
+            <pisCofinsBaseCalculoFundamentoLegalCodigo>17</pisCofinsBaseCalculoFundamentoLegalCodigo>
+            <pisCofinsBaseCalculoFundamentoLegalNome>BENS A SEREM EMPREGADOS EM AERONAVES (LEI 10865/04 - ART 8º,</pisCofinsBaseCalculoFundamentoLegalNome>
+            <pisCofinsBaseCalculoPercentualReducao>00000</pisCofinsBaseCalculoPercentualReducao>
+            <pisCofinsBaseCalculoValor>000000007147251</pisCofinsBaseCalculoValor>
+            <pisCofinsFundamentoLegalReducaoCodigo>00</pisCofinsFundamentoLegalReducaoCodigo>
+            <pisCofinsRegimeTributacaoCodigo>4</pisCofinsRegimeTributacaoCodigo>
+            <pisCofinsRegimeTributacaoNome>REDUCAO</pisCofinsRegimeTributacaoNome>
+            <pisPasepAliquotaAdValorem>00210</pisPasepAliquotaAdValorem>
+            <pisPasepAliquotaEspecificaQuantidadeUnidade>000000000</pisPasepAliquotaEspecificaQuantidadeUnidade>
+            <pisPasepAliquotaEspecificaValor>0000000000</pisPasepAliquotaEspecificaValor>
+            <pisPasepAliquotaReduzida>00000</pisPasepAliquotaReduzida>
+            <pisPasepAliquotaValorDevido>000000000000000</pisPasepAliquotaValorDevido>
+            <pisPasepAliquotaValorRecolher>000000000000000</pisPasepAliquotaValorRecolher>
+            <relacaoCompradorVendedor>Fabricante não é o Exportador</relacaoCompradorVendedor>
+            <seguroMoedaNegociadaCodigo>000</seguroMoedaNegociadaCodigo>
+            <seguroValorMoedaNegociada>000000000000000</seguroValorMoedaNegociada>
+            <seguroValorReais>000000000000000</seguroValorReais>
+            <sequencialRetificacao>00</sequencialRetificacao>
+            <valorMultaARecolher>000000000000000</valorMultaARecolher>
+            <valorMultaARecolherAjustado>000000000000000</valorMultaARecolherAjustado>
+            <valorReaisFreteInternacional>000000000213404</valorReaisFreteInternacional>
+            <valorReaisSeguroInternacional>000000000000000</valorReaisSeguroInternacional>
+            <valorTotalCondicaoVenda>211018200000</valorTotalCondicaoVenda>
+            <vinculoCompradorVendedor>Há vinculação entre comprador e vendedor sem influência no preço da mercadoria.</vinculoCompradorVendedor>
+        </adicao>
+        <armazem>
+            <nomeArmazem>TE </nomeArmazem>
+        </armazem>
+        <armazenamentoRecintoAduaneiroCodigo>8911101</armazenamentoRecintoAduaneiroCodigo>
+        <armazenamentoRecintoAduaneiroNome>CONCESSIONÁRIA DO AEROPORTO INTERNACIONAL DE GUARULHOS S/A</armazenamentoRecintoAduaneiroNome>
+        <armazenamentoSetor>500</armazenamentoSetor>
+        <canalSelecaoParametrizada>000</canalSelecaoParametrizada>
+        <caracterizacaoOperacaoCodigoTipo>1</caracterizacaoOperacaoCodigoTipo>
+        <caracterizacaoOperacaoDescricaoTipo>Importação Própria</caracterizacaoOperacaoDescricaoTipo>
+        <cargaDataChegada>20180318</cargaDataChegada>
+        <cargaNumeroAgente>N/I</cargaNumeroAgente>
+        <cargaPaisProcedenciaCodigo>249</cargaPaisProcedenciaCodigo>
+        <cargaPaisProcedenciaNome>ESTADOS UNIDOS</cargaPaisProcedenciaNome>
+        <cargaPesoBruto>000000006350000</cargaPesoBruto>
+        <cargaPesoLiquido>000000005543120</cargaPesoLiquido>
+        <cargaUrfEntradaCodigo>0817600</cargaUrfEntradaCodigo>
+        <cargaUrfEntradaNome>AEROPORTO INTERNACIONAL DE SAO PAULO/GUARULHOS</cargaUrfEntradaNome>
+        <conhecimentoCargaEmbarqueData>20180316</conhecimentoCargaEmbarqueData>
+        <conhecimentoCargaEmbarqueLocal>MIAMI - FLORIDA</conhecimentoCargaEmbarqueLocal>
+        <conhecimentoCargaId>10000056083</conhecimentoCargaId>
+        <conhecimentoCargaIdMaster>00150926470</conhecimentoCargaIdMaster>
+        <conhecimentoCargaTipoCodigo>03</conhecimentoCargaTipoCodigo>
+        <conhecimentoCargaTipoNome>HAWB - House Airway Bill</conhecimentoCargaTipoNome>
+        <conhecimentoCargaUtilizacao>1</conhecimentoCargaUtilizacao>
+        <conhecimentoCargaUtilizacaoNome>Total</conhecimentoCargaUtilizacaoNome>
+        <dataRegistro>20180319</dataRegistro>
+        <documentoChegadaCargaCodigoTipo>2</documentoChegadaCargaCodigoTipo>
+        <documentoChegadaCargaNome>Termo de Entrada</documentoChegadaCargaNome>
+        <documentoChegadaCargaNumero>180086367</documentoChegadaCargaNumero>
+        <documentoInstrucaoDespacho>
+            <codigoTipoDocumentoDespacho>01</codigoTipoDocumentoDespacho>
+            <nomeDocumentoDespacho>FATURA COMERCIAL </nomeDocumentoDespacho>
+            <numeroDocumentoDespacho>SO625144-01, SO658970-01 </numeroDocumentoDespacho>
+        </documentoInstrucaoDespacho>
+        <documentoInstrucaoDespacho>
+            <codigoTipoDocumentoDespacho>01</codigoTipoDocumentoDespacho>
+            <nomeDocumentoDespacho>FATURA COMERCIAL </nomeDocumentoDespacho>
+            <numeroDocumentoDespacho>SO658970-02, SO658970-03 </numeroDocumentoDespacho>
+        </documentoInstrucaoDespacho>
+        <documentoInstrucaoDespacho>
+            <codigoTipoDocumentoDespacho>01</codigoTipoDocumentoDespacho>
+            <nomeDocumentoDespacho>FATURA COMERCIAL </nomeDocumentoDespacho>
+            <numeroDocumentoDespacho>SO662644-01, SO640483-01 </numeroDocumentoDespacho>
+        </documentoInstrucaoDespacho>
+        <documentoInstrucaoDespacho>
+            <codigoTipoDocumentoDespacho>01</codigoTipoDocumentoDespacho>
+            <nomeDocumentoDespacho>FATURA COMERCIAL </nomeDocumentoDespacho>
+            <numeroDocumentoDespacho>SO646554-03, 92192862 </numeroDocumentoDespacho>
+        </documentoInstrucaoDespacho>
+        <documentoInstrucaoDespacho>
+            <codigoTipoDocumentoDespacho>03</codigoTipoDocumentoDespacho>
+            <nomeDocumentoDespacho>CERTIDAO NEGATIVA DE DEBITO (CND), DO INSS </nomeDocumentoDespacho>
+            <numeroDocumentoDespacho>9B55.732F.710F.7DA3 </numeroDocumentoDespacho>
+        </documentoInstrucaoDespacho>
+        <documentoInstrucaoDespacho>
+            <codigoTipoDocumentoDespacho>04</codigoTipoDocumentoDespacho>
+            <nomeDocumentoDespacho>CERTIDAO DE QUITACAO DE TRIBUTOS FEDERAIS (CQTF), DA SRF </nomeDocumentoDespacho>
+            <numeroDocumentoDespacho>9B55.732F.710F.7DA3 </numeroDocumentoDespacho>
+        </documentoInstrucaoDespacho>
+        <documentoInstrucaoDespacho>
+            <codigoTipoDocumentoDespacho>13</codigoTipoDocumentoDespacho>
+            <nomeDocumentoDespacho>CERTIFICADO HOMOLOG. EMITIDO P/ DEPART. DE AVIACAO CIVIL-DAC</nomeDocumentoDespacho>
+            <numeroDocumentoDespacho>0906-41/ANAC </numeroDocumentoDespacho>
+        </documentoInstrucaoDespacho>
+        <documentoInstrucaoDespacho>
+            <codigoTipoDocumentoDespacho>26</codigoTipoDocumentoDespacho>
+            <nomeDocumentoDespacho>OUTROS DOCUMENTOS EXIGIDOS PELA LEGISLACAO </nomeDocumentoDespacho>
+            <numeroDocumentoDespacho>2018022409371927160190 </numeroDocumentoDespacho>
+        </documentoInstrucaoDespacho>
+        <documentoInstrucaoDespacho>
+            <codigoTipoDocumentoDespacho>28</codigoTipoDocumentoDespacho>
+            <nomeDocumentoDespacho>CONHECIMENTO DE CARGA </nomeDocumentoDespacho>
+            <numeroDocumentoDespacho>00150926470/10000056083 </numeroDocumentoDespacho>
+        </documentoInstrucaoDespacho>
+        <documentoInstrucaoDespacho>
+            <codigoTipoDocumentoDespacho>29</codigoTipoDocumentoDespacho>
+            <nomeDocumentoDespacho>ROMANEIO DE CARGA </nomeDocumentoDespacho>
+            <numeroDocumentoDespacho>SOD18-00221, SOD18-00288 </numeroDocumentoDespacho>
+        </documentoInstrucaoDespacho>
+        <documentoInstrucaoDespacho>
+            <codigoTipoDocumentoDespacho>29</codigoTipoDocumentoDespacho>
+            <nomeDocumentoDespacho>ROMANEIO DE CARGA </nomeDocumentoDespacho>
+            <numeroDocumentoDespacho>SOD18-00297, SOD18-00248 </numeroDocumentoDespacho>
+        </documentoInstrucaoDespacho>
+        <documentoInstrucaoDespacho>
+            <codigoTipoDocumentoDespacho>29</codigoTipoDocumentoDespacho>
+            <nomeDocumentoDespacho>ROMANEIO DE CARGA </nomeDocumentoDespacho>
+            <numeroDocumentoDespacho>SOD18-00262, 92192862 </numeroDocumentoDespacho>
+        </documentoInstrucaoDespacho>
+        <embalagem>
+            <codigoTipoEmbalagem>19</codigoTipoEmbalagem>
+            <nomeEmbalagem>CAIXA DE PAPELAO </nomeEmbalagem>
+            <quantidadeVolume>00005</quantidadeVolume>
+        </embalagem>
+        <freteCollect>000000000360000</freteCollect>
+        <freteEmTerritorioNacional>000000000000000</freteEmTerritorioNacional>
+        <freteMoedaNegociadaCodigo>220</freteMoedaNegociadaCodigo>
+        <freteMoedaNegociadaNome>DOLAR DOS EUA</freteMoedaNegociadaNome>
+        <fretePrepaid>000000000000000</fretePrepaid>
+        <freteTotalDolares>000000000360000</freteTotalDolares>
+        <freteTotalMoeda>360000</freteTotalMoeda>
+        <freteTotalReais>000000001182924</freteTotalReais>
+        <icms/>
+        <importadorCodigoTipo>1</importadorCodigoTipo>
+        <importadorCpfRepresentanteLegal>04179805820</importadorCpfRepresentanteLegal>
+        <importadorEnderecoBairro>JARDIM ANA MARIA</importadorEnderecoBairro>
+        <importadorEnderecoCep>18065290</importadorEnderecoCep>
+        <importadorEnderecoComplemento>BOX 1, 2 E 3</importadorEnderecoComplemento>
+        <importadorEnderecoLogradouro>SANTOS DUMONT</importadorEnderecoLogradouro>
+        <importadorEnderecoMunicipio>SOROCABA</importadorEnderecoMunicipio>
+        <importadorEnderecoNumero>1275</importadorEnderecoNumero>
+        <importadorEnderecoUf>SP</importadorEnderecoUf>
+        <importadorNome>DASSAULT FALCON JET DO BRASIL LTDA</importadorNome>
+        <importadorNomeRepresentanteLegal>MARCOS ANTONIO BARABAN</importadorNomeRepresentanteLegal>
+        <importadorNumero>01443782000104</importadorNumero>
+        <importadorNumeroTelefone>15 32318065</importadorNumeroTelefone>
+        <informacaoComplementar>******** MOEDAS UTILIZADAS ******** FOB : 220 DOLAR DOS EUA 3,285900000 FRETE : 220 DOLAR DOS EUA 3,285900000 Taxa de Utilizacao do SISCOMEX ( 7811 )..: R$ 474,10 ******** RESUMO DE VALORES TOTAIS DO PROCESSO ******** FOB......... R$ 134.296,41 US$ 40.870,51 Frete Intl.. R$ 11.829,24 US$ 3.600,00 Vr.Aduaneiro R$ 146.125,65 US$ 44.470,51 ******** RESUMO DOS TRIBUTOS ISENTOS ******** Imposto de Importacao.................R$ 17.302,35 Imposto Prod. Industrializados........R$ 13.749,30 Total ................................R$ 31.051,65 --- ******** RESUMO DO CALCULO DO ICMS ******** Valor Total do ICMS ( RECOLHIDO )........: R$ 6.169,21 ================================================================= REF.:DFJ-SOD-0022-18 ================================================================= NEOBRAZ - COMERCIO EXTERIOR ASSESSORIA LTDA. RUA BARAO DE ITAPETININGA, 151 - CONJ.35 CENTRO - SAO PAULO/SP FONE/FAX.: (11) 3255-3996- E-MAIL: neobraz@neobraz.com.br ============================================================= Nossa Referencia: 10824 DESPACHANTE ADUANEIRO AUTORIZADO: ERIKA KAUL BARABAN - REG. 8D.02.848 -164.844.118-16 MARCOS ANTONIO BARABAN - REG. 8D.01.451 -041.798.058-20 GILSON MANOEL TEIXEIRA - REG. 8D.04.434 -173.122.498-25 MARCOS VINICIUS SOUZA TEIXEIRA REG. 8D.05.688 -328.280.728-78 JOAO FRANCISCO ARAUJO - REG. 8D.05.670 -103.924.178-63 CARLOS FRUSTACI - REG. 8D.01.262 -100.710.158-09 ROBERTO FRUSTACI - REG. 8A.14.461 -103.715.718-47 CARLOS HENRIQUE OLIVEIRA SILVA REG. -372.385.298-07 ============================================================== INFORMACOES COMPLEMENTARES- MAWB OU BL : 00150926470 DE 16/03/2018 HOUSE: 10000056083 FATURA: SO625144-01, SO658970-01, SO658970-02, SO658970-03, SO662644-01, SO640483-01, SO646554-03, 92192862 CERTIDAO NEGATIVA DE DEBITO (CND), DO INSS:9B55.732F.710F.7DA3 CERTIDAO DE QUITACAO DE TRIBUTOS FEDERAIS (CQTF), DA SRF: 9B55.732F.710F.7DA3 CERTIF.HOMOLOGACAO EMITIDO P/DEPARTAMENTO DE AVIACAO CIVIL: 0906-41/ANAC OUTROS DOCUMENTOS EXIGIDOS PELA LEGISLACAO: 2018022409371927160190 TERMO DTA: 18008636-7 DATA CHEGADA: 18/03/2018 LOCAL DE EMBARQUE: MIAMI - FLORIDA ROMANEIO DE CARGA: SOD18-00221, SOD18-00288, SOD18-00297, SOD18-00248, SOD18-00262, 92192862 ENTRADA : 0817600 =============================================================== APENAS P/MATERIAIS DE USO AERONAUTICO E EMPRESAS HOMOLOGADAS JUNTO ANAC. Solicitamos isencao do I.I. + IPI de acordo com Artigo 136, item II, letra i do RA DECRETO 6.759\2009 (Lei 8032/90 Artigo 2§ Inciso II letra j,combinado com a Lei 8402/92,ARTIGO 1§ INCISO IV) Certidoes Negativas em anexo : FGTS, INSS, PROCURADORIA GERAL e RECEITA FEDERAL ================================================================= RECOLHIMENTO PIS/PASEP E COFINS - MATERIAL USO AERONAUTICO. APLICA-SE A ALIQUOTA 0 (ZERO) PARA PIS/PASEP E COFINS, NA IMPORTACAO DE MATERIAL AERONAUTICO, CONFORME DISPOSTO NO ARTIGO OITAVO, PARAGRAFO 12, INCISO VII DA LEI 10.865/04, E ALTERACOES, REGULAMENTADAS PELO ARTIGO QUARTO INCISO VII DO DERETO 5.171/04. RECOLHA-SE 1.00% (UM POR CENTO), INCLUSIVE AO ITENS COM ALIQUOTA 0 (ZERO), PARA COFINS, CONFORME DISPOSTO ARTIGO 12 DA LEI 12.844/13. ================================================================= DADOS DO CAMBIO: FINANCIADO 180 DIAS - NET 30, EXCETO ADICOES 10 E 15 - SEM COBERTURA CAMBIAL - ITENS EM GARANTIA. ================================================================= MATERIAL DE USO AERONAUTICO (AVIAO) - OPERACAO DISPENSADA DE LICENCIMANTO NA FORMA DA PORTARIA SECEX NR. 23 DE 14-07-2011 PUBLICADA NO DOU DE 19-07-2011 QUE DISPOE SOBRE AS OPERACOES DE COMERCIO EXTERIOR - SECAO VI, SUBSECAO I,PROCEDIMENTOS GERAIS: ARTIGO 43,PARAGRAFO 3. ================================================================= TRANSPORTADORA AUTORIZADA. DUX TRUCKING LTDA CNPJ:12.136.415/0001-76 RUA JOAO FLEURY SILVEIRA, 172 SAO PAULO - SP --------------------------------------------------------------- MFT - TRANSPORTE E LOGISTICA LTDA CNPJ: 20.256.381/0001-81 RUA JOAO MARCHI - FUNDOS VILA IOLANDA - SÇO PAULO ============================================================== ICMS COM ALIQUOTA REDUZIDA PARA O EQUIVALENTE A 4% COM BASE NO CONVENIO ICMS 75\91 EMPRESAS RELACIONADAS NO ATO COTEPE NR. 06 D.O.U - 22-03-2016. ============================================================== MATERIAL PARA FINS - USO AERONAUTICO: DESTINAM-SE AO: REPARO; REPOSICAO E MANUTENCAO EM AERONAVES, DE PASSEGEIROS E\OU DE CARGAS. ================================================================ MATERIAL DE USO EXCLUSIVO AERONAUTICO ASA FIXA. =============================================================== AOG - AERONAVE EM SOLO PREFIXO: PP-VEL, PP-MJC, PT-OEX, PP-PPN, CX-MBS. =============================================================== ********************** RESUMO DE TRIBUTOS *********************** BASE DE CALCULO (PIS/COFINS)... R$ 27.939,22 5602-PIS/PASEP ( 2.10% )....... R$ 0,00 5629-COFINS ( 10.65% )....... R$ 279,39 BASE DE CALCULO (PIS/COFINS)... R$ 117.774,42 5602-PIS/PASEP ( 2.10% )....... R$ 0,00 5629-COFINS ( 10.65% )....... R$ 1.177,75 BASE DE CALCULO (PIS/COFINS)... R$ 412,00 5602-PIS/PASEP ( 2.10% )....... R$ 0,00 5629-COFINS ( 9.65% )....... R$ 4,12 ================================================================= AD. VR.ADUANEIRO II IPI ICMS PIS COFINS 001 27.939,22 0,00 0,00 18,00 2,10 10,65 002 73,92 16,00 8,00 18,00 2,10 10,65 003 2.314,77 16,00 8,00 18,00 2,10 10,65 004 128,92 16,00 8,00 18,00 2,10 10,65 005 115,64 16,00 8,00 18,00 2,10 10,65 006 1.501,19 16,00 10,00 18,00 2,10 10,65 007 95,46 16,00 10,00 18,00 2,10 10,65 008 832,31 16,00 10,00 18,00 2,10 10,65 009 412,00 16,00 10,00 18,00 2,10 9,65 010 8.057,59 14,00 0,00 18,00 2,10 10,65 011 6.022,61 16,00 8,00 18,00 2,10 10,65 012 5.607,15 14,00 0,00 18,00 2,10 10,65 013 577,65 14,00 0,00 18,00 2,10 10,65 014 5.341,21 18,00 15,00 18,00 2,10 10,65 015 15.633,49 16,00 8,00 18,00 2,10 10,65 016 71.472,51 14,00 15,00 18,00 2,10 10,65</informacaoComplementar>
+        <localDescargaTotalDolares>000000004447043</localDescargaTotalDolares>
+        <localDescargaTotalReais>000000014612551</localDescargaTotalReais>
+        <localEmbarqueTotalDolares>000000004087051</localEmbarqueTotalDolares>
+        <localEmbarqueTotalReais>000000013429641</localEmbarqueTotalReais>
+        <modalidadeDespachoCodigo>1</modalidadeDespachoCodigo>
+        <modalidadeDespachoNome>Normal</modalidadeDespachoNome>
+        <numeroDI>1805033540</numeroDI>
+        <operacaoFundap>N</operacaoFundap>
+        <pagamento>
+            <agenciaPagamento>3324 </agenciaPagamento>
+            <bancoPagamento>001</bancoPagamento>
+            <codigoReceita>5629</codigoReceita>
+            <codigoTipoPagamento>1</codigoTipoPagamento>
+            <contaPagamento>205275X </contaPagamento>
+            <dataPagamento>20180319</dataPagamento>
+            <nomeTipoPagamento>Débito em Conta</nomeTipoPagamento>
+            <numeroRetificacao>00</numeroRetificacao>
+            <valorJurosEncargos>000000000</valorJurosEncargos>
+            <valorMulta>000000000</valorMulta>
+            <valorReceita>000000000146126</valorReceita>
+        </pagamento>
+        <pagamento>
+            <agenciaPagamento>3324 </agenciaPagamento>
+            <bancoPagamento>001</bancoPagamento>
+            <codigoReceita>7811</codigoReceita>
+            <codigoTipoPagamento>1</codigoTipoPagamento>
+            <contaPagamento>205275X </contaPagamento>
+            <dataPagamento>20180319</dataPagamento>
+            <nomeTipoPagamento>Débito em Conta</nomeTipoPagamento>
+            <numeroRetificacao>00</numeroRetificacao>
+            <valorJurosEncargos>000000000</valorJurosEncargos>
+            <valorMulta>000000000</valorMulta>
+            <valorReceita>000000000047410</valorReceita>
+        </pagamento>
+        <seguroMoedaNegociadaCodigo>000</seguroMoedaNegociadaCodigo>
+        <seguroTotalDolares>000000000000000</seguroTotalDolares>
+        <seguroTotalMoedaNegociada>000000000000000</seguroTotalMoedaNegociada>
+        <seguroTotalReais>000000000000000</seguroTotalReais>
+        <sequencialRetificacao>00</sequencialRetificacao>
+        <situacaoEntregaCarga>ENTREGA NAO AUTORIZADA</situacaoEntregaCarga>
+        <tipoDeclaracaoCodigo>01</tipoDeclaracaoCodigo>
+        <tipoDeclaracaoNome>CONSUMO</tipoDeclaracaoNome>
+        <totalAdicoes>016</totalAdicoes>
+        <urfDespachoCodigo>0817600</urfDespachoCodigo>
+        <urfDespachoNome>AEROPORTO INTERNACIONAL DE SAO PAULO/GUARULHOS</urfDespachoNome>
+        <valorTotalMultaARecolherAjustado>000000000000000</valorTotalMultaARecolherAjustado>
+        <viaTransporteCodigo>04</viaTransporteCodigo>
+        <viaTransporteMultimodal>N</viaTransporteMultimodal>
+        <viaTransporteNome>AÉREA</viaTransporteNome>
+        <viaTransporteNomeTransportador>AMERICAN AIR LINES</viaTransporteNomeTransportador>
+        <viaTransportePaisTransportadorCodigo>249</viaTransportePaisTransportadorCodigo>
+        <viaTransportePaisTransportadorNome>ESTADOS UNIDOS</viaTransportePaisTransportadorNome>
+    </declaracaoImportacao>
+</ListaDeclaracoes> 

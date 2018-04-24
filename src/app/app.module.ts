@@ -27,7 +27,8 @@ import { AppRoutingModule } from './app.routing.module';
     HttpClientModule,
     // ReactiveFormsModule,
     MenuModule,
-    AppRoutingModule
+    AppRoutingModule,
+    
   ],
   providers: [
               LoginService, 

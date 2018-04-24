@@ -9,6 +9,7 @@ import { FormComponent } from "./form/form.component";
 import { CommonModule } from "@angular/common";
 import { BordasResolve } from "./bordas.resolve.guard";
 import { ModalModule } from "ngx-bootstrap/modal/modal.module";
+import { ModalExcluirModule } from "../modal-excluir/modal-excluir.module";
 
 
 @NgModule({
@@ -18,7 +19,7 @@ import { ModalModule } from "ngx-bootstrap/modal/modal.module";
         HttpClientModule,
         ReactiveFormsModule,
         BordasRouting,
-        ModalModule.forRoot()
+        ModalExcluirModule
     ],
     declarations: [
       ListaComponent,

@@ -25,7 +25,7 @@
             <a class="btn btn-primary" [routerLink]="['/bordas', borda.id]">
               Editar
             </a>
-            <button class="btn btn-danger" (click)="teste(borda)" >
+            <button class="btn btn-danger" (click)="modalExcluir(borda)" >
               Excluir
             </button>
         </td>
@@ -34,24 +34,5 @@
   </table>
 </div>
 
+<!-- USAR EVENT EMMITER -->
 
-<div bsModal #childModal="bs-modal" class="modal fade" tabindex="-1"
-     role="dialog" aria-labelledby="dialog-child-name">
-  <div class="modal-dialog modal-sm">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h4 id="dialog-child-name" class="modal-title pull-left">Exclusão</h4>
-        <button type="button" class="close pull-right" aria-label="Close" (click)="childModal.hide()">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        Deseja excluir: {{ bordaSelecionada ? bordaSelecionada.nome : '' }}?
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" (click)="excluir(bordaSelecionada)" >Sim</button>
-        <button type="button" class="btn btn-primary" (click)="childModal.hide()" >Não</button>
-      </div>
-    </div>
-  </div>
-</div>

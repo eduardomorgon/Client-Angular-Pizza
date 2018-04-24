@@ -2,6 +2,9 @@ import { Component, OnInit, ViewChild } from '@angular/core';
 import { BordasService } from '../bordas.service';
 import { Borda } from '../borda.model';
 import { ModalDirective } from 'ngx-bootstrap/modal/modal.directive';
+import { BsModalService } from 'ngx-bootstrap/modal/bs-modal.service';
+import { ModalExcluirComponent } from '../../modal-excluir/modal-excluir.component';
+import { BsModalRef } from 'ngx-bootstrap/modal/bs-modal-ref.service';
 
 @Component({
   selector: 'app-lista',
@@ -12,22 +15,21 @@ export class ListaComponent implements OnInit {
 
   public bordas: Borda[];
   public bordaSelecionada: Borda;
-  @ViewChild('childModal') childModal: ModalDirective;
   
-  constructor(private bordaService: BordasService) { }
+  constructor(private bordaService: BordasService,
+              private modalService: BsModalService) { }
 
   public ngOnInit(): void {
-
+    
     this.bordaService.listar()
       .subscribe(bordas => this.bordas = bordas);
   }
 
-  public excluir(borda: Borda): void {
+  private excluir(borda: Borda): void {
     
     this.bordaService.excluir(borda)
       .subscribe(res => {
         if(res.status === 204) {
-          this.childModal.hide();
           this.removerDaLista(borda);
         }
       }, erro => {
@@ -43,11 +45,20 @@ export class ListaComponent implements OnInit {
     this.bordas = listaBordas;
   }
 
-  public teste(borda: Borda) {
+  public modalExcluir(borda: Borda) {
 
-    this.bordaSelecionada = borda;
-    console.log(this.bordaSelecionada);
-    this.childModal.show();
+    const initialState = {
+      objeto: borda,
+      propriedade: 'nome'
+    };
+
+    let bsModalRef = this.modalService.show(ModalExcluirComponent, {initialState});
+    bsModalRef.content.eventoExclusao.subscribe((borda: Borda) => this.excluir(borda));
+    
+    // https://ngx-bootstrap-latest.surge.sh/#/modals#directive-section
+    // https://github.com/valor-software/ngx-bootstrap/issues/624
+    // https://stackoverflow.com/questions/46698126/ngx-bootstrap-how-to-open-a-modal-from-another-component
+    
   }
 
 }
