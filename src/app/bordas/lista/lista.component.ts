@@ -1,7 +1,7 @@
 import { Component, OnInit, ViewChild } from '@angular/core';
 import { BordasService } from '../bordas.service';
 import { Borda } from '../borda.model';
-import { ModalDirective } from 'ngx-bootstrap/modal/modal.directive';
+// import { ModalDirective } from 'ngx-bootstrap/modal/modal.directive';
 import { BsModalService } from 'ngx-bootstrap/modal/bs-modal.service';
 import { ModalExcluirComponent } from '../../modal-excluir/modal-excluir.component';
 import { BsModalRef } from 'ngx-bootstrap/modal/bs-modal-ref.service';

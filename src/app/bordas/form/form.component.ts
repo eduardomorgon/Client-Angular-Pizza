@@ -81,10 +81,9 @@ export class FormComponent implements OnInit {
             if(res.status === 201) {
               this.router.navigate(['bordas']);
             }
-          }, (erro: HttpErrorResponse) => {
-            erro.error.errors.forEach(e => {
-              console.log(e.campo);
-              console.log(e.mensagem);
+          }, (err: HttpErrorResponse) => {
+            err.error.messages.forEach(e => {
+              console.log(e);
             })
           });
       }else{
