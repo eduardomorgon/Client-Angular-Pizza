@@ -2,21 +2,12 @@ import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { AuthGuard } from './auth/auth.guard';
 import { LoginComponent } from './login/login.component';
+import { Erro404Component } from './erro404/erro404.component';
 
-// import { Error404Component } from './pages/error404/error404.component';
-
-
-// const routes: Routes = [
-//   { path: 'home', component: HomeComponent },
-//   { path: 'about/:id', component: AboutComponent },
-//   { path: '', redirectTo: '/home', pathMatch: 'full' },
-//   {
-//     path: '**', component: Error404Component
-//   }
-
-// ];
 const appRoutes: Routes = [
-
+    { 
+        path: '', redirectTo: '/home', pathMatch: 'full' 
+    },
     {
         path:'login', 
         component: LoginComponent
@@ -27,10 +18,19 @@ const appRoutes: Routes = [
         canLoad: [AuthGuard]
     },
     {
+        path:'pizzas', 
+        loadChildren: 'app/pizzas/pizzas.module#PizzasModule',
+        canLoad: [AuthGuard]
+    },
+    {
         path:'home', 
         loadChildren: 'app/home/home.module#HomeModule', 
         canActivate: [AuthGuard]
     },
+    {
+        path:'404',
+        component: Erro404Component
+    }
 ];
 
 

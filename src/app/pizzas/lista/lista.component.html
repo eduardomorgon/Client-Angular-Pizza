@@ -1,0 +1,35 @@
+<div class="row">
+    <div class="col-md-4">
+        <a class="btn btn-primary" [routerLink]='["/pizzas/novo"]' [routerLinkActive]="['active']">
+          Nova Pizza
+        </a>
+    </div>
+  </div>
+  <br/>
+  <div class="table-responsive">
+    <table class="table table-bordered table-hover">
+      <thead class="thead-dark">
+        <tr class="text-center">
+          <th scope="col">#</th>
+          <th scope="col">Nome</th>
+          <th scope="col">Descrição</th>
+          <th scope="col" >Ação</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let pizza of pizzas">
+          <td>{{pizza.id}}</td>
+          <td>{{pizza.nome}}</td>
+          <td>{{pizza.descricao}}</td>
+          <td class="text-center">
+              <a class="btn btn-primary btn-sm" [routerLink]="['/pizzas', pizza.id]">
+                Editar
+              </a>
+              <button class="btn btn-danger btn-sm" (click)="modalExcluir(pizza)" >
+                Excluir
+              </button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>

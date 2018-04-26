@@ -10,6 +10,7 @@ import { CommonModule } from "@angular/common";
 import { BordasResolve } from "./bordas.resolve.guard";
 import { ModalModule } from "ngx-bootstrap/modal/modal.module";
 import { ModalExcluirModule } from "../modal-excluir/modal-excluir.module";
+import { ErroServerComponent } from "../erro-server/erro-server.component";
 
 
 @NgModule({
@@ -23,7 +24,8 @@ import { ModalExcluirModule } from "../modal-excluir/modal-excluir.module";
     ],
     declarations: [
       ListaComponent,
-      FormComponent
+      FormComponent,
+      ErroServerComponent
     ],
     exports: [
         ListaComponent,

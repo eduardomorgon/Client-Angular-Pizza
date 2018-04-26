@@ -4,6 +4,7 @@ import { Borda } from '../borda.model';
 import { BordasService } from '../bordas.service';
 import { FormGroup, FormBuilder, Validators } from '@angular/forms';
 import { HttpErrorResponse } from '@angular/common/http';
+import { ValidacaoServer } from '../../model/validacao.server';
 
 @Component({
   selector: 'app-form',
@@ -13,6 +14,7 @@ import { HttpErrorResponse } from '@angular/common/http';
 export class FormComponent implements OnInit {
 
   bordaForm: FormGroup;
+  validacoesServer: Array<ValidacaoServer>;
 
   constructor(private route: ActivatedRoute, 
               private service: BordasService,
@@ -82,9 +84,7 @@ export class FormComponent implements OnInit {
               this.router.navigate(['bordas']);
             }
           }, (err: HttpErrorResponse) => {
-            err.error.messages.forEach(e => {
-              console.log(e);
-            })
+            this.validacoesServer = err.error.messages;
           });
       }else{
         this.service.editar(borda)
