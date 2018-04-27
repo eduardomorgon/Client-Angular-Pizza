@@ -1,3 +1,59 @@
-<p>
-  form works!
-</p>
+<app-erro-server [validacoes]="validacoesServer"></app-erro-server>
+
+<form (submit)="salvar()" class="needs-validation" [formGroup]="pizzaForm">
+  <div class="form-group" >
+    <label for="nome">Nome</label>
+    <input type="text" class="form-control"  
+           [ngClass]="displayFieldCss('nome')"
+           formControlName="nome" name="nome"
+           id="nome" placeholder="Nome da borda"/>
+    <div *ngIf="isFieldValid('nome')" class="invalid-feedback ">
+      Nome é obrigatorio. 
+    </div>
+  </div>
+  <div class="form-group">
+    <label for="descricao">Descrição</label>
+    <input type="text" class="form-control" 
+           [ngClass]="displayFieldCss('descricao')"
+           formControlName="descricao" name="descricao"
+           id="descricao" placeholder="Descrição da borda">
+      <div *ngIf="isFieldValid('descricao')" class="invalid-feedback ">
+        Descrição é obrigatorio. 
+      </div>
+  </div>
+  <div class="form-row" formGroupName="precos">
+    <div class="form-group col-md-4">
+      <label for="broto">Broto</label>
+      <input type="number" class="form-control" 
+             [ngClass]="displayFieldCss('precos.broto')"
+             formControlName="broto"
+             id="broto" placeholder="Broto">
+      <div *ngIf="isFieldValid('precos.broto')" class="invalid-feedback ">
+        Preço broto é obrigatorio. 
+      </div>
+    </div>
+    <div class="form-group col-md-4">
+      <label for="media">Média</label>
+      <input type="number" class="form-control" 
+              [ngClass]="displayFieldCss('precos.media')"
+              formControlName="media"
+              id="media" placeholder="Média">
+      <div *ngIf="isFieldValid('precos.media')" class="invalid-feedback ">
+        Preço média é obrigatorio. 
+      </div>
+    </div>
+    <div class="form-group col-md-4">
+      <label for="grande">Grande</label>
+      <input type="number" class="form-control" 
+              [ngClass]="displayFieldCss('precos.grande')"
+              formControlName="grande"
+              id="grande" placeholder="Grande">
+      <div *ngIf="isFieldValid('precos.grande')" class="invalid-feedback ">
+        Preço grande é obrigatorio. 
+      </div>
+    </div>
+    
+  </div>
+  <button type="submit" class="btn btn-success">Salvar</button>
+  <a class="btn btn-dark" [routerLink]="['/pizzas']">Voltar</a>
+</form>

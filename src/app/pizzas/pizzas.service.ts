@@ -4,15 +4,14 @@ import { Observable } from 'rxjs/Observable';
 import { Pizza } from './pizza.model';
 
 @Injectable()
-export class PizzaService {
+export class PizzasService {
 
   url: string = 'http://localhost:8080/api/pizzas/';
   headers: HttpHeaders;
 
   constructor(private http: HttpClient) {
     this.http = http;  
-    this.headers = new HttpHeaders();
-    this.headers.append('Content-Type','application/json');
+    this.headers = new HttpHeaders({'Content-Type':'application/json; charset=utf-8'});
   }
 
   public listar(): Observable<Pizza[]>  {
@@ -27,7 +26,7 @@ export class PizzaService {
 
   public editar(pizza: Pizza): Observable<HttpResponse<Response>> {
 
-    return this.http.put<Response>(this.url + pizza.id, JSON.stringify(pizza), 
+    return this.http.put<Response>(this.url + pizza.id, pizza, 
     { 
       headers: this.headers, observe: 'response'
     });
@@ -38,9 +37,9 @@ export class PizzaService {
     return this.http.delete<Response>(this.url + pizza.id, {observe: 'response'});
   }
 
-  public salvar(borda: Pizza): Observable<HttpResponse<Response>> {
+  public salvar(pizza: Pizza): Observable<HttpResponse<Response>> {
 
-    return this.http.post<Response>(this.url, JSON.stringify(borda), 
+    return this.http.post<Response>(this.url, pizza,
       { 
         headers: this.headers, observe: 'response'
       });

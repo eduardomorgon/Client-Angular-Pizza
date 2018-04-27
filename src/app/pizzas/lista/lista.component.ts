@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { PizzaService } from '../pizza.service';
+import { PizzasService } from '../pizzas.service';
 import { Pizza } from '../pizza.model';
 import { ModalExcluirComponent } from '../../modal-excluir/modal-excluir.component';
 import { BsModalService } from 'ngx-bootstrap/modal/bs-modal.service';
@@ -13,12 +13,12 @@ export class ListaComponent implements OnInit {
 
   public pizzas: Array<Pizza>;
 
-  constructor(private service: PizzaService,
+  constructor(private service: PizzasService,
               private modalService: BsModalService) { }
 
   ngOnInit() {
 
-    this.service.listar().subscribe(pizzas => this.pizzas = pizzas);
+    this.service.listar().subscribe(pizzas => {this.pizzas = pizzas; console.log(JSON.stringify(pizzas[3]))});
     
   }
 
