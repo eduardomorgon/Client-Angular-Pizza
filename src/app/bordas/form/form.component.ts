@@ -78,7 +78,7 @@ export class FormComponent implements OnInit {
       let borda: Borda = this.bordaForm.value;
       
       if(!borda.id) {
-        this.service.salvar(borda)
+        this.service.save(borda)
           .subscribe(res => {
             if(res.status === 201) {
               this.router.navigate(['bordas']);
@@ -87,9 +87,9 @@ export class FormComponent implements OnInit {
             this.validacoesServer = err.error.messages;
           });
       }else{
-        this.service.editar(borda)
+        this.service.edit(borda.id, borda)
           .subscribe(res => {
-            if(res.status === 204) {
+            if(res.status === 200) {
               this.router.navigate(['bordas']);
             }
           }, erro => {

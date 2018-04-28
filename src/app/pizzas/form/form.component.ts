@@ -55,7 +55,7 @@ export class FormComponent implements OnInit {
       let pizza: Pizza = this.pizzaForm.value;
       
       if(!pizza.id) {
-        this.service.salvar(pizza)
+        this.service.save(pizza)
           .subscribe(res => {
             if(res.status === 201) {
               this.router.navigate(['pizzas']);
@@ -65,7 +65,7 @@ export class FormComponent implements OnInit {
             this.validacoesServer = err.error.messages;
           });
       }else{
-        this.service.editar(pizza)
+        this.service.edit(pizza.id, pizza)
           .subscribe(res => {
             if(res.status === 200) {
               this.router.navigate(['pizzas']);
@@ -90,9 +90,7 @@ export class FormComponent implements OnInit {
       }
     });
   }
-
   
-
   isFieldValid(field: string) {
 
     return !this.pizzaForm.get(field).valid && this.pizzaForm.get(field).touched;

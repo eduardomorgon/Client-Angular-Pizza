@@ -15,14 +15,15 @@ import { AuthGuard } from './auth/auth.guard';
 import { MenuModule } from './menu/menu.module';
 import { AppRoutingModule } from './app.routing.module';
 import { Erro404Component } from './erro404/erro404.component';
-import { ErroServerComponent } from './erro-server/erro-server.component';
+
 
 
 @NgModule({
   declarations: [
     AppComponent,
     LoginComponent,
-    Erro404Component
+    Erro404Component,
+    // ErroServerComponent
   ],
   imports: [
     BrowserModule,

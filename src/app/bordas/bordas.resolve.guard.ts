@@ -15,7 +15,7 @@ export class BordasResolve implements Resolve<Borda> {
     resolve(route: ActivatedRouteSnapshot, state: RouterStateSnapshot): Borda | Observable<Borda> {
         
         let id:number = route.params.id;
-        return this.bordasService.buscarPor(id)
+        return this.bordasService.findBy(id)
             .catch(err => {
                 console.log(err.error);
                 this.router.navigate(["/404"]);

@@ -1,48 +1,57 @@
 import { Injectable } from '@angular/core';
-import { HttpHeaders, HttpClient, HttpResponse } from '@angular/common/http';
-import { Observable } from 'rxjs/Observable';
+import { HttpClient } from '@angular/common/http';
 import { Pizza } from './pizza.model';
+import { CrudService } from '../shared/service/crud.service';
 
 @Injectable()
-export class PizzasService {
+export class PizzasService extends CrudService<Pizza> {
 
-  url: string = 'http://localhost:8080/api/pizzas/';
-  headers: HttpHeaders;
-
-  constructor(private http: HttpClient) {
-    this.http = http;  
-    this.headers = new HttpHeaders({'Content-Type':'application/json; charset=utf-8'});
+  constructor(http: HttpClient) {
+    super(http);
   }
 
-  public listar(): Observable<Pizza[]>  {
+  url(): string {
+    return 'http://localhost:8080/api/pizzas/';
+  }
+
+
+  // url: string = 'http://localhost:8080/api/pizzas/';
+  // headers: HttpHeaders;
+
+  // constructor(private http: HttpClient) {
+  //   this.http = http;  
+  //   this.headers = new HttpHeaders({'Content-Type':'application/json; charset=utf-8'});
+  // }
+
+  // public listar(): Observable<Pizza[]>  {
     
-    return this.http.get<Pizza[]>(this.url);
-  }
+  //   return this.http.get<Pizza[]>(this.url);
+  // }
 
-  public buscarPor(id: number): Observable<Pizza> {
+  // public buscarPor(id: number): Observable<Pizza> {
 
-    return this.http.get(this.url + id);
-  }
+  //   return this.http.get(this.url + id);
+  // }
 
-  public editar(pizza: Pizza): Observable<HttpResponse<Response>> {
+  // public editar(pizza: Pizza): Observable<HttpResponse<Response>> {
 
-    return this.http.put<Response>(this.url + pizza.id, pizza, 
-    { 
-      headers: this.headers, observe: 'response'
-    });
-  }
+  //   return this.http.put<Response>(this.url + pizza.id, pizza, 
+  //   { 
+  //     headers: this.headers, observe: 'response'
+  //   });
+  // }
 
-  public excluir(pizza: Pizza): Observable<HttpResponse<Response>> {
+  // public excluir(pizza: Pizza): Observable<HttpResponse<Response>> {
 
-    return this.http.delete<Response>(this.url + pizza.id, {observe: 'response'});
-  }
+  //   return this.http.delete<Response>(this.url + pizza.id, {observe: 'response'});
+  // }
 
-  public salvar(pizza: Pizza): Observable<HttpResponse<Response>> {
+  // public salvar(pizza: Pizza): Observable<HttpResponse<Response>> {
 
-    return this.http.post<Response>(this.url, pizza,
-      { 
-        headers: this.headers, observe: 'response'
-      });
-  }
+  //   return this.http.post<Response>(this.url, pizza,
+  //     { 
+  //       headers: this.headers, observe: 'response'
+  //     });
+  // }
 
 }

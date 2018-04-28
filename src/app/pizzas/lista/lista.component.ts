@@ -18,13 +18,13 @@ export class ListaComponent implements OnInit {
 
   ngOnInit() {
 
-    this.service.listar().subscribe(pizzas => {this.pizzas = pizzas; console.log(JSON.stringify(pizzas[3]))});
+    this.service.all().subscribe(pizzas => this.pizzas = pizzas);
     
   }
 
   private excluir(pizza: Pizza): void {
     
-    this.service.excluir(pizza)
+    this.service.remove(pizza.id)
       .subscribe(res => {
         if(res.status === 204) {
           this.removerDaLista(pizza);

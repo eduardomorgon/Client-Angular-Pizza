@@ -15,7 +15,7 @@ export class PizzaResolve implements Resolve<Pizza> {
     resolve(route: ActivatedRouteSnapshot, state: RouterStateSnapshot): Pizza | Observable<Pizza> {
         
         let id:number = route.params.id;
-        return this.pizzaService.buscarPor(id)
+        return this.pizzaService.findBy(id)
             .catch(err => {
                 console.log(err.error);
                 this.router.navigate(["/404"]);

@@ -6,7 +6,6 @@ import { ListaComponent } from './lista/lista.component';
 import { PizzasService } from './pizzas.service';
 import { FormComponent } from './form/form.component';
 import { ModalExcluirModule } from '../modal-excluir/modal-excluir.module';
-import { ErroServerComponent } from '../erro-server/erro-server.component';
 import { ReactiveFormsModule } from '@angular/forms';
 import { PizzaResolve } from './pizzas.resolve.guard';
 
@@ -15,9 +14,12 @@ import { PizzaResolve } from './pizzas.resolve.guard';
     CommonModule,
     PizzasRoutingModule,
     ModalExcluirModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
   ],
-  declarations: [ListaComponent, FormComponent,ErroServerComponent],
+  declarations: [
+    ListaComponent, 
+    FormComponent
+  ],
   exports: [ListaComponent, FormComponent],
   providers: [PizzasService, PizzaResolve]
 })

@@ -21,13 +21,13 @@ export class ListaComponent implements OnInit {
 
   public ngOnInit(): void {
     
-    this.bordaService.listar()
+    this.bordaService.all()
       .subscribe(bordas => this.bordas = bordas);
   }
 
   private excluir(borda: Borda): void {
     
-    this.bordaService.excluir(borda)
+    this.bordaService.remove(borda.id)
       .subscribe(res => {
         if(res.status === 204) {
           this.removerDaLista(borda);
