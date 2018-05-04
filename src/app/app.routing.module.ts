@@ -23,6 +23,11 @@ const appRoutes: Routes = [
         canLoad: [AuthGuard]
     },
     {
+        path: 'clientes',
+        loadChildren: 'app/clientes/clientes.module#ClientesModule',
+        canLoad: [AuthGuard]
+    },
+    {
         path:'home', 
         loadChildren: 'app/home/home.module#HomeModule', 
         canActivate: [AuthGuard]

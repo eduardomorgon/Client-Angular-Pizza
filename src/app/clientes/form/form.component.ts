@@ -1,9 +1,8 @@
-import { Component, OnInit, OnDestroy } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { FormGroup, FormBuilder, Validators } from '@angular/forms';
-import { ValidacaoServer } from '../../model/validacao.server';
 import { ActivatedRoute, Router } from '@angular/router';
-import { PizzasService } from '../pizzas.service';
-import { Pizza } from '../pizza.model';
+import { ClientesService } from '../clientes.service';
+import { Cliente } from '../cliente.model';
 import { HttpErrorResponse } from '@angular/common/http';
 
 @Component({
@@ -13,68 +12,69 @@ import { HttpErrorResponse } from '@angular/common/http';
 })
 export class FormComponent implements OnInit {
 
-  pizzaForm: FormGroup;
-  validacoesServer: Array<ValidacaoServer>;
+  clienteForm: FormGroup;
 
-  constructor(private route: ActivatedRoute, 
-              private service: PizzasService,
-              private router: Router,
-              private formBuilder: FormBuilder) { 
-  }
-  
+  constructor(
+    private route: ActivatedRoute, 
+    private service: ClientesService,
+    private router: Router,
+    private formBuilder: FormBuilder
+  ) { }
+
   ngOnInit() {
 
     this.configuraValidacao();
 
     this.route.data.subscribe(data => {
-      let pizza: Pizza = data.pizza;
-      this.pizzaForm.setValue(pizza);
+      let cliente: Cliente = data.cliente;
+      if(cliente)
+        this.clienteForm.setValue(cliente);
     });
-    
   }
 
   private configuraValidacao(): void {
-    this.pizzaForm = this.formBuilder.group({
+
+    this.clienteForm = this.formBuilder.group({
       id: [''],
       nome: ['', Validators.required],
-      descricao: ['', Validators.required],
-      precos: this.formBuilder.group({
-        broto: ['', Validators.required],
-        media: ['', Validators.required],
-        grande: ['', Validators.required]
+      telefone: ['', Validators.required],
+      endereco: this.formBuilder.group({
+        id: [''],
+        rua: ['', Validators.required],
+        numero: ['', Validators.required],
+        bairro: ['', Validators.required],
+        referencia: ['']
       })
     });
   }
 
   public salvar(): void {
-    
-    if(this.pizzaForm.valid) {
 
-      let pizza: Pizza = this.pizzaForm.value;
+    if(this.clienteForm.valid) {
+
+      let cliente: Cliente = this.clienteForm.value;
       
-      if(!pizza.id) {
-        this.service.save(pizza)
+      if(!cliente.id) {
+        this.service.save(cliente)
           .subscribe(res => {
             if(res.status === 201) {
-              this.router.navigate(['pizzas']);
+              this.router.navigate(['clientes']);
             }
           }, (err: HttpErrorResponse) => {
-            console.log(err.error);
-            this.validacoesServer = err.error.messages;
+            // this.validacoesServer = err.error.messages;
           });
       }else{
-        this.service.edit(pizza.id, pizza)
+        this.service.edit(cliente.id, cliente)
           .subscribe(res => {
             if(res.status === 200) {
-              this.router.navigate(['pizzas']);
+              this.router.navigate(['clientes']);
             }
           }, erro => {
             console.log(erro);
           });
       }
     }else{
-      this.dispararValidacoes(this.pizzaForm);
-      console.log(this.pizzaForm)
+      this.dispararValidacoes(this.clienteForm);
     }
   }
 
@@ -88,10 +88,10 @@ export class FormComponent implements OnInit {
       }
     });
   }
-  
+
   isFieldValid(field: string) {
 
-    return !this.pizzaForm.get(field).valid && this.pizzaForm.get(field).touched;
+    return !this.clienteForm.get(field).valid && this.clienteForm.get(field).touched;
   }
 
   displayFieldCss(field: string) {

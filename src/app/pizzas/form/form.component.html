@@ -6,7 +6,7 @@
     <input type="text" class="form-control"  
            [ngClass]="displayFieldCss('nome')"
            formControlName="nome" name="nome"
-           id="nome" placeholder="Nome da borda"/>
+           id="nome" placeholder="Pizza"/>
     <div *ngIf="isFieldValid('nome')" class="invalid-feedback ">
       Nome é obrigatorio. 
     </div>
@@ -16,7 +16,7 @@
     <input type="text" class="form-control" 
            [ngClass]="displayFieldCss('descricao')"
            formControlName="descricao" name="descricao"
-           id="descricao" placeholder="Descrição da borda">
+           id="descricao" placeholder="Descrição">
       <div *ngIf="isFieldValid('descricao')" class="invalid-feedback ">
         Descrição é obrigatorio. 
       </div>
